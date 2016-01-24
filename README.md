@@ -32,3 +32,6 @@ To obtain Global 500 companies list please run the following. This will generate
 ```terminal
 python global500.py
 ```
+
+## Prepared data
+In this repository in [output folder](/output) you can find data that the scripts generate. It can be useful if you are looking only for data. 
