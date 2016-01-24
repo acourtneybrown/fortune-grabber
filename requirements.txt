@@ -1,0 +1,4 @@
+beautifulsoup4==4.4.1
+itsdangerous==0.24
+unicodecsv==0.14.1
+virtualenv==13.1.2
