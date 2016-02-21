@@ -59,7 +59,7 @@ def grab():
             company.revenues = item["tables"]["Key Financials (last fiscal year)"]["data"]["Revenues ($M)"][0]
             company.profits = item["tables"]["Key Financials (last fiscal year)"]["data"]["Profits ($M)"][0]
 
-            company.state_geo_code = "US-" + company.hq_location.split(", ")[1]
+            company.state_geo_code = company.hq_location.split(", ")[1]
 
             if item["featured_image"] != "":
                 company.img_url = item["featured_image"]["src"]
