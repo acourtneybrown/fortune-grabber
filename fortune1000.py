@@ -25,6 +25,7 @@ class Company:
     revenues = 0
     profits = 0
     img_url = ""
+    state_geo_code = ""
 
 # Fortune 1000 graber function
 def grab():
@@ -58,12 +59,16 @@ def grab():
             company.revenues = item["tables"]["Key Financials (last fiscal year)"]["data"]["Revenues ($M)"][0]
             company.profits = item["tables"]["Key Financials (last fiscal year)"]["data"]["Profits ($M)"][0]
 
+            company.state_geo_code = "US-" + company.hq_location.split(", ")[1]
+
             if item["featured_image"] != "":
                 company.img_url = item["featured_image"]["src"]
 
             # Parsing website link
             s = BeautifulSoup(item["tables"]["Company Info"]["data"]["Website"][0],"html.parser")
             company.website = s.a.get('href')
+
+            print company.rank + ". " + company.title
 
             companies.append(company)
 
@@ -78,13 +83,13 @@ f = open("output/fortune1000.csv", "wt")
 try:
     writer = unicodecsv.writer(f, encoding='utf-8')
     writer.writerow( ("Rank", "Title", "Ticker", "Industry", "Sector", "HQ Location", "Years on list", "CEO", "EPS",
-    "Employees", "Revenues", "Profits", "Image URL", "Website") )
+    "Employees", "Revenues", "Profits", "Image URL", "Website", "geoCode") )
 
     for company in companies:
 
         writer.writerow((company.rank, company.title, company.ticker, company.industry,
         company.sector, company.hq_location, company.years_on_list, company.ceo, company.eps, company.employees,
-        company.revenues, company.profits, company.img_url, company.website))
+        company.revenues, company.profits, company.img_url, company.website, company.state_geo_code))
 
 finally:
     f.close()
