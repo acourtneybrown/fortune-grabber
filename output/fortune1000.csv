@@ -1,0 +1,1001 @@
+ranking,full name,ticker,industry,sector,hq location,hq address,years on list,ceo,eps,employees,revenues,profits,hq zip,website,market value,global 500 rank,revenue change,profit change,hq state
+1,"Wal-Mart Stores, Inc.",WMT,General Merchandisers,Retailing,"Bentonville, AR",702 S.W. Eighth St.,23,C. Douglas McMillon,4.38,2300000,485873,13643,72716,http://www.walmart.com,218619,1,0.8,-7.2,AR
+2,Berkshire Hathaway Inc.,BRKA,Insurance: Property and Casualty (Stock),Financials,"Omaha, NE",3555 Farnam St.,23,Warren E. Buffett,14645,367700,223604,24074,68131,http://www.berkshirehathaway.com,411035,11,6.1,0,NE
+3,"Apple, Inc.",AAPL,"Computers, Office Equipment",Technology,"Cupertino, CA",1 Infinite Loop,23,Timothy D. Cook,8.31,116000,215639,45687,95014,http://www.apple.com,753718,9,-7.7,-14.4,CA
+4,Exxon Mobil Corporation,XOM,Petroleum Refining,Energy,"Irving, TX",5959 Las Colinas Blvd.,23,Darren W. Woods,1.88,72700,205004,7840,75039,http://www.exxonmobil.com,340056,6,-16.7,-51.5,TX
+5,McKesson Corporation,MCK,Wholesalers: Health Care,Wholesalers,"San Francisco, CA",1 Post St.,23,John H. Hammergren,9.7,68000,192487,2258,94104,http://www.mckesson.com,31439,12,6.2,53,CA
+6,UnitedHealth Group Incorporated,UNH,Health Care: Insurance and Managed Care,Health Care,"Minnetonka, MN",9900 Bren Rd. E.,23,Stephen J. Hemsley,7.25,230000,184840,7017,55343,http://www.unitedhealthgroup.com,157793,17,17.7,20.7,MN
+7,CVS Health Corporation,CVS,Health Care: Pharmacy and Other Services,Health Care,"Woonsocket, RI",1 CVS Dr.,23,Larry J. Merlo,4.9,204000,177526,5317,2895,http://www.cvshealth.com,81310,18,15.8,1.5,RI
+8,General Motors Company,GM,Motor Vehicles and Parts,Motor Vehicles & Parts,"Detroit, MI",300 Renaissance Center,23,Mary T. Barra,6,225000,166380,9427,48265,http://www.gm.com,52968,20,9.2,-2.7,MI
+9,AT&T Inc.,T,Telecommunications,Telecommunications,"Dallas, TX",208 S. Akard St.,23,Randall L. Stephenson,2.1,268540,163786,12976,75202,http://www.att.com,255679,23,11.6,-2.8,TX
+10,Ford Motor Company,F,Motor Vehicles and Parts,Motor Vehicles & Parts,"Dearborn, MI",1 American Rd.,23,James P. Hackett,1.15,201000,151800,4596,48126,http://www.ford.com,46349,21,1.5,-37.7,MI
+11,AmerisourceBergen Corp.,ABC,Wholesalers: Health Care,Wholesalers,"Chesterbrook, PA",1300 Morris Dr.,23,Steven H. Collis,6.32,18500,146850,1427.9,19087,http://www.amerisourcebergen.com,19229,28,8,,PA
+12,"Amazon.com, Inc.",AMZN,Internet Services and Retailing,Technology,"Seattle, WA",410 Terry Ave. N.,16,Jeffrey P. Bezos,4.9,341400,135987,2371,98109,http://www.amazon.com,423031,44,27.1,297.8,WA
+13,General Electric Company,GE,Industrial Machinery,Industrials,"Boston, MA",41 Farnsworth St.,23,John L. Flannery Jr.,0.89,295000,126661,8831,2210,http://www.ge.com,259520,26,-9.8,,MA
+14,Verizon Communications Inc.,VZ,Telecommunications,Telecommunications,"New York, NY",1095 Ave. of the Americas,23,Lowell C. McAdam,3.21,160900,125980,13127,10036,http://www.verizon.com,198900,30,-4.3,-26.6,NY
+15,"Cardinal Health, Inc.",CAH,Wholesalers: Health Care,Wholesalers,"Dublin, OH",7000 Cardinal Place,23,George S. Barrett,4.32,37300,121546,1427,43017,http://www.cardinalhealth.com,25725,50,18.5,17.4,OH
+16,Costco Wholesale Corporation,COST,General Merchandisers,Retailing,"Issaquah, WA",999 Lake Dr.,23,W. Craig Jelinek,5.33,172000,118719,2350,98027,http://www.costco.com,73606,38,2.2,-1.1,WA
+17,"Walgreens Boots Alliance, Inc",WBA,Food and Drug Stores,Food & Drug Stores,"Deerfield, IL",108 Wilmot Rd.,23,Stefano Pessina,3.82,300000,117351,4173,60015,http://www.walgreensbootsalliance.com,89645,47,13.4,-1.1,IL
+18,The Kroger Company,KR,Food and Drug Stores,Food & Drug Stores,"Cincinnati, OH",1014 Vine St.,23,W. Rodney McMullen,2.05,443000,115337,1975,45202,http://www.thekrogerco.com,26961,42,5,-3.1,OH
+19,Chevron Corporation,CVX,Petroleum Refining,Energy,"San Ramon, CA",6001 Bollinger Canyon Rd.,23,John S. Watson,-0.27,55200,107567,-497,94583,http://www.chevron.com,203263,31,-18,-110.8,CA
+20,Fannie Mae,FNMA,Diversified Financials,Financials,"Washington, DC",3900 Wisconsin Ave. N.W.,20,Timothy J. Mayopoulos,0.01,7000,107162,12313,20016,http://www.fanniemae.com,3011,40,-2.9,12.4,DC
+21,JPMorgan Chase & Co.,JPM,Commercial Banks,Financials,"New York, NY",270 Park Ave.,23,James Dimon,6.19,243355,105486,24733,10017,http://www.jpmorganchase.com,313761,55,4.4,1.2,NY
+22,Express Scripts Holding Company,ESRX,Health Care: Pharmacy and Other Services,Health Care,"St. Louis, MO",1 Express Way,18,Timothy C. Wentworth,5.39,25600,100288,3404.4,63121,http://www.express-scripts.com,39567,52,-1.4,37.5,MO
+23,"The Home Depot, Inc.",HD,Specialty Retailers: Other,Retailing,"Atlanta, GA",2455 Paces Ferry Rd.,23,Craig A. Menear,6.45,406000,94595,7957,30339,http://www.homedepot.com,176368,69,6.9,13.5,GA
+24,The Boeing Company,BA,Aerospace and Defense,Aerospace & Defense,"Chicago, IL",100 N. Riverside Plaza,23,Dennis A. Muilenburg,7.61,150540,94571,4895,60606,http://www.boeing.com,107546,61,-1.6,-5.4,IL
+25,Wells Fargo & Company,WFC,Commercial Banks,Financials,"San Francisco, CA",420 Montgomery St.,23,Timothy J. Sloan,3.99,269100,94176,21938,94163,http://www.wellsfargo.com,278516,67,4.6,-4.2,CA
+26,Bank of America Corporation,BAC,Commercial Banks,Financials,"Charlotte, NC",100 N. Tryon St.,23,Brian T. Moynihan,1.5,208024,93662,17906,28255,http://www.bankofamerica.com,236182,64,0.7,12.7,NC
+27,Alphabet Inc.,GOOGL,Internet Services and Retailing,Technology,"Mountain View, CA",1600 Amphitheatre Pkwy.,12,Larry Page,27.85,72053,90272,19478,94043,http://www.abc.xyz,579426,94,20.4,19.1,CA
+28,Microsoft Corporation,MSFT,Computer Software,Technology,"Redmond, WA",1 Microsoft Way,23,Satya Nadella,2.1,114000,85320,16798,98052,http://www.microsoft.com,508935,63,-8.8,37.8,WA
+29,"Anthem, Inc.",ANTM,Health Care: Insurance and Managed Care,Health Care,"Indianapolis, IN",120 Monument Circle,23,Joseph R. Swedish,9.21,53000,84863,2469.8,46204,http://www.antheminc.com,43813,85,7.2,-3.5,IN
+30,Citigroup Inc.,C,Commercial Banks,Financials,"New York, NY",388 Greenwich St.,23,Michael L. Corbat,4.72,219000,82386,14912,10013,http://www.citigroup.com,165394,70,-6.7,-13.5,NY
+31,Comcast Corporation,CMCSA,Telecommunications,Telecommunications,"Philadelphia, PA",1 Comcast Center,22,Brian L. Roberts,1.79,159000,80403,8695,19103,http://www.comcastcorporation.com,178258,96,7.9,6.5,PA
+32,International Business Machines Corporation,IBM,Information Technology Services,Technology,"Armonk, NY",1 New Orchard Rd.,23,Virginia M. Rometty,12.38,414400,79919,11872,10504,http://www.ibm.com,164251,82,-3.1,-10,NY
+33,State Farm Insurance Cos.,,Insurance: Property and Casualty (Mutual),Financials,"Bloomington, IL",1 State Farm Plaza,23,Michael L. Tipsord,,68234,76132,350.3,61710,http://www.statefarm.com,,93,0.6,-94.4,IL
+34,Phillips 66,PSX,Petroleum Refining,Energy,"Houston, TX",2331 CityWest Blvd.,5,Greg C. Garland,2.92,14800,72396,1555,77042,http://www.phillips66.com,40954,74,-16.9,-63.2,TX
+35,Johnson & Johnson,JNJ,Pharmaceuticals,Health Care,"New Brunswick, NJ",1 Johnson & Johnson Plaza,23,Alex Gorsky,5.93,126400,71890,16540,8933,http://www.jnj.com,337642,103,2.6,7.3,NJ
+36,The Procter & Gamble Company,PG,Household and Personal Products,Household Products,"Cincinnati, OH",1 Procter & Gamble Plaza,23,David S. Taylor,3.69,105000,71726,10508,45202,http://www.pg.com,229700,86,-8.9,49.3,OH
+37,Valero Energy Corporation,VLO,Petroleum Refining,Energy,"San Antonio, TX",1 Valero Way,19,Joseph W. Gorder,4.94,9996,70166,2289,78249,http://www.valero.com,29746,83,-14.2,-42.6,TX
+38,Target Corporation,TGT,General Merchandisers,Retailing,"Minneapolis, MN",1000 Nicollet Mall,23,Brian C. Cornell,4.7,323000,69495,2737,55403,http://www.target.com,30502,97,-5.8,-18.6,MN
+39,Freddie Mac,FMCC,Diversified Financials,Financials,"McLean, VA",8200 Jones Branch Dr.,20,Donald H. Layton,0.03,5982,65665,7815,22102,http://www.freddiemac.com,1612,124,3.4,22.6,VA
+40,"Lowe's Companies, Inc.",LOW,Specialty Retailers: Other,Retailing,"Mooresville, NC",1000 Lowe's Blvd.,23,Robert A. Niblock,3.47,240000,65017,3093,28117,http://www.lowes.com,70481,148,10.1,21.5,NC
+41,Dell Technologies Inc.,,"Computers, Office Equipment",Technology,"Round Rock, TX",1 Dell Way,20,Michael S. Dell,,138000,64806,-1672,78682,http://www.delltechnologies.com,,,18.1,,TX
+42,"MetLife, Inc.",MET,"Insurance: Life, Health (Stock)",Financials,"New York, NY",200 Park Ave.,23,Steven A. Kandarian,0.63,58000,63476,800,10166,http://www.metlife.com,57429,104,-9.3,-84.9,NY
+43,Aetna Inc.,AET,Health Care: Insurance and Managed Care,Health Care,"Hartford, CT",151 Farmington Ave.,17,Mark T. Bertolini,6.41,49500,63155,2271,6156,http://www.aetna.com,44859,142,4.7,-5,CT
+44,"PepsiCo, Inc.",PEP,Food Consumer Products,"Food, Beverages & Tobacco","Purchase, NY",700 Anderson Hill Rd.,23,Indra K. Nooyi,4.36,264000,62799,6329,10577,http://www.pepsico.com,159763,127,-0.4,16.1,NY
+45,Archer-Daniels-Midland Company,ADM,Food Production,"Food, Beverages & Tobacco","Chicago, IL",77 W. Wacker Dr.,23,Juan R. Luciano,2.16,31800,62346,1279,60601,http://www.adm.com,26274,112,-7.9,-30.8,IL
+46,"United Parcel Service, Inc.",UPS,"Mail, Package, and Freight Delivery",Transportation,"Atlanta, GA",55 Glenlake Pkwy. N.E.,23,David P. Abney,3.87,335520,60906,3431,30328,http://www.ups.com,93276,149,4.4,-29.2,GA
+47,Intel Corporation,INTC,Semiconductors and Other Electronic Components,Technology,"Santa Clara, CA",2200 Mission College Blvd.,23,Brian M. Krzanich,2.12,106000,59387,10316,95054,http://www.intel.com,170539,158,7.3,-9.7,CA
+48,"Prudential Financial, Inc.",PRU,"Insurance: Life, Health (Stock)",Financials,"Newark, NJ",751 Broad St.,23,John R. Strangfeld,9.71,49739,58779,4368,7102,http://www.prudential.com,45912,152,2.9,-22.6,NJ
+49,"Albertsons Companies, Inc.",,Food and Drug Stores,Food & Drug Stores,"Boise, ID",250 Parkcenter Blvd.,13,Robert G. Miller,,274000,58734,-502.2,83706,http://www.albertsons.com,,,115.9,,ID
+50,United Technologies Corporation,UTX,Aerospace and Defense,Aerospace & Defense,"Farmington, CT",10 Farm Springs Rd.,23,Gregory J. Hayes,6.12,201600,57244,5055,6032,http://www.utc.com,89957,136,-6.2,-33.6,CT
+51,Marathon Petroleum Corporation,MPC,Petroleum Refining,Energy,"Findlay, OH",539 S. Main St.,6,Gary R. Heminger,2.21,44460,55858,1174,45840,http://www.marathonpetroleum.com%20,26679,120,-13.5,-58.8,OH
+52,The Walt Disney Company,DIS,Entertainment,Media,"Burbank, CA",500 S. Buena Vista St.,23,Robert A. Iger,5.73,195000,55632,9391,91521,http://www.disney.com,179298,164,6,12,CA
+53,Humana Inc.,HUM,Health Care: Insurance and Managed Care,Health Care,"Louisville, KY",500 W. Main St.,23,Bruce D. Broussard,4.07,51600,54379,614,40202,http://www.humana.com,29743,162,0.2,-51.9,KY
+54,Pfizer Inc.,PFE,Pharmaceuticals,Health Care,"New York, NY",235 E. 42nd St.,23,Ian C. Read,1.17,96500,52824,7215,10017,http://www.pfizer.com,203725,186,8.1,3.7,NY
+55,"American International Group, Inc.",AIG,Insurance: Property and Casualty (Stock),Financials,"New York, NY",175 Water St.,23,Brian Duperreault,-0.78,56400,52367,-849,10038,http://www.aig.com,61154,150,-10.2,-138.7,NY
+56,Lockheed Martin Corporation,LMT,Aerospace and Defense,Aerospace & Defense,"Bethesda, MD",6801 Rockledge Dr.,23,Marillyn A. Hewson,17.49,97000,50658,5302,20817,http://www.lockheedmartin.com,77557,197,9.8,47.1,MD
+57,Sysco Corporation,SYY,Wholesalers: Food and Grocery,Wholesalers,"Houston, TX",1390 Enclave Pkwy.,23,William J. DeLaney III,1.64,51900,50367,949.6,77077,http://www.sysco.com,28048,188,3.5,38.3,TX
+58,FedEx Corporation,FDX,"Mail, Package, and Freight Delivery",Transportation,"Memphis, TN",942 S. Shady Grove Rd.,23,Frederick W. Smith,6.51,335767,50365,1820,38120,http://www.fedex.com,52178,192,6.1,73.3,TN
+59,Hewlett Packard Enterprise Company,HPE,Information Technology Services,Technology,"Palo Alto, CA",3000 Hanover St.,1,Margaret C. Whitman,1.82,195000,50123,3161,94304,http://www.hpe.com,39288,,,,CA
+60,"Cisco Systems, Inc.",CSCO,Network and Other Communications Equipment,Technology,"San Jose, CA",170 W. Tasman Dr.,21,Charles H. Robbins,2.11,73700,49247,10739,95134,http://www.cisco.com,169266,183,0.2,19.6,CA
+61,HP Inc.,HPQ,"Computers, Office Equipment",Technology,"Palo Alto, CA",1501 Page Mill Rd.,23,Dion J. Weisler,1.43,49000,48238,2496,94304,http://www.hp.com,30231,48,-53.3,-45.2,CA
+62,The Dow Chemical Company,DOW,Chemicals,Chemicals,"Midland, MI",2030 Dow Center,23,Andrew N. Liveris,3.52,56000,48158,4318,48674,http://www.dow.com,77460,187,-1.3,-43.8,MI
+63,"HCA Holdings, Inc.",HCA,Health Care: Medical Facilities,Health Care,"Nashville, TN",1 Park Plaza,23,R. Milton Johnson,7.3,210500,44747,2890,37203,http://www.hcahealthcare.com,32966,212,2.7,35.7,TN
+64,The Coca-Cola Company,KO,Beverages,"Food, Beverages & Tobacco","Atlanta, GA",1 Coca-Cola Plaza,23,James B. Quincey,1.49,100300,41863,6527,30313,http://www.coca-colacompany.com,182153,206,-5.5,-11.2,GA
+65,New York Life Insurance Company,,"Insurance: Life, Health (Mutual)",Financials,"New York, NY",51 Madison Ave.,23,Theodore A. Mathas,,11320,40787,1088.1,10010,http://www.newyorklife.com,,198,-11.1,324.1,NY
+66,Centene Corporation,CNC,Health Care: Insurance and Managed Care,Health Care,"St. Louis, MO",7700 Forsyth Blvd.,8,Michael F. Neidorff,3.43,30500,40721,562,63105,http://www.centene.com,12271,470,78.6,58.3,MO
+67,American Airlines Group Inc.,AAL,Airlines,Transportation,"Fort Worth, TX",4333 Amon Carter Blvd.,23,W. Douglas Parker,4.81,122300,40180,2676,76155,http://www.aa.com,21326,236,-2,-64.8,TX
+68,Nationwide Mutual Insurance Co.,,Insurance: Property and Casualty (Mutual),Financials,"Columbus, OH",1 Nationwide Blvd.,23,Stephen S. Rasmussen,,34320,40074,334.3,43215,http://www.nationwide.com,,241,-0.4,-42.4,OH
+69,"Merck & Co., Inc.",MRK,Pharmaceuticals,Health Care,"Kenilworth, NJ",2000 Galloping Hill Rd.,23,Kenneth C. Frazier,1.41,68000,39807,3920,7033,http://www.merck.com,174454,246,0.8,-11.8,NJ
+70,CIGNA Corporation,CI,Health Care: Insurance and Managed Care,Health Care,"Bloomfield, CT",900 Cottage Grove Rd.,23,David M. Cordani,7.19,41000,39668,1867,6002,http://www.cigna.com,37604,264,4.7,-10.8,CT
+71,"Delta Air Lines, Inc.",DAL,Airlines,Transportation,"Atlanta, GA",1030 Delta Blvd.,23,Edward H. Bastian,5.79,83756,39639,4373,30354,http://www.delta.com,33586,239,-2.6,-3.4,GA
+72,"Best Buy Co., Inc.",BBY,Specialty Retailers: Other,Retailing,"Richfield, MN",7601 Penn Ave. S.,23,Hubert B. Joly,3.81,125000,39403,1228,55423,http://www.bestbuy.com,15193,244,-0.9,36.9,MN
+73,Honeywell International Inc.,HON,"Electronics, Electrical Equipment",Industrials,"Morris Plains, NJ",115 Tabor Rd.,23,Darius Adamczyk,6.2,131000,39302,4809,7950,http://www.honeywell.com,94991,256,1.9,0.9,NJ
+74,Caterpillar Inc.,CAT,Construction and Farm Machinery,Industrials,"Peoria, IL",100 N.E. Adams St.,23,D. James Umpleby III,-0.11,95400,38537,-67,61629,http://www.caterpillar.com,54402,194,-18,-103.2,IL
+75,Liberty Mutual Holding Company Inc.,,Insurance: Property and Casualty (Stock),Financials,"Boston, MA",175 Berkeley St.,23,David H. Long,,50000,38308,1006,2116,http://www.libertymutual.com,,249,-2.9,95.7,MA
+76,Morgan Stanley,MS,Commercial Banks,Financials,"New York, NY",1585 Broadway,23,James P. Gorman,2.92,55311,37949,5979,10036,http://www.morganstanley.com,79947,263,0.1,-2.4,NY
+77,Massachusetts Mutual Life Insurance Company,,"Insurance: Life, Health (Mutual)",Financials,"Springfield, MA",1295 State St.,23,Roger W. Crandall,,11737,37788,1273.5,1111,http://www.massmutual.com,,258,-1.2,-10.6,MA
+78,"The Goldman Sachs Group, Inc.",GS,Commercial Banks,Financials,"New York, NY",200 West St.,18,Lloyd C. Blankfein,16.29,34400,37712,7398,10282,http://www.gs.com,91380,252,-3.8,21.6,NY
+79,"Energy Transfer Equity, L.P.",ETE,Pipelines,Energy,"Dallas, TX",8111 Westchester Dr.,11,John W. McReynolds,0.92,30992,37504,995,75225,http://www.energytransfer.com,21292,225,-11,-16.3,TX
+80,Teachers Insurance and Annuity Association,,"Insurance: Life, Health (Mutual)",Financials,"New York, NY",730 Third Ave.,20,Roger W. Ferguson Jr.,,12997,37105,1492.3,10017,http://www.tiaa.org,,291,5.5,22.9,NY
+81,Oracle Corporation,ORCL,Computer Software,Technology,"Redwood City, CA",500 Oracle Pkwy.,22,"Safra A. Catz, Mark V. Hurd",2.07,136000,37047,8901,94065,http://www.oracle.com,183556,260,-3.1,-10.4,CA
+82,"Tyson Foods, Inc.",TSN,Food Production,"Food, Beverages & Tobacco","Springdale, AR",2200 W. Don Tyson Pkwy.,23,Thomas P. Hayes,4.53,114000,36881,1768,72762,http://www.tysonfoods.com,22028,235,-10.9,44.9,AR
+83,"United Continental Holdings, Inc.",UAL,Airlines,Transportation,"Chicago, IL",233 S. Wacker Dr.,23,Oscar Munoz,6.85,88000,36556,2263,60606,http://www.unitedcontinentalholdings.com,22225,265,-3.5,-69.2,IL
+84,The Allstate Corporation,ALL,Insurance: Property and Casualty (Stock),Financials,"Northbrook, IL",2775 Sanders Rd.,22,Thomas J. Wilson,4.67,43275,36534,1877,60062,http://www.allstate.com,29754,283,2.5,-13.5,IL
+85,"Publix Super Markets, Inc.",,Food and Drug Stores,Food & Drug Stores,"Lakeland, FL",3300 Publix Corporate Pkwy.,23,Randall T. Jones Sr.,2.63,191000,34274,2025.7,33811,http://www.publix.com,,317,5.1,3.1,FL
+86,American Express Company,AXP,Diversified Financials,Financials,"New York, NY",200 Vesey St.,23,Kenneth I. Chenault,5.65,56400,33823,5408,10285,http://www.americanexpress.com,71193,302,-1.8,4.7,NY
+87,"The TJX Companies, Inc.",TJX,Specialty Retailers: Apparel,Retailing,"Framingham, MA",770 Cochituate Rd.,23,Ernie L. Herrman,3.46,235000,33184,2298.2,1701,http://www.tjx.com,51053,338,7.2,0.9,MA
+88,"Nike, Inc.",NKE,Apparel,Apparel,"Beaverton, OR",1 Bowerman Dr.,23,Mark G. Parker,2.16,70700,32376,3760,97005,http://www.nike.com,92204,343,5.8,14.9,OR
+89,Exelon Corporation,EXC,Utilities: Gas and Electric,Energy,"Chicago, IL",10 S. Dearborn St.,23,Christopher M. Crane,1.22,34396,31360,1134,60603,http://www.exeloncorp.com,33309,355,6.5,-50,IL
+90,General Dynamics Corporation,GD,Aerospace and Defense,Aerospace & Defense,"Falls Church, VA",2941 Fairview Park Dr.,23,Phebe N. Novakovic,9.52,98800,31353,2955,22042,http://www.generaldynamics.com,56791,330,-0.4,-0.3,VA
+91,Rite Aid Corporation,RAD,Food and Drug Stores,Food & Drug Stores,"Camp Hill, PA",30 Hunter Lane,23,John T. Standley,0.16,70580,30737,165.5,17011,http://www.riteaid.com,4473,340,15.9,-92.2,PA
+92,"Gilead Sciences, Inc.",GILD,Pharmaceuticals,Health Care,"Foster City, CA",333 Lakeside Dr.,9,John F. Milligan,9.94,9000,30390,13501,94404,http://www.gilead.com,88788,316,-6.9,-25.4,CA
+93,CHS Inc.,,Food Production,"Food, Beverages & Tobacco","Inver Grove Heights, MN",5500 Cenex Dr.,18,Jay D. Debertin,,12157,30347,424.2,55077,http://www.chsinc.com,,299,-12.2,-45.7,MN
+94,3M Company,MMM,Miscellaneous,Industrials,"St. Paul, MN",3M Center,23,Inge G. Thulin,8.16,91584,30109,5050,55144,http://www.3m.com,114338,348,-0.5,4.5,MN
+95,Time Warner Inc.,TWX,Entertainment,Media,"New York, NY",1 Time Warner Center,18,Jeffrey L. Bewkes,4.96,25000,29318,3926,10019,http://www.timewarner.com,75660,376,4.3,2.4,NY
+96,"Charter Communications, Inc.",CHTR,Telecommunications,Telecommunications,"Stamford, CT",400 Atlantic St.,17,Thomas M. Rutledge,15.94,91500,29003,3522,6901,http://www.charter.com,100595,,197.3,,CT
+97,"Northwestern Mutual Life Insurance Company, Inc.",,"Insurance: Life, Health (Mutual)",Financials,"Milwaukee, WI",720 E. Wisconsin Ave.,23,John E. Schlifske,,5646,28799,818,53202,http://www.northwesternmutual.com,,377,2.4,0.4,WI
+98,"Facebook, Inc.",FB,Internet Services and Retailing,Technology,"Menlo Park, CA",1601 Willow Rd.,5,Mark Zuckerberg,3.49,17048,27638,10217,94025,http://www.facebook.com,410522,,54.2,177,CA
+99,"The Travelers Companies, Inc.",TRV,Insurance: Property and Casualty (Stock),Financials,"New York, NY",485 Lexington Ave.,23,Alan D. Schnitzer,10.28,30900,27625,3014,10017,http://www.travelers.com,33689,397,3.1,-12.4,NY
+100,Capital One Financial Corporation,COF,Commercial Banks,Financials,"McLean, VA",1680 Capital One Dr.,18,Richard D. Fairbank,6.89,47300,27519,3751,22102,http://www.capitalone.com,41831,430,9.6,-7.4,VA
+101,"Twenty-First Century Fox, Inc.",FOXA,Entertainment,Media,"New York, NY",1211 Ave. of the Americas,13,James R. Murdoch,1.42,21500,27326,2755,10036,http://www.21cf.com,59949,360,-5.7,-66.8,NY
+102,United Services Automobile Association,,Insurance: Property and Casualty (Stock),Financials,"San Antonio, TX",9800 Fredericksburg Rd.,23,Stuart Parker,,29943,27131,1779.1,78288,http://www.usaa.com,,444,11.4,-21.7,TX
+103,World Fuel Services Corporation,INT,Energy,Energy,"Miami, FL",9800 N.W. 41st St.,13,Michael J. Kasbar,1.81,5000,27016,126.5,33178,http://www.wfscorp.com,2535,346,-11.1,-27.5,FL
+104,Philip Morris International Inc.,PM,Tobacco,"Food, Beverages & Tobacco","New York, NY",120 Park Ave.,9,Andre Calantzopoulos,4.48,79500,26685,6967,10017,http://www.pmi.com,175349,398,-0.4,1.4,NY
+105,Deere & Company,DE,Construction and Farm Machinery,Industrials,"Moline, IL",1 John Deere Place,23,Samuel R. Allen,4.81,56767,26644,1523.9,61265,http://www.johndeere.com,34648,364,-7.7,-21.4,IL
+106,The Kraft Heinz Company,KHC,Food Consumer Products,"Food, Beverages & Tobacco","Pittsburgh, PA",1 PPG Place,23,Bernardo Hees,2.81,41000,26487,3632,15222,http://www.kraftheinzcompany.com,110528,,44.4,472.9,PA
+107,Tech Data Corporation,TECD,Wholesalers: Electronics and Office Equipment,Wholesalers,"Clearwater, FL",5350 Tech Data Dr.,23,Robert M. Dutkowsky,5.51,9500,26235,195.1,33760,http://www.techdata.com,3569,409,-0.5,-26.6,FL
+108,"Avnet, Inc.",AVT,Wholesalers: Electronics and Office Equipment,Wholesalers,"Phoenix, AZ",2211 S. 47th St.,23,William J. Amelio,3.8,17700,26219,506.5,85034,http://www.avnet.com,5898,380,-6.1,-11.4,AZ
+109,"Mondelez International, Inc.",MDLZ,Food Consumer Products,"Food, Beverages & Tobacco","Deerfield, IL",3 Pkwy. N.,10,Irene B. Rosenfeld,1.05,90000,25923,1659,60015,http://www.mondelezinternational.com,65676,352,-12.5,-77.2,IL
+110,"Macy's, Inc.",M,General Merchandisers,Retailing,"Cincinnati, OH",7 W. Seventh St.,23,Jeffrey Gennette,1.99,148300,25778,619,45202,http://www.macysinc.com,9046,389,-4.8,-42.3,OH
+111,AbbVie Inc.,ABBV,Pharmaceuticals,Health Care,"North Chicago, IL",1 N. Waukegan Rd.,4,Richard A. Gonzalez,3.63,30000,25638,5953,60064,http://www.abbvie.com,103838,469,12.2,15.7,IL
+112,McDonald's Corporation,MCD,Food Services,"Hotels, Restaurants & Leisure","Oak Brook, IL",1 McDonald's Plaza,23,Stephen J. Easterbrook,5.44,375000,24622,4686.5,60523,http://www.aboutmcdonalds.com,106150,420,-3.1,3.5,IL
+113,E.I. du Pont de Nemours and Company,DD,Chemicals,Chemicals,"Wilmington, DE",974 Centre Rd.,23,Edward D. Breen,2.85,46000,24594,2513,19805,http://www.dupont.com,69451,379,-12,28.7,DE
+114,Northrop Grumman Corporation,NOC,Aerospace and Defense,Aerospace & Defense,"Falls Church, VA",2980 Fairview Park Dr.,23,Wesley G. Bush,12.19,67000,24508,2200,22042,http://www.northropgrumman.com,41577,450,4.2,10.6,VA
+115,ConocoPhillips,COP,"Mining, Crude-Oil Production",Energy,"Houston, TX",600 N. Dairy Ashford Rd.,23,Ryan M. Lance,-2.91,13300,24360,-3615,77079,http://www.conocophillips.com,61692,339,-21.3,,TX
+116,Raytheon Company,RTN,Aerospace and Defense,Aerospace & Defense,"Waltham, MA",870 Winter St.,23,Thomas A. Kennedy,7.44,63000,24069,2211,2451,http://www.raytheon.com,44664,457,3.5,6.6,MA
+117,Andeavor Corporation,ANDV,Petroleum Refining,Energy,"San Antonio, TX",19100 Ridgewood Pkwy.,18,Gregory J. Goff,6.12,6308,24005,734,78259,http://www.andeavor.com,9515,375,-14.7,-52.3,TX
+118,"Arrow Electronics, Inc",ARW,Wholesalers: Electronics and Office Equipment,Wholesalers,"Centennial, CO",9201 E. Dry Creek Rd.,23,Michael J. Long,5.68,18700,23825,522.8,80112,http://www.arrow.com,6546,455,2.3,5,CO
+119,Qualcomm Incorporated,QCOM,Semiconductors and Other Electronic Components,Technology,"San Diego, CA",5775 Morehouse Dr.,18,Steven M. Mollenkopf,3.81,30500,23554,5705,92121,http://www.qualcomm.com,84694,422,-6.8,8.2,CA
+120,The Progressive Corporation,PGR,Insurance: Property and Casualty (Stock),Financials,"Mayfield Village, OH",6300 Wilson Mills Rd.,23,Susan Patricia Griffith,1.76,31721,23441,1031,44143,http://www.progressive.com,22760,,12.4,-18.7,OH
+121,Duke Energy Corporation,DUK,Utilities: Gas and Electric,Energy,"Charlotte, NC",550 S. Tryon St.,23,Lynn J. Good,3.11,28798,23369,2152,28202,http://www.duke-energy.com,57397,446,-1,-23.6,NC
+122,Enterprise Products Partners L.P.,EPD,Pipelines,Energy,"Houston, TX",1100 Louisiana St.,12,A. James Teague,1.2,6800,23022,2513.1,77002,http://www.enterpriseproducts.com,58522,392,-14.8,-0.3,TX
+123,Amgen Inc.,AMGN,Pharmaceuticals,Health Care,"Thousand Oaks, CA",1 Amgen Center Dr.,18,Robert A. Bradway,10.24,19200,22991,7722,91320,http://www.amgen.com,120830,487,6.1,11.3,CA
+124,US Foods Holding Corp.,USFD,Wholesalers: Food and Grocery,Wholesalers,"Rosemont, IL",9399 W. Higgins Rd.,6,Pietro Satriano,1.03,25000,22919,209.8,60018,http://www.usfoods.com,6207,461,-0.9,25.2,IL
+125,U.S. Bancorp,USB,Commercial Banks,Financials,"Minneapolis, MN",800 Nicollet Mall,19,Andrew J. Cecere,3.24,71191,22744,5888,55402,http://www.usbank.com,87201,490,5.8,0.2,MN
+126,Aflac Incorporated,AFL,"Insurance: Life, Health (Stock)",Financials,"Columbus, GA",1932 Wynnton Rd.,23,Daniel P. Amos,6.42,10212,22559,2659,31999,http://www.aflac.com,29053,,8.1,5,GA
+127,Sears Holdings Corporation,SHLD,General Merchandisers,Retailing,"Hoffman Estates, IL",3333 Beverly Rd.,23,Edward S. Lampert,-20.78,140000,22138,-2221,60179,http://www.searsholdings.com,1231,425,-12,,IL
+128,Dollar General Corporation,DG,Specialty Retailers: Other,Retailing,"Goodlettsville, TN",100 Mission Ridge,19,Todd J. Vasos,4.43,121000,21987,1251.1,37072,http://www.dollargeneral.com,19182,,7.9,7.4,TN
+129,"AutoNation, Inc.",AN,"Automotive Retailing, Services",Retailing,"Fort Lauderdale, FL",200 S.W. First Ave.,20,Michael J. Jackson,4.15,26000,21609,430.5,33301,http://www.autonation.com,4268,,3.6,-2.7,FL
+130,"Community Health Systems, Inc.",CYH,Health Care: Medical Facilities,Health Care,"Franklin, TN",4000 Meridian Blvd.,11,Wayne T. Smith,-15.54,108000,21374,-1721,37067,http://www.chs.net,1010,475,-5.8,-1189.2,TN
+131,Starbucks Corporation,SBUX,Food Services,"Hotels, Restaurants & Leisure","Seattle, WA",2401 Utah Ave. S.,15,Keven R. Johnson,1.9,254000,21316,2817.7,98134,http://www.starbucks.com,85092,,11.2,2.2,WA
+132,Eli Lilly and Company,LLY,Pharmaceuticals,Health Care,"Indianapolis, IN",Lilly Corporate Center,23,David A. Ricks,2.58,41975,21222,2737.6,46285,http://www.lilly.com,92803,,6.3,13.7,IN
+133,International Paper Company,IP,"Packaging, Containers",Materials,"Memphis, TN",6400 Poplar Ave.,23,Mark S. Sutton,2.18,55000,21079,904,38197,http://www.internationalpaper.com,20884,479,-5.8,-3.6,TN
+134,Tenet Healthcare Corporation,THC,Health Care: Medical Facilities,Health Care,"Dallas, TX",1445 Ross Ave.,23,Trevor Fetter,-1.93,116475,21070,-192,75202,http://www.tenethealth.com,1777,,4.8,,TX
+135,Abbott Laboratories,ABT,Medical Products and Equipment,Health Care,"Abbott Park, IL",100 Abbott Park Rd.,23,Miles D. White,0.94,75000,20853,1400,60064,http://www.abbott.com,76740,,0.9,-68.3,IL
+136,"Dollar Tree, Inc.",DLTR,Specialty Retailers: Other,Retailing,"Chesapeake, VA",500 Volvo Pkwy.,9,Bob Sasser,3.78,116050,20719,896.2,23320,http://www.dollartree.com,18540,,33.7,217.4,VA
+137,Whirlpool Corporation,WHR,"Electronics, Electrical Equipment",Industrials,"Benton Harbor, MI",2000 North M-63,23,Jeff M. Fettig,11.5,93000,20718,888,49022,http://www.whirlpoolcorp.com,12762,,-0.8,13.4,MI
+138,Southwest Airlines Co.,LUV,Airlines,Transportation,"Dallas, TX",2702 Love Field Dr.,23,Gary C. Kelly,3.55,53536,20425,2244,75235,http://www.southwest.com,33076,,3.1,2.9,TX
+139,Emerson Electric Co.,EMR,"Electronics, Electrical Equipment",Industrials,"St. Louis, MO",8000 W. Florissant Ave.,23,David N. Farr,2.52,103500,20268,1635,63136,http://www.emerson.com,38614,480,-9.1,-39.7,MO
+140,"Staples, Inc.",SPLS,Specialty Retailers: Other,Retailing,"Framingham, MA",500 Staples Dr.,22,Shira D. Goodman,-2.31,61503,20217,-1497,1702,http://www.staples.com,5723,497,-4,-494.8,MA
+141,"Plains GP Holdings, L.P.",PAGP,Pipelines,Energy,"Houston, TX",333 Clay St.,4,Greg L. Armstrong,0.94,5100,20182,94,77002,http://www.plainsallamerican.com,9127,460,-12.8,-20.3,TX
+142,"Penske Automotive Group, Inc.",PAG,"Automotive Retailing, Services",Retailing,"Bloomfield Hills, MI",2555 Telegraph Rd.,19,Roger S. Penske,3.99,24000,20143,342.9,48302,http://www.penskeautomotive.com,4001,,4,5.2,MI
+143,Union Pacific Corporation,UNP,Railroads,Transportation,"Omaha, NE",1400 Douglas St.,23,Lance M. Fritz,5.07,42919,19941,4233,68179,http://www.up.com,85911,485,-8.6,-11.3,NE
+144,Danaher Corporation,DHR,"Scientific, Photographic and Control Equipment",Technology,"Washington, DC",2200 Pennsylvania Ave. N.W.,19,Thomas P. Joyce Jr.,3.65,62000,19912,2553.7,20037,http://www.danaher.com,59359,,-4.8,-23.9,DC
+145,The Southern Company,SO,Utilities: Gas and Electric,Energy,"Atlanta, GA",30 Ivan Allen Jr. Blvd. N.W.,23,Thomas A. Fanning,2.55,32015,19896,2448,30308,http://www.southerncompany.com,49335,,13.8,3.4,GA
+146,ManpowerGroup Inc.,MAN,Temporary Help,Business Services,"Milwaukee, WI",100 Manpower Place,23,Jonas Prising,6.27,28000,19654,443.7,53212,http://www.manpowergroup.com,6938,,1.7,5.8,WI
+147,Bristol-Myers Squibb Company,BMY,Pharmaceuticals,Health Care,"New York, NY",345 Park Ave.,23,Giovanni Caforio,2.65,25000,19427,4457,10154,http://www.bms.com,89591,,17.3,184.8,NY
+148,"Altria Group, Inc.",MO,Tobacco,"Food, Beverages & Tobacco","Richmond, VA",6601 W. Broad St.,23,Martin J. Barrington,7.28,8300,19337,14239,23230,http://www.altria.com,138513,,2.6,171.7,VA
+149,Fluor Corporation,FLR,"Engineering, Construction",Engineering & Construction,"Irving, TX",6700 Las Colinas Blvd.,16,David T. Seaton,2,61551,19037,281.4,75039,http://www.fluor.com,7353,,5.1,-31.8,TX
+150,Kohl's Corporation,KSS,General Merchandisers,Retailing,"Menomonee Falls, WI",N56 W17000 Ridgewood Dr.,20,Kevin Mansell,3.11,85000,18686,556,53051,http://www.kohls.com,6862,,-2.7,-17.4,WI
+151,Lear Corporation,LEA,Motor Vehicles and Parts,Motor Vehicles & Parts,"Southfield, MI",21557 Telegraph Rd.,23,Matthew J. Simoncini,13.33,148400,18558,975.1,48033,http://www.lear.com,9726,,1.9,30.8,MI
+152,"Jabil, Inc.",JBL,Semiconductors and Other Electronic Components,Technology,"St. Petersburg, FL",10560 Dr. Martin Luther King Jr. St. N.,16,Mark T. Mondello,1.32,138000,18353,254.1,33716,http://www.jabil.com,5270,,2.5,-10.5,FL
+153,"The Hartford Financial Services Group, Inc.",HIG,Insurance: Property and Casualty (Stock),Financials,"Hartford, CT",1 Hartford Plaza,22,Christopher J. Swift,2.27,16900,18300,896,6155,http://www.thehartford.com,17795,,-0.4,-46.7,CT
+154,Thermo Fisher Scientific Inc.,TMO,"Scientific, Photographic and Control Equipment",Technology,"Waltham, MA",168 Third Ave.,15,Marc N. Casper,5.09,54800,18274,2021.8,2451,http://www.thermofisher.com,59964,,7.7,2.3,MA
+155,Kimberly-Clark Corporation,KMB,Household and Personal Products,Household Products,"Irving, TX",351 Phelps Dr.,23,Thomas J. Falk,5.99,42000,18202,2166,75038,http://www.kimberly-clark.com,46828,,-2.1,113.8,TX
+156,"Molina Healthcare, Inc.",MOH,Health Care: Insurance and Managed Care,Health Care,"Long Beach, CA",200 Oceangate,6,Jospeh W. White,0.92,21000,17782,52,90802,http://www.molinahealthcare.com,2601,,25.4,-63.6,CA
+157,PG&E Corporation,PCG,Utilities: Gas and Electric,Energy,"San Francisco, CA",77 Beale St.,23,Geisha J. Williams,2.78,24000,17666,1393,94105,http://www.pgecorp.com,33696,,4.9,59.4,CA
+158,Supervalu Inc.,SVU,Food and Drug Stores,Food & Drug Stores,"Eden Prairie, MN",11840 Valley View Rd.,23,Mark Gross,0.66,38000,17529,178,55344,http://www.supervalu.com,1033,,-1.6,-7.3,MN
+159,Cummins Inc.,CMI,Industrial Machinery,Industrials,"Columbus, IN",500 Jackson St.,23,N. Thomas Linebarger,8.23,55400,17509,1394,47201,http://www.cummins.com,25397,,-8.4,-0.4,IN
+160,"CenturyLink, Inc.",CTL,Telecommunications,Telecommunications,"Monroe, LA",100 CenturyLink Dr.,8,Glen F. Post III,1.16,40000,17470,626,71203,http://www.centurylink.com,12883,,-2.4,-28.7,LA
+161,AECOM,ACM,"Engineering, Construction",Engineering & Construction,"Los Angeles, CA",1999 Ave. of the Stars,9,Michael S. Burke,0.62,87000,17411,96.1,90067,http://www.aecom.com,5528,,-3.2,,CA
+162,Xerox Corporation,XRX,Computer Peripherals,Technology,"Norwalk, CT",45 Glover Ave.,23,Jeffrey Jacobson,-0.49,133600,17126,-477,6850,http://www.xerox.com,7462,,-8.2,-200.6,CT
+163,"Marriott International, Inc.",MAR,"Hotels, Casinos, Resorts","Hotels, Restaurants & Leisure","Bethesda, MD",10400 Fernwood Rd.,19,Arne M. Sorenson,2.64,226500,17072,780,20817,http://www.marriott.com,36124,,17.9,-9.2,MD
+164,PACCAR Inc,PCAR,Construction and Farm Machinery,Industrials,"Bellevue, WA",777 106th Ave. N.E.,23,Ronald E. Armstrong,1.48,23000,17033,521.7,98004,http://www.paccar.com,23604,,-10.9,-67.5,WA
+165,"General Mills, Inc.",GIS,Food Consumer Products,"Food, Beverages & Tobacco","Minneapolis, MN",1 General Mills Blvd.,23,Jeffrey L. Harmening,2.77,39000,16563,1697.4,55426,http://www.generalmills.com,33998,,-6.1,39,MN
+166,"The PNC Financial Services Group, Inc.",PNC,Commercial Banks,Financials,"Pittsburgh, PA",300 Fifth Ave.,23,William S. Demchak,7.3,50683,16423,3903,15222,http://www.pnc.com,58455,,0.9,-4.9,PA
+167,"American Electric Power Company, Inc.",AEP,Utilities: Gas and Electric,Energy,"Columbus, OH",1 Riverside Plaza,23,Nicholas K. Akins,1.24,17634,16380,610.9,43215,http://www.aep.com,33009,,-3.1,-70.2,OH
+168,Icahn Enterprises L.P.,IEP,Diversified Financials,Financials,"New York, NY",767 Fifth Ave.,9,Keith Cozza,-8.07,90980,16348,-1128,10153,http://www.ielp.com,7989,,7,,NY
+169,Nucor Corporation,NUE,Metals,Materials,"Charlotte, NC",1915 Rexford Rd.,23,John J. Ferriola,2.48,23900,16208,796.3,28211,http://www.nucor.com,19051,,-1.4,122.6,NC
+170,"NextEra Energy, Inc.",NEE,Utilities: Gas and Electric,Energy,"Juno Beach, FL",700 Universe Blvd.,23,James L. Robo,6.25,14700,16155,2912,33408,http://www.nexteraenergy.com,60099,,-7.6,5.8,FL
+171,Performance Food Group Company,PFGC,Wholesalers: Food and Grocery,Wholesalers,"Richmond, VA",12500 W. Creek Pkwy.,9,George L. Holm,0.7,13000,16105,68.3,23238,http://www.pfgc.com,2464,,5.5,20.9,VA
+172,PBF Energy Inc.,PBF,Petroleum Refining,Energy,"Parsippany, NJ",1 Sylvan Way,5,Thomas J. Nimbley,1.74,3165,15920,170.8,7054,http://www.pbfenergy.com,2431,,21.3,16.7,NJ
+173,Halliburton Company,HAL,"Oil and Gas Equipment, Services",Energy,"Houston, TX",3000 N. Sam Houston Pkwy E.,23,Jeffrey A. Miller,-6.69,50000,15887,-5763,77032,http://www.halliburton.com,42662,449,-32.8,,TX
+174,"CarMax, Inc.",KMX,"Automotive Retailing, Services",Retailing,"Richmond, VA",12800 Tuckahoe Creek Pkwy.,14,William D. Nash,3.03,22429,15833,623.4,23238,http://www.carmax.com,11081,,6.4,4.4,VA
+175,Freeport-McMoRan Inc.,FCX,"Mining, Crude-Oil Production",Energy,"Phoenix, AZ",333 N. Central Ave.,12,Richard C. Adkerson,-3.16,30000,15789,-4154,85004,http://www.fcx.com,19310,,-0.6,,AZ
+176,"Whole Foods Market, Inc.",WFM,Food and Drug Stores,Food & Drug Stores,"Austin, TX",550 Bowie St.,13,John P. Mackey,1.55,73515,15724,507,78703,http://www.wholefoodsmarket.com,9468,,2.2,-5.4,TX
+177,The Bank of New York Mellon Corporation,BK,Commercial Banks,Financials,"New York, NY",225 Liberty St.,23,Charles W. Scharf,3.15,52000,15683,3547,10286,http://www.bnymellon.com,48913,,1,12.3,NY
+178,"The Gap, Inc.",GPS,Specialty Retailers: Apparel,Retailing,"San Francisco, CA",2 Folsom St.,23,Arthur L. Peck,1.69,135000,15516,676,94105,http://www.gapinc.com,9712,,-1.8,-26.5,CA
+179,Omnicom Group Inc.,OMC,"Advertising, Marketing",Business Services,"New York, NY",437 Madison Ave.,21,John D. Wren,4.78,78500,15417,1148.6,10022,http://www.omnicomgroup.com,20219,,1.9,5,NY
+180,Genuine Parts Company,GPC,Wholesalers: Diversified,Wholesalers,"Atlanta, GA",2999 Wildwood Pkwy.,23,Paul D. Donahue,4.59,40000,15340,687.2,30339,http://www.genpt.com,13712,,0.4,-2.6,GA
+181,DaVita Inc.,DVA,Health Care: Medical Facilities,Health Care,"Denver, CO",2000 16th St.,11,Kent J. Thiry,4.29,70300,15197,879.9,80202,http://www.davita.com,13227,,6.9,226.2,CO
+182,Colgate-Palmolive Company,CL,Household and Personal Products,Household Products,"New York, NY",300 Park Ave.,23,Ian M. Cook,2.72,36700,15195,2441,10022,http://www.colgatepalmolive.com,64715,,-5.2,76.4,NY
+183,"PPG Industries, Inc.",PPG,Chemicals,Chemicals,"Pittsburgh, PA",1 PPG Place,23,Michael H. McGarry,3.28,47000,15178,877,15272,http://www.ppg.com,26970,,-1,-37.6,PA
+184,The Goodyear Tire & Rubber Company,GT,Motor Vehicles and Parts,Motor Vehicles & Parts,"Akron, OH",200 Innovation Way,23,Richard J. Kramer,4.74,66000,15158,1264,44316,http://www.goodyear.com,9070,,-7.8,311.7,OH
+185,Synchrony Financial,SYF,Diversified Financials,Financials,"Stamford, CT",777 Long Ridge Rd.,1,Margaret M. Keane,2.71,15000,15122,2251,6902,http://www.synchronyfinancial.com,27810,,11,1.7,CT
+186,DISH Network Corporation,DISH,Telecommunications,Telecommunications,"Englewood, CO",9601 S. Meridian Blvd.,16,Charles W. Ergen,3.05,16000,15095,1449.9,80112,http://www.dish.com,29547,,0.2,94.1,CO
+187,Visa Inc.,V,Financial Data Services,Business Services,"Foster City, CA",900 Metro Center Blvd.,9,Alfred F. Kelly Jr.,,14200,15082,5991,94404,http://www.visa.com,206242,,8.7,-5.3,CA
+188,"Nordstrom, Inc.",JWN,General Merchandisers,Retailing,"Seattle, WA",1617 Sixth Ave.,23,Blake W. Nordstrom,2.02,72500,14757,354,98101,http://www.nordstrom.com,7770,,2.2,-41,WA
+189,INTL FCStone Inc.,INTL,Diversified Financials,Financials,"New York, NY",708 Third Ave.,9,Sean M. O'Connor,2.9,1464,14755,54.7,10017,http://www.intlfcstone.com,708,298,-57.5,-1.8,NY
+190,WestRock Company,WRK,"Packaging, Containers",Materials,"Richmond, VA",501 S. Fifth St.,6,Steven C. Voorhees,-1.54,39000,14706,-396.3,23219,http://www.westrock.com,13029,,29.2,-178.2,VA
+191,"XPO Logistics, Inc.",XPO,Transportation and Logistics,Transportation,"Greenwich, CT",5 American Lane,2,Bradley S. Jacobs,0.53,87000,14619,69,6831,http://www.xpo.com,5338,,91.8,,CT
+192,Aramark,ARMK,Diversified Outsourcing Services,Business Services,"Philadelphia, PA",1101 Market St.,23,Eric J. Foss,1.16,217250,14416,287.8,19107,http://www.aramark.com,9081,,0.6,22,PA
+193,CBS Corporation,CBS,Entertainment,Media,"New York, NY",51 W. 52nd St.,23,Leslie Moonves,2.81,18410,14386,1261,10019,http://www.cbscorporation.com,28405,,3.6,-10.8,NY
+194,The AES Corporation,AES,Utilities: Gas and Electric,Energy,"Arlington, VA",4300 Wilson Blvd.,17,Andres R. Gluski,-1.71,19000,14287,-1130,22203,http://www.aes.com,7371,,-4.5,-469.3,VA
+195,"WellCare Health Plans, Inc.",WCG,Health Care: Insurance and Managed Care,Health Care,"Tampa, FL",8725 Henderson Rd.,9,Kenneth A. Burdick,5.43,7400,14237,242.1,33634,http://www.wellcare.com,6212,,2.5,104.1,FL
+196,FirstEnergy Corp.,FE,Utilities: Gas and Electric,Energy,"Akron, OH",76 S. Main St.,22,Charles E. Jones,-14.49,15707,14156,-6177,44308,http://www.firstenergycorp.com,14118,,-3.1,-1168.7,OH
+197,"Conagra Brands, Inc.",CAG,Food Consumer Products,"Food, Beverages & Tobacco","Chicago, IL",222 W. Merchandise Mart Plaza,23,Sean M. Connolly,-1.56,20900,14134,-677,60654,http://www.conagrabrands.com,17557,,-10.8,,IL
+198,Synnex Corporation,SNX,Wholesalers: Electronics and Office Equipment,Wholesalers,"Fremont, CA",44201 Nobel Dr.,11,Kevin M. Murai,5.88,110000,14062,234.9,94538,http://www.synnex.com,4469,,5.4,12.7,CA
+199,CDW Corporation,CDW,Information Technology Services,Technology,"Lincolnshire, IL",75 Tri-State International,13,Thomas E. Richards,2.56,8516,13982,424.4,60069,http://www.cdw.com,9197,,7.6,5.3,IL
+200,Textron Inc.,TXT,Aerospace and Defense,Aerospace & Defense,"Providence, RI",40 Westminster St.,23,Scott C. Donnelly,3.53,36000,13788,962,2903,http://www.textron.com,12851,,2.7,38,RI
+201,"Waste Management, Inc.",WM,Waste Management,Business Services,"Houston, TX",1001 Fannin St.,19,James C. Fish Jr.,2.65,41200,13609,1182,77002,http://www.wm.com,32216,,5,57,TX
+202,Illinois Tool Works Inc.,ITW,Industrial Machinery,Industrials,"Glenview, IL",155 Harlem Ave.,23,E. Scott Santi,5.7,50000,13599,2035,60025,http://www.itw.com,45791,,1.4,7.2,IL
+203,"Office Depot, Inc.",ODP,Specialty Retailers: Other,Retailing,"Boca Raton, FL",6600 N. Military Trail,23,Gerry P. Smith,0.96,38000,13585,529,33496,http://www.officedepot.com,2402,,-6.2,6512.5,FL
+204,Monsanto Company,MON,Chemicals,Chemicals,"St. Louis, MO",800 N. Lindbergh Blvd.,14,Hugh Grant,2.99,22450,13502,1336,63167,http://www.monsanto.com,49644,,-10,-42.3,MO
+205,Cognizant Technology Solutions Corporation,CTSH,Information Technology Services,Technology,"Teaneck, NJ",500 Frank W. Burr Blvd.,7,Francisco D'Souza,2.55,260200,13487,1553,7666,http://www.cognizant.com,36226,,8.6,-4.3,NJ
+206,Texas Instruments Incorporated,TXN,Semiconductors and Other Electronic Components,Technology,"Dallas, TX",12500 TI Blvd.,23,Richard K. Templeton,3.48,29865,13370,3595,75243,http://www.ti.com,80531,,2.8,20.4,TX
+207,Lincoln National Corporation,LNC,"Insurance: Life, Health (Stock)",Financials,"Radnor, PA",150 N. Radnor-Chester Rd.,23,Dennis R. Glass,5.03,9057,13330,1192,19087,http://www.lfg.com,14760,,-1.8,3.3,PA
+208,Newell Brands Inc.,NWL,"Home Equipment, Furnishings",Household Products,"Hoboken, NJ",221 River St.,22,Michael B. Polk,1.25,53400,13264,527.8,7030,http://www.newellbrands.com,22787,,122.1,50.8,NJ
+209,"Land O'Lakes, Inc.",,Food Consumer Products,"Food, Beverages & Tobacco","Arden Hills, MN",4001 Lexington Ave. N.,15,Christopher J. Policinski,,10000,13233,244.9,55126,http://www.landolakesinc.com,,,0.6,-20.4,MN
+210,"Marsh & McLennan Companies, Inc.",MMC,Diversified Financials,Financials,"New York, NY",1166 Ave. of the Americas,23,Daniel S. Glaser,3.38,60000,13211,1768,10036,http://www.mmc.com,38078,,2.5,10.6,NY
+211,Ecolab Inc.,ECL,Chemicals,Chemicals,"St. Paul, MN",1 Ecolab Place,15,Douglas M. Baker Jr.,4.14,47565,13153,1229.6,55102,http://www.ecolab.com,36356,,-2.9,22.7,MN
+212,"C. H. Robinson Worldwide, Inc.",CHRW,Transportation and Logistics,Transportation,"Eden Prairie, MN",14701 Charlson Rd.,16,John P. Wiehoff,3.59,14125,13144,513.4,55347,http://www.chrobinson.com,10958,,-2.5,0.7,MN
+213,Loews Corporation,L,Insurance: Property and Casualty (Stock),Financials,"New York, NY",667 Madison Ave.,23,James S. Tisch,1.93,15800,13105,654,10065,http://www.loews.com,15747,,-2.3,151.5,NY
+214,"CBRE Group, Inc.",CBG,Real Estate,Financials,"Los Angeles, CA",400 S. Hope St.,10,Robert E. Sulentic,1.69,75000,13072,572,90071,http://www.cbre.com,11753,,20.4,4.5,CA
+215,"Kinder Morgan, Inc.",KMI,Pipelines,Energy,"Houston, TX",1001 Louisiana St.,14,Steven J. Kean,0.25,11121,13058,708,77002,http://www.kindermorgan.com,48533,,-9.3,179.8,TX
+216,Kellogg Company,K,Food Consumer Products,"Food, Beverages & Tobacco","Battle Creek, MI",1 Kellogg Sq.,23,John A. Bryant,1.96,37369,13014,694,49017,http://www.kelloggcompany.com,25417,,-3.8,13,MI
+217,Western Digital Corporation,WDC,Computer Peripherals,Technology,"Irvine, CA",3355 Michelson Dr.,14,Stephen D. Milligan,1,72878,12994,242,92612,http://www.westerndigital.com,23775,,-10.8,-83.5,CA
+218,Guardian Life Ins. Co. of America,,"Insurance: Life, Health (Mutual)",Financials,"New York, NY",7 Hanover Sq.,23,Deanna M. Mulligan,,8876,12919,263.9,10004,http://www.guardianlife.com,,,2.3,-35.7,NY
+219,"Ross Stores, Inc.",ROST,Specialty Retailers: Apparel,Retailing,"Dublin, CA",5130 Hacienda Dr.,15,Barbara Rentler,2.83,78600,12867,1117.7,94568,http://www.rossstores.com,25814,,7.8,9.5,CA
+220,"L Brands, Inc.",LB,Specialty Retailers: Apparel,Retailing,"Columbus, OH",3 Limited Pkwy.,23,Leslie H. Wexner,3.98,59100,12574,1158.1,43230,http://www.lb.com,13426,,3.5,-7.6,OH
+221,"J.C. Penney Company, Inc.",JCP,General Merchandisers,Retailing,"Plano, TX",6501 Legacy Dr.,23,Marvin R. Ellison,0,106000,12547,1,75024,http://www.jcpenney.com,1901,,-0.6,,TX
+222,Farmers Insurance Exchange,,Insurance: Property and Casualty (Mutual),Financials,"Woodland Hills, CA",6301 Owensmouth Ave.,3,Jeffrey J. Dailey,,13309,12513,-147.9,91367,http://www.farmers.com,,,-0.9,,CA
+223,Reynolds American Inc.,RAI,Tobacco,"Food, Beverages & Tobacco","Winston-Salem, NC",401 N. Main St.,18,Debra Crew,4.25,5525,12503,6073,27101,http://www.reynoldsamerican.com,89862,,17.1,86.7,NC
+224,Viacom Inc.,VIAB,Entertainment,Media,"New York, NY",1515 Broadway,12,Robert Bakish,3.61,9650,12488,1438,10036,http://www.viacom.com,18503,,-5.9,-25.2,NY
+225,"Becton, Dickinson and Company",BDX,Medical Products and Equipment,Health Care,"Franklin Lakes, NJ",1 Becton Dr.,23,Vincent A. Forlenza,4.49,50928,12483,976,7417,http://www.bd.com,39041,,21.4,40.4,NJ
+226,"Micron Technology, Inc.",MU,Semiconductors and Other Electronic Components,Technology,"Boise, ID",8000 S. Federal Way,20,Sanjay Mehrotra,-0.27,31400,12399,-276,83716,http://www.micron.com,31972,,-23.4,-109.5,ID
+227,"Principal Financial Group, Inc.",PFG,"Insurance: Life, Health (Stock)",Financials,"Des Moines, IA",711 High St.,23,Daniel J. Houston,4.5,14854,12394,1316.5,50392,http://www.principal.com,18143,,3.6,6.7,IA
+228,Arconic Inc.,ARNC,Aerospace and Defense,Aerospace & Defense,"New York, NY",390 Park Ave.,23,David P. Hess,-2.31,41500,12394,-941,10022,http://www.arconic.com,11604,476,-45,,NY
+229,"NRG Energy, Inc.",NRG,Energy,Energy,"Princeton, NJ",804 Carnegie Center,11,Mauricio Gutierrez,-2.22,8763,12351,-774,8540,http://www.nrg.com,5911,,-15.8,,NJ
+230,V.F. Corporation,VFC,Apparel,Apparel,"Greensboro, NC",105 Corporate Center Blvd.,23,Steven E. Rendle,2.54,69000,12207,1074.1,27408,http://www.vfc.com,22786,,-1.4,-12.8,NC
+231,Devon Energy Corporation,DVN,"Mining, Crude-Oil Production",Energy,"Oklahoma City, OK",333 W. Sheridan Ave.,16,David A. Hager,-6.52,3545,12197,-3302,73102,http://www.devonenergy.com,21886,,-7.2,,OK
+232,"D.R. Horton, Inc.",DHI,Homebuilders,Engineering & Construction,"Arlington, TX",1341 Horton Circle,15,David V. Auld,2.36,6976,12157,886.3,76011,http://www.drhorton.com,12438,,12.3,18.1,TX
+233,Bed Bath & Beyond Inc.,BBBY,Specialty Retailers: Other,Retailing,"Union, NJ",650 Liberty Ave.,14,Steven H. Temares,5.1,62000,12104,841.5,7083,http://www.bedbathandbeyond.com,5931,,1.9,-12.1,NJ
+234,"Consolidated Edison, Inc.",ED,Utilities: Gas and Electric,Energy,"New York, NY",4 Irving Place,23,John McAvoy,4.12,14960,12075,1245,10003,http://www.conedison.com,23708,,-3.8,4.4,NY
+235,Edison International,EIX,Utilities: Gas and Electric,Energy,"Rosemead, CA",2244 Walnut Grove Ave.,23,Pedro J. Pizarro,3.97,12390,11869,1311,91770,http://www.edisoninvestor.com,25938,,3,28.5,CA
+236,The Sherwin-Williams Company,SHW,Chemicals,Chemicals,"Cleveland, OH",101 W. Prospect Ave.,23,John G. Morikis,11.99,42550,11856,1132.7,44115,http://www.sherwin.com,28891,,4.6,7.5,OH
+237,NGL Energy Partners LP,NGL,Energy,Energy,"Tulsa, OK",6120 S. Yale Ave.,3,H. Michael Krimbill,-2.35,3200,11742,-198.9,74136,http://www.nglenergypartners.com,2686,,-30.1,-633.2,OK
+238,"Dominion Energy, Inc.",D,Utilities: Gas and Electric,Energy,"Richmond, VA",120 Tredegar St.,23,Thomas F. Farrell II,3.44,16200,11737,2123,23219,http://www.dominionenergy.com,48732,,0.5,11.8,VA
+239,"Ameriprise Financial, Inc.",AMP,Diversified Financials,Financials,"Minneapolis, MN",55 Ameriprise Financial Center,11,James M. Cracchiolo,7.81,13195,11735,1314,55474,http://www.ameriprise.com,19953,,-3.8,-15.9,MN
+240,"Automatic Data Processing, Inc.",ADP,Diversified Outsourcing Services,Business Services,"Roseland, NJ",1 ADP Blvd.,23,Carlos A. Rodriguez,3.25,57000,11668,1492.5,7068,http://www.adp.com,45963,,1.7,2.8,NJ
+241,Hilton Worldwide Holdings Inc.,HLT,"Hotels, Casinos, Resorts","Hotels, Restaurants & Leisure","McLean, VA",7930 Jones Branch Dr.,14,Christopher J. Nassetta,1.05,169000,11663,348,22102,http://www.hiltonworldwide.com,19276,,3.5,-75.2,VA
+242,First Data Corporation,FDC,Financial Data Services,Business Services,"Atlanta, GA",5565 Glenridge Connector N.E.,23,Frank J. Bisignano,0.46,24000,11584,420,30342,http://www.firstdata.com,14224,,1.2,,GA
+243,"Henry Schein, Inc.",HSIC,Wholesalers: Health Care,Wholesalers,"Melville, NY",135 Duryea Rd.,14,Stanley M. Bergman,6.19,21000,11572,506.8,11747,http://www.henryschein.com,13461,,8.9,5.8,NY
+244,"Toys ""R"" Us, Inc.",,Specialty Retailers: Other,Retailing,"Wayne, NJ",1 Geoffrey Way,23,David A. Brandon,,64000,11540,-36,7470,http://www.toysrusinc.com,,,-2.2,,NJ
+245,BB&T Corporation,BBT,Commercial Banks,Financials,"Winston-Salem, NC",200 W. Second St.,19,Kelly S. King,2.77,37500,11538,2426,27101,http://www.bbt.com,36141,,11.5,16.4,NC
+246,"Reinsurance Group of America, Incorporated",RGA,"Insurance: Life, Health (Stock)",Financials,"Chesterfield, MO",16600 Swingley Ridge Rd.,8,Anna Manning,10.79,2371,11522,701.4,63017,http://www.rgare.com,8169,,10.6,39.7,MO
+247,"Core-Mark Holding Company, Inc.",CORE,Wholesalers: Food and Grocery,Wholesalers,"South San Francisco, CA",395 Oyster Point Blvd.,8,Thomas B. Perkins,1.17,7688,11507,54.2,94080,http://www.core-mark.com,1445,,29.9,5.2,CA
+248,Biogen Inc.,BIIB,Pharmaceuticals,Health Care,"Cambridge, MA",225 Binney St.,8,Michel Vounatsos,16.93,7400,11449,3702.8,2142,http://www.biogen.com,59046,,6.4,4.4,MA
+249,Las Vegas Sands Corp.,LVS,"Hotels, Casinos, Resorts","Hotels, Restaurants & Leisure","Las Vegas, NV",3355 Las Vegas Blvd. S.,8,Sheldon G. Adelson,2.1,49000,11410,1670,89109,http://www.sands.com,45313,,-2.4,-15.1,NV
+250,"Stanley Black & Decker, Inc.",SWK,"Home Equipment, Furnishings",Household Products,"New Britain, CT",1000 Stanley Dr.,10,James M. Loree,6.51,54023,11407,965.3,6053,http://www.stanleyblackanddecker.com,20280,,1.7,9.2,CT
+251,Parker-Hannifin Corporation,PH,Industrial Machinery,Industrials,"Cleveland, OH",6035 Parkland Blvd.,23,Thomas L. Williams,5.89,48950,11361,806.8,44124,http://www.parker.com,21370,,-10.6,-20.3,OH
+252,Stryker Corporation,SYK,Medical Products and Equipment,Health Care,"Kalamazoo, MI",2825 Airview Blvd.,15,Kevin A. Lobo,4.35,33000,11325,1647,49002,http://www.stryker.com,49115,,13.9,14.5,MI
+253,The Estee Lauder Companies Inc.,EL,Household and Personal Products,Household Products,"New York, NY",767 Fifth Ave.,22,Fabrizio Freda,2.96,46000,11262,1114.6,10153,http://www.elcompanies.com,31068,,4.5,2.4,NY
+254,Celgene Corporation,CELG,Pharmaceuticals,Health Care,"Summit, NJ",86 Morris Ave.,6,Mark J. Alles,2.49,7132,11229,1999.2,7901,http://www.celgene.com,96802,,21.3,24.8,NJ
+255,"BlackRock, Inc.",BLK,Securities,Financials,"New York, NY",55 E. 52nd St.,10,Laurence D. Fink,19.04,13000,11155,3172,10055,http://www.blackrock.com,62225,,-2.2,-5.2,NY
+256,Xcel Energy Inc.,XEL,Utilities: Gas and Electric,Energy,"Minneapolis, MN",414 Nicollet Mall,21,Benjamin G.S. Fowke III,2.21,11476,11107,1123.4,55401,http://www.xcelenergy.com,22546,,0.7,14.1,MN
+257,CSX Corporation,CSX,Railroads,Transportation,"Jacksonville, FL",500 Water St.,23,E. Hunter Harrison,1.81,26628,11069,1714,32202,http://www.csx.com,43126,,-6.3,-12.9,FL
+258,Unum Group,UNM,"Insurance: Life, Health (Stock)",Financials,"Chattanooga, TN",1 Fountain Sq.,22,Richard P. McKenney,3.95,9400,11047,931.4,37402,http://www.unum.com,10749,,2.9,7.4,TN
+259,Jacobs Engineering Group Inc.,JEC,"Engineering, Construction",Engineering & Construction,"Dallas, TX",1999 Bryan St.,17,Steven J. Demetriou,1.73,49350,10964,210.5,75201,http://www.jacobs.com,6693,,-9.5,-30.5,TX
+260,Lennar Corporation,LEN,Homebuilders,Engineering & Construction,"Miami, FL",700 N.W. 107th Ave.,13,Stuart A. Miller,3.93,8335,10950,911.8,33172,http://www.lennar.com,12002,,15.6,13.6,FL
+261,"Group 1 Automotive, Inc.",GPI,"Automotive Retailing, Services",Retailing,"Houston, TX",800 Gessner Rd.,17,Earl J. Hesterberg,6.67,13500,10888,147.1,77024,http://www.group1auto.com,1584,,2.4,56.5,TX
+262,Leucadia National Corporation,LUK,Diversified Financials,Financials,"New York, NY",520 Madison Ave.,5,Richard B. Handler,0.34,13000,10875,130,10022,http://www.leucadia.com,9355,,-6.9,-54.2,NY
+263,Entergy Corporation,ETR,Utilities: Gas and Electric,Energy,"New Orleans, LA",639 Loyola Ave.,23,Leo P. Denault,-3.26,13513,10846,-583.6,70113,http://www.entergy.com,13685,,-5.8,,LA
+264,"PayPal Holdings, Inc.",PYPL,Financial Data Services,Business Services,"San Jose, CA",2211 N. First St.,2,Daniel H. Schulman,1.15,18100,10842,1401,95131,http://www.paypal.com,51650,,17.2,14.1,CA
+265,"Applied Materials, Inc.",AMAT,Semiconductors and Other Electronic Components,Technology,"Santa Clara, CA",3050 Bowers Ave.,22,Gary E. Dickerson,1.54,16150,10825,1721,95054,http://www.appliedmaterials.com,42005,,12.1,25,CA
+266,"Voya Financial, Inc.",VOYA,Diversified Financials,Financials,"New York, NY",230 Park Ave.,3,Rodney O. Martin Jr.,-2.13,6700,10782,-428,10169,http://www.voya.com,7191,,-4.9,-204.8,NY
+267,Mastercard Incorporated,MA,Financial Data Services,Business Services,"Purchase, NY",2000 Purchase St.,9,Ajay Banga,3.69,11900,10776,4059,10577,http://www.mastercard.com,121234,,11.5,6.6,NY
+268,The Priceline Group Inc.,PCLN,Internet Services and Retailing,Technology,"Norwalk, CT",800 Connecticut Ave.,5,Glenn D. Fogel,42.65,18500,10743,2135,6854,http://www.pricelinegroup.com,87522,,16.5,-16.3,CT
+269,Liberty Interactive Corporation,QVCA,Internet Services and Retailing,Retailing,"Englewood, CO",12300 Liberty Blvd.,13,Gregory B. Maffei,,21080,10647,1235,80112,http://www.libertyinteractive.com,9101,,6.6,42.1,CO
+270,"AutoZone, Inc.",AZO,Specialty Retailers: Other,Retailing,"Memphis, TN",123 S. Front St.,19,William C. Rhodes III,40.7,66780,10636,1241,38103,http://www.autozone.com,20540,,4.4,7,TN
+271,State Street Corporation,STT,Commercial Banks,Financials,"Boston, MA",1 Lincoln St.,22,Joseph L. Hooley,4.97,33783,10635,2143,2111,http://www.statestreet.com,30406,,-1.2,8.2,MA
+272,DTE Energy Company,DTE,Utilities: Gas and Electric,Energy,"Detroit, MI",1 Energy Plaza,23,Gerard M. Anderson,4.83,10000,10630,868,48226,http://www.dteenergy.com,18317,,2.8,19.4,MI
+273,"L3 Technologies, Inc.",LLL,Aerospace and Defense,Aerospace & Defense,"New York, NY",600 Third Ave.,15,Michael T. Strianese,9.01,38000,10597,710,10016,http://www.l3t.com,12859,,-8.3,,NY
+274,HollyFrontier Corporation,HFC,Petroleum Refining,Energy,"Dallas, TX",2828 N. Harwood,10,George J. Damiris,-1.48,2676,10536,-260.5,75201,http://www.hollyfrontier.com,5048,,-20.4,-135.2,TX
+275,"Praxair, Inc.",PX,Chemicals,Chemicals,"Danbury, CT",10 Riverview Dr.,23,Stephen F. Angel,5.21,26498,10534,1500,6810,http://www.praxair.com,33834,,-2.2,-3,CT
+276,"Universal Health Services, Inc.",UHS,Health Care: Medical Facilities,Health Care,"King of Prussia, PA",367 S. Gulph Rd.,14,Alan B. Miller,7.14,70863,10508,702.4,19406,http://www.uhsinc.com,12022,,7.4,3.2,PA
+277,Discover Financial Services,DFS,Commercial Banks,Financials,"Riverwoods, IL",2500 Lake Cook Rd.,9,David W. Nelms,5.77,15549,10497,2393,60015,http://www.discover.com,26255,,4.9,4.2,IL
+278,Occidental Petroleum Corporation,OXY,"Mining, Crude-Oil Production",Energy,"Houston, TX",5 Greenway Plaza,23,Vicki A. Hollub,-0.75,11000,10398,-574,77046,http://www.oxy.com,48444,,-18.1,,TX
+279,United States Steel Corporation,X,Metals,Materials,"Pittsburgh, PA",600 Grant St.,15,David B. Burritt,-2.81,29800,10261,-440,15219,http://www.ussteel.com,5893,,-11.3,,PA
+280,Sempra Energy,SRE,Utilities: Gas and Electric,Energy,"San Diego, CA",488 Eighth Ave.,19,Debra L. Reed,5.46,16575,10183,1370,92101,http://www.sempra.com,27692,,-0.5,1.6,CA
+281,Baxter International Inc.,BAX,Medical Products and Equipment,Health Care,"Deerfield, IL",1 Baxter Pkwy.,23,Jose E. Almeida,9.01,48000,10163,4965,60015,http://www.baxter.com,28106,,2,412.9,IL
+282,"W.W. Grainger, Inc.",GWW,Wholesalers: Diversified,Wholesalers,"Lake Forest, IL",100 Grainger Pkwy.,23,D.G. Macpherson,9.87,25000,10137,605.9,60045,http://www.grainger.com,13668,,1.6,-21.2,IL
+283,"Autoliv, Inc.",ALV,Motor Vehicles and Parts,Motor Vehicles & Parts,"Auburn Hills, MI",1320 Pacific Dr.,19,Jan Carlson,6.42,65900,10074,567.1,48326,http://www.autoliv.com,9032,,9.9,24.1,MI
+284,Norfolk Southern Corporation,NSC,Railroads,Transportation,"Norfolk, VA",3 Commercial Place,23,James A. Squires,5.62,27856,9888,1668,23510,http://www.nscorp.com,32515,,-5.9,7.2,VA
+285,Baker Hughes Incorporated,BHGE,"Oil and Gas Equipment, Services",Energy,"Houston, TX",17021 Aldine Westfield Rd.,23,Lorenzo Simonelli,-6.31,33000,9841,-2738,77073,http://www.bhge.com,25444,,-37.5,,TX
+286,Ally Financial Inc.,ALLY,Diversified Financials,Financials,"Detroit, MI",500 Woodward Ave.,10,Jeffrey J. Brown,2.15,7600,9835,1067,48226,http://www.ally.com,9437,,3.1,-17.2,MI
+287,"Sonic Automotive, Inc",SAH,"Automotive Retailing, Services",Retailing,"Charlotte, NC",4401 Colwick Rd.,18,B. Scott Smith,2.03,9800,9732,93.2,28211,http://www.sonicautomotive.com,900,,1.1,8,NC
+288,"Owens & Minor, Inc.",OMI,Wholesalers: Health Care,Wholesalers,"Mechanicsville, VA",9120 Lockwood Blvd.,23,P. Cody Phipps,1.76,7900,9723,108.8,23116,http://www.owens-minor.com,2114,,-0.5,5.2,VA
+289,Huntsman Corporation,HUN,Chemicals,Chemicals,"The Woodlands, TX",10003 Woodloch Forest Dr.,12,Peter R. Huntsman,1.36,15000,9657,326,77380,http://www.huntsman.com,5880,,-6.2,250.5,TX
+290,Laboratory Corporation of America Holdings,LH,Health Care: Pharmacy and Other Services,Health Care,"Burlington, NC",358 S. Main St.,8,David P. King,7.02,52000,9642,732.1,27215,http://www.labcorp.com,14696,,11.1,67.6,NC
+291,Murphy USA Inc.,MUSA,Specialty Retailers: Other,Retailing,"El Dorado, AR",200 Peach St.,4,R. Andrew Clyde,5.59,6600,9633,221.5,71730,http://www.murphyusa.com,2706,,-11.5,25.6,AR
+292,"Advance Auto Parts, Inc.",AAP,Specialty Retailers: Other,Retailing,"Roanoke, VA",5008 Airport Rd.,15,Thomas R. Greco,6.2,57500,9568,459.6,24012,http://www.advanceautoparts.com,10944,,-1.7,-2.9,VA
+293,"Fidelity National Financial, Inc.",FNF,Insurance: Property and Casualty (Stock),Financials,"Jacksonville, FL",601 Riverside Ave.,10,Raymond R. Quirk,,55219,9554,650,32204,http://www.fnf.com,10600,,4.6,23.3,FL
+294,"Air Products & Chemicals, Inc.",APD,Chemicals,Chemicals,"Allentown, PA",7201 Hamilton Blvd.,23,Seifi Ghasemi,2.89,18450,9524,631.1,18195,http://www.airproducts.com,29438,,-3.7,-50.6,PA
+295,Hormel Foods Corporation,HRL,Food Consumer Products,"Food, Beverages & Tobacco","Austin, MN",1 Hormel Place,23,James P. Snee,1.64,21100,9523,890.1,55912,http://www.hormelfoods.com,18316,,2.8,29.7,MN
+296,"Hertz Global Holdings, Inc.",HTZ,"Automotive Retailing, Services",Retailing,"Estero, FL",8501 Williams Rd.,10,Kathryn V. Marinello,-5.85,36000,9480,-491,33928,http://www.hertz.com,1456,,-10,-279.9,FL
+297,MGM Resorts International,MGM,"Hotels, Casinos, Resorts","Hotels, Restaurants & Leisure","Las Vegas, NV",3600 Las Vegas Blvd. S.,17,James J. Murren,1.92,66500,9455,1101.4,89109,http://www.mgmresorts.com,15733,,2.9,,NV
+298,Corning Incorporated,GLW,"Electronics, Electrical Equipment",Industrials,"Corning, NY",1 Riverfront Plaza,22,Wendell P. Weeks,3.23,40700,9390,3695,14831,http://www.corning.com,25030,,3.1,176,NY
+299,"Republic Services, Inc.",RSG,Waste Management,Business Services,"Phoenix, AZ",18500 N. Allied Way,8,Donald W. Slager,1.78,33000,9388,612.6,85054,http://www.republicservices.com,21312,,3,-18.3,AZ
+300,Alcoa Corporation,AA,Metals,Materials,"New York, NY",390 Park Ave.,1,Roy C. Harvey,-2.19,14000,9318,-400,10022,http://www.alcoa.com,6337,,,,NY
+301,"Fidelity National Information Services, Inc.",FIS,Financial Data Services,Business Services,"Jacksonville, FL",601 Riverside Ave.,8,Gary A. Norcross,1.72,55000,9241,568,32204,http://www.fisglobal.com,26178,,40.1,-10.1,FL
+302,Pacific Life,,"Insurance: Life, Health (Stock)",Financials,"Newport Beach, CA",700 Newport Center Dr.,21,James T. Morris,,3628,9169,824,92660,http://www.pacificlife.com,,,6.1,24.7,CA
+303,"SunTrust Banks, Inc.",STI,Commercial Banks,Financials,"Atlanta, GA",303 Peachtree St. N.E.,23,William H. Rogers Jr.,3.6,24375,9161,1878,30308,http://www.suntrust.com,27175,,7.4,-2.8,GA
+304,LKQ Corporation,LKQ,Wholesalers: Diversified,Wholesalers,"Chicago, IL",500 W. Madison St.,4,Dominick P. Zarcone,1.5,42500,9082,464,60661,http://www.lkqcorp.com,9021,,26.3,9.6,IL
+305,BorgWarner Inc.,BWA,Motor Vehicles and Parts,Motor Vehicles & Parts,"Auburn Hills, MI",3850 Hamlin Rd.,11,James R. Verrier,0.55,27000,9071,118.5,48326,http://www.borgwarner.com,8895,,13.1,-80.6,MI
+306,Ball Corporation,BLL,"Packaging, Containers",Materials,"Broomfield, CO",10 Longs Peak Dr.,21,John A. Hayes,0.82,18450,9061,263,80021,http://www.ball.com,13000,,13.3,-6.4,CO
+306,"CST Brands, Inc.",CST,Specialty Retailers: Other,Retailing,"San Antonio, TX",19500 Bulverde Rd.,4,Brian P. Hannasch,4.24,12380,9061,324,78259,http://www.cstbrands.com,3645,,-4.6,117.4,TX
+306,Public Service Enterprise Group Incorporated,PEG,Utilities: Gas and Electric,Energy,"Newark, NJ",80 Park Plaza,23,Ralph Izzo,1.75,13065,9061,887,7102,http://www.pseg.com,22451,,-13,-47.2,NJ
+309,Eastman Chemical Company,EMN,Chemicals,Chemicals,"Kingsport, TN",200 S. Wilcox Dr.,23,Mark J. Costa,5.75,14000,9008,854,37660,http://www.eastman.com,11783,,-6.6,0.7,TN
+310,eBay Inc.,EBAY,Internet Services and Retailing,Technology,"San Jose, CA",2025 Hamilton Ave.,12,Devin N. Wenig,6.35,12600,8979,7266,95125,http://www.ebay.com,36232,,-5.4,321.2,CA
+311,"Mohawk Industries, Inc.",MHK,"Home Equipment, Furnishings",Household Products,"Calhoun, GA",160 S. Industrial Blvd.,18,Jeffrey S. Lorberbaum,12.48,37800,8959,930.4,30701,http://www.mohawkind.com,17025,,11,51.2,GA
+312,"ONEOK, Inc.",OKE,Pipelines,Energy,"Tulsa, OK",100 W. Fifth St.,15,Terry K. Spencer,1.66,2384,8921,352,74103,http://www.oneok.com,11684,,14.9,43.7,OK
+313,Frontier Communications Corporation,FTR,Telecommunications,Telecommunications,"Norwalk, CT",401 Merritt 7,4,Daniel J. McCarthy,-0.51,28332,8896,-373,6851,http://www.frontier.com,2521,,59.5,,CT
+314,"Netflix, Inc.",NFLX,Internet Services and Retailing,Technology,"Los Gatos, CA",100 Winchester Circle,3,Reed Hastings,0.43,3850,8831,186.7,95032,http://www.netflix.com,63619,,30.3,52.2,CA
+315,American Family Insurance Group,,Insurance: Property and Casualty (Stock),Financials,"Madison, WI",6000 American Pkwy.,21,Jack C. Salzwedel,,10471,8829,325.6,53783,http://www.amfam.com,,,6.6,-53.1,WI
+316,Thrivent Financial for Lutherans,,"Insurance: Life, Health (Mutual)",Financials,"Minneapolis, MN",625 Fourth Ave. S.,23,Bradford L. Hewitt,,3282,8777,587.8,55415,http://www.thrivent.com,,,-0.1,-23.6,MN
+317,"Expedia, Inc.",EXPE,Internet Services and Retailing,Technology,"Bellevue, WA",333 108th Ave. N.E.,3,Dara Khosrowshahi,1.82,20075,8774,281.8,98004,http://www.expediainc.com,18901,,31.5,-63.1,WA
+318,"Lithia Motors, Inc.",LAD,"Automotive Retailing, Services",Retailing,"Medford, OR",150 N. Bartlett St.,3,Bryan B. DeBoer,7.72,11170,8678,197.1,97501,http://www.lithiamotors.com,2156,,10.3,7.7,OR
+319,"Avis Budget Group, Inc.",CAR,"Automotive Retailing, Services",Retailing,"Parsippany, NJ",6 Sylvan Way,20,Larry D. De Shon,1.75,25600,8659,163,7054,http://www.avisbudgetgroup.com,2528,,1.8,-47.9,NJ
+320,Reliance Steel & Aluminum Co.,RS,Metals,Materials,"Los Angeles, CA",350 S. Grand Ave.,11,Gregg J. Mollins,4.16,14500,8613,304.3,90071,http://www.rsac.com,5830,,-7.9,-2.3,CA
+321,GameStop Corp.,GME,Specialty Retailers: Other,Retailing,"Grapevine, TX",625 Westport Pkwy.,11,J. Paul Raines,3.4,41750,8608,353.2,76051,http://www.gamestopcorp.com,2282,,-8.1,-12.3,TX
+322,Tenneco Inc.,TEN,Motor Vehicles and Parts,Motor Vehicles & Parts,"Lake Forest, IL",500 N. Field Dr.,23,Brian J. Kesseler,6.44,31000,8599,363,60045,http://www.tenneco.com,3390,,4.8,47,IL
+323,"O'Reilly Automotive, Inc.",ORLY,Specialty Retailers: Other,Retailing,"Springfield, MO",233 S. Patterson Ave.,8,Gregory L. Henslee,10.73,58397,8593,1037.7,65802,http://www.oreillyauto.com,24730,,7.9,11.4,MO
+324,"Peter Kiewit Sons', Inc.",,"Engineering, Construction",Engineering & Construction,"Omaha, NE",1000 Kiewit Plaza,18,Bruce E. Grewcock,,20000,8573,396,68131,http://www.kiewit.com,,,-4.7,57.8,NE
+325,"United Natural Foods, Inc.",UNFI,Wholesalers: Food and Grocery,Wholesalers,"Providence, RI",313 Iron Horse Way,5,Steven L. Spinner,2.5,9554,8470,125.8,2908,http://www.unfi.com,2187,,3.5,-9.3,RI
+326,"salesforce.com, inc.",CRM,Computer Software,Technology,"San Francisco, CA",1 Market St.,3,Marc R. Benioff,0.26,25000,8392,179.6,94105,http://www.salesforce.com,58362,,25.9,,CA
+327,Boston Scientific Corporation,BSX,Medical Products and Equipment,Health Care,"Marlborough, MA",300 Boston Scientific Way,14,Michael F. Mahoney,0.25,27000,8386,347,1752,http://www.bostonscientific.com,34046,,12.2,,MA
+328,Newmont Mining Corporation,NEM,"Mining, Crude-Oil Production",Energy,"Greenwood Village, CO",6363 S. Fiddler's Green Circle,14,Gary J. Goldberg,-1.18,12438,8379,-627,80111,http://www.newmont.com,17518,,8.4,-385,CO
+329,"Genworth Financial, Inc.",GNW,"Insurance: Life, Health (Stock)",Financials,"Richmond, VA",6620 W. Broad St.,12,Thomas J. McInerney,-0.56,3400,8369,-277,23230,http://www.genworth.com,2056,,-9.5,,VA
+330,"Live Nation Entertainment, Inc.",LYV,Entertainment,Media,"Beverly Hills, CA",9348 Civic Center Dr.,8,Michael Rapino,-0.23,11500,8355,2.9,90210,http://www.livenationentertainment.com,6219,,15.3,,CA
+331,Veritiv Corp,VRTV,Wholesalers: Diversified,Wholesalers,"Atlanta, GA",1000 Abernathy Rd. N.E.,2,Mary A. Laschinger,1.3,8700,8327,21,30328,http://www.veritivcorp.com,813,,-4.5,-21.3,GA
+332,News Corporation,NWSA,"Publishing, Printing",Media,"New York, NY",1211 Ave. of the Americas,3,Robert J. Thomson,0.3,24000,8319,179,10036,http://www.newscorp.com,7559,,-3.6,,NY
+333,"Crown Holdings, Inc.",CCK,"Packaging, Containers",Materials,"Philadelphia, PA",1 Crown Way,23,Timothy J. Donahue,3.56,23992,8284,496,19154,http://www.crowncork.com,7367,,-5.5,26.2,PA
+334,Global Partners LP,GLP,Wholesalers: Diversified,Wholesalers,"Waltham, MA",800 South St.,11,Eric Slifka,-5.91,1770,8240,-199.4,2453,http://www.globalp.com,663,,-20.1,-557.8,MA
+335,PVH Corp.,PVH,Apparel,Apparel,"New York, NY",200 Madison Ave.,7,Emanuel Chirico,6.79,26650,8203,549,10016,http://www.pvh.com,8092,,2.3,-4.1,NY
+336,"Level 3 Communications, Inc.",LVLT,Telecommunications,Telecommunications,"Broomfield, CO",1025 Eldorado Blvd.,13,Jeffrey K. Storey,1.87,12600,8172,677,80021,http://www.level3.com,20638,,-0.7,-80.3,CO
+337,Navistar International Corporation,NAV,Construction and Farm Machinery,Industrials,"Lisle, IL",2701 Navistar Dr.,21,Troy A. Clarke,-1.19,11300,8111,-97,60532,http://www.navistar.com,2416,,-20,,IL
+338,Univar Inc.,UNVR,Wholesalers: Diversified,Wholesalers,"Downers Grove, IL",3075 Highland Pkwy.,2,Stephen D. Newlin,-0.5,8700,8074,-68.4,60515,http://www.univar.com,4293,,-10.1,-514.5,IL
+339,Campbell Soup Company,CPB,Food Consumer Products,"Food, Beverages & Tobacco","Camden, NJ",1 Campbell Place,23,Denise M. Morrison,1.81,16500,7961,563,8103,http://www.campbellsoupcompany.com,17423,,-1.5,-18.5,NJ
+340,"Dick's Sporting Goods, Inc.",DKS,Specialty Retailers: Other,Retailing,"Coraopolis, PA",345 Court St.,8,Edward W. Stack,2.56,27550,7922,287.4,15108,http://www.dicks.com,5489,,9,-13,PA
+341,Weyerhaeuser Company,WY,Forest and Paper Products,Materials,"Seattle, WA",220 Occidental Ave. S.,23,Doyle R. Simons,1.39,10400,7902,1027,98104,http://www.weyerhaeuser.com,25451,,11.6,103,WA
+342,Mutual of Omaha Insurance Company,,"Insurance: Life, Health (Stock)",Financials,"Omaha, NE",Mutual of Omaha Plaza,21,James T. Blackledge,,5732,7899,356.6,68175,http://www.mutualofomaha.com,,,9.2,7.1,NE
+343,Chesapeake Energy Corporation,CHK,"Mining, Crude-Oil Production",Energy,"Oklahoma City, OK",6100 N. Western Ave.,12,Robert D. Lawler,-6.45,3300,7872,-4401,73118,http://www.chk.com,5394,,-38.3,,OK
+344,Anadarko Petroleum Corporation,APC,"Mining, Crude-Oil Production",Energy,"The Woodlands, TX",1201 Lake Robbins Dr.,17,R. A. Walker,-5.9,4500,7869,-3071,77380,http://www.anadarko.com,34640,,-9.5,,TX
+345,"The Interpublic Group of Companies, Inc.",IPG,"Advertising, Marketing",Business Services,"New York, NY",909 Third Ave.,20,Michael I. Roth,1.49,49800,7847,608.5,10022,http://www.interpublic.com,9648,,3.1,33.9,NY
+346,The J.M. Smucker Company,SJM,Food Consumer Products,"Food, Beverages & Tobacco","Orrville, OH",1 Strawberry Lane,7,Mark T. Smucker,5.76,6910,7811,688.7,44667,http://www.jmsmucker.com,15263,,37.2,99.7,OH
+347,"Steel Dynamics, Inc.",STLD,Metals,Materials,"Fort Wayne, IN",7575 W. Jefferson Blvd.,8,Mark D. Millett,1.56,7695,7777,382.1,46804,http://www.steeldynamics.com,8425,,2.4,,IN
+348,"Foot Locker, Inc.",FL,Specialty Retailers: Apparel,Retailing,"New York, NY",330 W. 34th St.,23,Richard A. Johnson,4.91,32965,7766,664,10001,http://www.footlocker-inc.com,9818,,4.8,22.7,NY
+349,"Western Refining, Inc.",WNR,Petroleum Refining,Energy,"El Paso, TX",212 N. Clark Dr.,10,Jeff A. Stevens,1.24,7134,7743,124.9,79905,http://www.wnr.com,3812,,-20.9,-69.3,TX
+350,SpartanNash Company,SPTN,Wholesalers: Food and Grocery,Wholesalers,"Byron Center, MI",850 76th St. S.W.,7,David M. Staples,1.51,11500,7735,56.8,49315,http://www.spartannash.com,1313,,1.1,-9.4,MI
+351,Dean Foods Company,DF,Food Consumer Products,"Food, Beverages & Tobacco","Dallas, TX",2711 N. Haskell Ave.,19,Ralph P. Scozzafava,1.31,17000,7710,119.9,75204,http://www.deanfoods.com,1786,,-5.1,,TX
+352,"Zimmer Biomet Holdings, Inc.",ZBH,Medical Products and Equipment,Health Care,"Warsaw, IN",345 E. Main St.,2,Daniel P. Florin,1.51,18500,7684,305.9,46580,http://www.zimmerbiomet.com,24571,,28.1,108.1,IN
+353,"PulteGroup, Inc.",PHM,Homebuilders,Engineering & Construction,"Atlanta, GA",3350 Peachtree Rd. N.E.,15,Ryan R. Marshall,1.75,4623,7669,602.7,30326,http://www.pultegroupinc.com,7466,,28.2,22,GA
+354,W.R. Berkley Corporation,WRB,Insurance: Property and Casualty (Stock),Financials,"Greenwich, CT",475 Steamboat Rd.,14,W. Robert Berkley Jr.,4.68,7608,7654,601.9,6830,http://www.wrberkley.com,8561,,6.2,19.5,CT
+355,"Quanta Services, Inc.",PWR,"Engineering, Construction",Engineering & Construction,"Houston, TX",2800 Post Oak Blvd.,5,Earl C. Austin Jr.,1.26,28100,7651,198.4,77056,http://www.quantaservices.com,5386,,0.2,-36.2,TX
+356,"EOG Resources, Inc.",EOG,"Mining, Crude-Oil Production",Energy,"Houston, TX",1111 Bagby St.,9,William R. Thomas,-1.98,2650,7651,-1096.7,77002,http://www.eogresources.com,56302,,-12.6,,TX
+357,The Charles Schwab Corporation,SCHW,Securities,Financials,"San Francisco, CA",211 Main St.,19,Walter W. Bettinger II,1.31,16200,7644,1889,94105,http://www.aboutschwab.com,54555,,17.6,30.5,CA
+358,Eversource Energy,ES,Utilities: Gas and Electric,Energy,"Springfield, MA",300 Cadwell Dr.,22,James J. Judge,2.96,7762,7639,942.3,1104,http://www.eversource.com,18627,,-4,7.3,MA
+359,Anixter International Inc.,AXE,Wholesalers: Electronics and Office Equipment,Wholesalers,"Glenview, IL",2301 Patriot Blvd.,15,Robert J. Eck,3.59,8900,7625,120.5,60026,http://www.anixter.com,2626,,15.6,-5.6,IL
+360,"EMCOR Group, Inc.",EME,"Engineering, Construction",Engineering & Construction,"Norwalk, CT",301 Merritt Seven,17,Anthony J. Guzzi,2.97,31000,7552,181.9,6851,http://www.emcorgroup.com,3756,,12.3,5.6,CT
+361,"Assurant, Inc.",AIZ,Insurance: Property and Casualty (Stock),Financials,"New York, NY",28 Liberty St.,13,Alan B. Colberg,9.13,14700,7532,565.4,10005,http://www.assurant.com,5298,,-27.1,299.4,NY
+362,"CenterPoint Energy, Inc.",CNP,Utilities: Gas and Electric,Energy,"Houston, TX",1111 Louisiana St.,23,Scott M. Prochazka,1,7727,7528,432,77002,http://www.centerpointenergy.com,11882,,1.9,,TX
+363,Harris Corporation,HRS,Network and Other Communications Equipment,Technology,"Melbourne, FL",1025 W. NASA Blvd.,13,William M. Brown,2.59,21000,7527,324,32919,http://www.harris.com,13849,,48.1,-3,FL
+364,"HD Supply Holdings, Inc.",HDS,Wholesalers: Diversified,Wholesalers,"Atlanta, GA",3100 Cumberland Blvd.,5,Joseph J. DeAngelo,0.97,14000,7524,196,30339,http://www.hdsupply.com,8296,,-14.3,-86.7,GA
+365,PPL Corporation,PPL,Utilities: Gas and Electric,Energy,"Allentown, PA",2 N. Ninth St.,23,William H. Spence,2.79,12689,7517,1902,18101,http://www.pplweb.com,25448,,-2,178.9,PA
+366,Quest Diagnostics Incorporated,DGX,Health Care: Pharmacy and Other Services,Health Care,"Madison, NJ",3 Giralda Farms,17,Stephen H. Rusckowski,4.51,43000,7515,645,7940,http://www.questdiagnostics.com,13501,,0.3,-9,NJ
+367,"The Williams Companies, Inc.",WMB,Energy,Energy,"Tulsa, OK",1 Williams Center,23,Alan S. Armstrong,-0.57,5604,7499,-424,74172,http://www.williams.com,24436,,1.9,,OK
+368,"WEC Energy Group, Inc.",WEC,Utilities: Gas and Electric,Energy,"Milwaukee, WI",231 W. Michigan St.,8,Allen L. Leverett,2.96,8074,7472,939,53203,http://www.wecenergygroup.com,19134,,26.1,47.1,WI
+369,The Hershey Company,HSY,Food Consumer Products,"Food, Beverages & Tobacco","Hershey, PA",100 Crystal A Dr.,23,Michele G. Buck,3.34,17140,7440,720,17033,http://www.thehersheycompany.com,23236,,0.7,40.4,PA
+370,AGCO Corporation,AGCO,Construction and Farm Machinery,Industrials,"Duluth, GA",4205 River Green Pkwy.,16,Martin H. Richenhagen,1.96,19795,7411,160.1,30096,http://www.agcocorp.com,4783,,-0.8,-39.9,GA
+371,Ralph Lauren Corporation,RL,Apparel,Apparel,"New York, NY",650 Madison Ave.,9,Patrice Louvet,4.62,20500,7405,396,10022,http://www.ralphlauren.com,6710,,-2.8,-43.6,NY
+372,Masco Corporation,MAS,"Home Equipment, Furnishings",Household Products,"Taylor, MI",21001 Van Born Rd.,23,Keith J. Allman,1.47,26000,7357,491,48180,http://www.masco.com,10888,,-6.9,38.3,MI
+373,"WESCO International, Inc.",WCC,Wholesalers: Diversified,Wholesalers,"Pittsburgh, PA",225 W. Station Square Dr.,19,John J. Engel,2.1,9000,7336,101.6,15219,http://www.wesco.com,3389,,-2.4,-51.8,PA
+374,"LifePoint Health, Inc.",LPNT,Health Care: Medical Facilities,Health Care,"Brentwood, TN",330 Seven Springs Way,3,William F. Carpenter III,2.82,47000,7274,121.9,37027,http://www.lifepointhealth.net,2616,,20.9,-33,TN
+375,"National Oilwell Varco, Inc.",NOV,"Oil and Gas Equipment, Services",Energy,"Houston, TX",7909 Parkwood Circle Dr.,12,Clay C. Williams,-6.41,36384,7251,-2412,77036,http://www.nov.com,15183,,-50.9,,TX
+376,"Kindred Healthcare, Inc.",KND,Health Care: Medical Facilities,Health Care,"Louisville, KY",680 S. Fourth St.,14,Benjamin A. Breier,-7.65,76650,7227,-664.2,40202,http://www.kindredhealthcare.com,711,,1.8,,KY
+377,The Mosaic Company,MOS,Chemicals,Chemicals,"Plymouth, MN",3033 Campus Dr.,12,James C. O'Rourke,0.85,8700,7163,297.8,55441,http://www.mosaicco.com,10242,,-19.5,-70.2,MN
+378,Alliance Data Systems Corporation,ADS,Financial Data Services,Business Services,"Plano, TX",7500 Dallas Pkwy.,3,Edward J. Heffernan,7.34,17000,7138,515.8,75024,http://www.alliancedata.com,13925,,10.8,-13.5,TX
+379,Computer Sciences Corporation,,Information Technology Services,Technology,"Tysons, VA",1775 Tysons Blvd.,23,J. Michael Lawrie,1.78,59000,7106,251,22102,http://www.dxc.technology,9746,,-41.7,12450,VA
+380,"Huntington Ingalls Industries, Inc.",HII,Aerospace and Defense,Aerospace & Defense,"Newport News, VA",4101 Washington Ave.,5,C. Michael Petters,12.14,37000,7068,573,23607,http://www.huntingtoningalls.com%20,9265,,0.7,41.8,VA
+381,"Leidos Holdings, Inc.",LDOS,Information Technology Services,Technology,"Reston, VA",11951 Freedom Dr.,17,Roger A. Krone,2.35,32000,7043,244,20190,http://www.leidos.com,7696,,38.5,-3.9,VA
+382,Erie Insurance Group,,Insurance: Property and Casualty (Mutual),Financials,"Erie, PA",100 Erie Insurance Place,14,Timothy G. NeCastro,,4988,7016,741.9,16530,http://www.erieinsurance.com,,,5.7,10.7,PA
+383,"Tesla, Inc.",TSLA,Motor Vehicles and Parts,Motor Vehicles & Parts,"Palo Alto, CA",3500 Deer Creek Rd.,1,Elon Musk,-4.68,30025,7000,-674.9,94304,http://www.tesla.com,45390,,73,,CA
+384,"Ascena Retail Group, Inc.",ASNA,Specialty Retailers: Apparel,Retailing,"Mahwah, NJ",933 MacArthur Blvd.,1,David R. Jaffe,-0.06,41000,6995,-11.9,7430,http://www.ascenaretail.com,830,,45.6,,NJ
+385,"Darden Restaurants, Inc.",DRI,Food Services,"Hotels, Restaurants & Leisure","Orlando, FL",1000 Darden Center Dr.,21,Eugene I. Lee Jr.,2.9,150942,6934,375,32837,http://www.darden.com,10389,,-3.2,-47.1,FL
+386,"Harman International Industries, Incorporated",,"Electronics, Electrical Equipment",Industrials,"Stamford, CT",400 Atlantic St.,3,Dinesh C. Paliwal,4.99,26000,6912,361.7,6901,http://www.harman.com,,,12.3,5.6,CT
+387,NVIDIA Corporation,NVDA,Semiconductors and Other Electronic Components,Technology,"Santa Clara, CA",2701 San Tomas Expressway,1,Jen-Hsun Huang,2.57,10299,6910,1666,95050,http://www.nvidia.com,64160,,37.9,171.3,CA
+388,R.R. Donnelley & Sons Company,RRD,"Publishing, Printing",Media,"Chicago, IL",35 W. Wacker Dr.,23,Daniel L. Knotts,-7.09,44360,6896,-495.9,60601,http://www.rrdonnelley.com,846,,-38.7,-428.2,IL
+389,Fifth Third Bancorp,FITB,Commercial Banks,Financials,"Cincinnati, OH",38 Fountain Square Plaza,18,Greg D. Carmichael,1.93,17844,6889,1564,45263,http://www.53.com,19066,,-2,-8.6,OH
+390,"Quintiles IMS Holdings, Inc.",Q,Health Care: Pharmacy and Other Services,Health Care,"Durham, NC",4820 Emperor Blvd.,4,Ari Bousbib,0.76,50000,6878,115,27703,http://www.quintilesims.com,18999,,19.9,-70.3,NC
+391,Jones Lang LaSalle Incorporated,JLL,Real Estate,Financials,"Chicago, IL",200 E. Randolph Dr.,3,Christian Ulbrich,6.98,77300,6804,318.2,60601,http://www.jll.com,5043,,14,-27.5,IL
+392,Dover Corporation,DOV,Industrial Machinery,Industrials,"Downers Grove, IL",3005 Highland Pkwy.,23,Robert A. Livingston,3.25,29000,6794,508.9,60515,http://www.dovercorporation.com,12502,,-3.3,-41.5,IL
+393,"Spirit AeroSystems Holdings, Inc.",SPR,Aerospace and Defense,Aerospace & Defense,"Wichita, KS",3801 S. Oliver St.,3,Thomas C. Gentile III,3.7,14400,6793,469.7,67210,http://www.spiritaero.com,6900,,2.2,-40.4,KS
+394,"Ryder System, Inc.",R,"Trucking, Truck Leasing",Transportation,"Miami, FL",11690 N.W. 105th St.,23,Robert E. Sanchez,4.9,34500,6787,262.5,33178,http://www.ryder.com,3992,,3.3,-13.9,FL
+395,"A-Mark Precious Metals, Inc.",AMRK,Miscellaneous,Materials,"Santa Monica, CA",429 Santa Monica Blvd.,3,Gregory N. Roberts,1.3,83,6784,9.3,90401,http://www.amark.com,120,,11.8,31.5,CA
+396,Tractor Supply Company,TSCO,Specialty Retailers: Other,Retailing,"Brentwood, TN",5401 Virginia Way,4,Gregory A. Sandfort,3.27,19500,6780,437.1,37027,http://www.tractorsupply.com,8960,,8.9,6.5,TN
+397,Sealed Air Corporation,SEE,"Packaging, Containers",Materials,"Charlotte, NC",2415 Cascade Pointe Blvd.,20,Jerome A. Peribere,2.46,23000,6778,486.4,28208,http://www.sealedair.com,8432,,-3.6,45,NC
+398,Auto-Owners Insurance Group,,Insurance: Property and Casualty (Mutual),Financials,"Lansing, MI",6101 Anacapri Blvd.,15,Jeffrey F. Harrold,,4737,6775,706.3,48917,http://www.auto-owners.com,,,4,-13.4,MI
+399,"Yum China Holdings, Inc.",YUMC,Food Services,"Hotels, Restaurants & Leisure","Plano, TX",7100 Corporate Dr.,1,Muktesh Pant,1.36,420000,6752,502,75024,http://ir.yumchina.com,10453,,,,TX
+400,Calpine Corporation,CPN,Energy,Energy,"Houston, TX",717 Texas Ave.,16,John B. Hill,0.26,2372,6716,92,77002,http://www.calpine.com,3989,,3.8,-60.9,TX
+401,"Owens-Illinois, Inc.",OI,"Packaging, Containers",Materials,"Perrysburg, OH",1 Michael Owens Way,23,Andres A. Lopez,1.28,27000,6702,209,43551,http://www.o-i.com,3316,,8.9,54.8,OH
+402,Targa Resources Corp.,TRGP,Pipelines,Energy,"Houston, TX",1000 Louisiana St.,9,Joe Bob Perkins,-1.8,1970,6691,-187.3,77002,http://www.targaresources.com,11743,,0.5,-421.3,TX
+403,JetBlue Airways Corporation,JBLU,Airlines,Transportation,"Long Island City, NY",27-01 Queens Plaza N.,5,Robin Hayes,2.22,15986,6632,759,11101,http://www.jetblue.com,6875,,3.4,12.1,NY
+403,"The Jones Financial Companies, L.L.L.P.",,Securities,Financials,"Des Peres, MO",12555 Manchester Rd.,5,James D. Weddle,,43000,6632,746,63131,http://www.edwardjones.com,,,-0.9,-11,MO
+405,"Franklin Resources, Inc.",BEN,Securities,Financials,"San Mateo, CA",1 Franklin Pkwy.,12,Gregory E. Johnson,2.94,9059,6618,1726.7,94403,http://www.franklinresources.com,23823,,-16.7,-15.2,CA
+406,"Activision Blizzard, Inc.",ATVI,Computer Software,Technology,"Santa Monica, CA",3100 Ocean Park Blvd.,1,Robert A. Kotick,1.28,9500,6608,966,90405,http://www.activisionblizzard.com,37487,,41.7,8.3,CA
+407,"J.B. Hunt Transport Services, Inc.",JBHT,"Trucking, Truck Leasing",Transportation,"Lowell, AR",615 J.B. Hunt Corporate Dr.,5,John N. Roberts III,3.81,22190,6556,432.1,72745,http://www.jbhunt.com,10212,,5.9,1.1,AR
+408,"Constellation Brands, Inc.",STZ,Beverages,"Food, Beverages & Tobacco","Victor, NY",207 High Point Dr.,5,Robert S. Sands,,9000,6548,1054.9,14564,http://www.cbrands.com,31775,,8.6,25.7,NY
+409,NCR Corporation,NCR,"Computers, Office Equipment",Technology,"Duluth, GA",3097 Satellite Blvd.,20,William R. Nuti,1.71,33500,6543,270,30096,http://www.ncr.com,5620,,2.7,,GA
+410,"Asbury Automotive Group, Inc.",ABG,"Automotive Retailing, Services",Retailing,"Duluth, GA",2905 Premiere Pkwy. N.W.,11,Craig T. Monaghan,7.4,7900,6528,167.2,30097,http://www.asburyauto.com,1271,,-0.9,-1.2,GA
+411,"American Financial Group, Inc.",AFG,Insurance: Property and Casualty (Stock),Financials,"Cincinnati, OH",301 E. Fourth St.,18,"Carl H. Lindner lll, S. Craig Lindner",7.33,7600,6498,649,45202,http://www.afginc.com,8303,,5.7,84.4,OH
+412,"Discovery Communications, Inc.",DISCA,Entertainment,Media,"Silver Spring, MD",1 Discovery Place,4,David M. Zaslav,1.96,7000,6497,1194,20910,http://www.discoverycommunications.com,11306,,1.6,15.5,MD
+413,"Berry Global Group, Inc.",BERY,"Packaging, Containers",Materials,"Evansville, IN",101 Oakley St.,1,Thomas E. Salmon,1.89,21000,6489,236,47710,http://www.berryglobal.com,6256,,32.9,174.4,IN
+414,Sanmina Corporation,SANM,Semiconductors and Other Electronic Components,Technology,"San Jose, CA",2700 N. First St.,17,Jure Sola,2.38,40178,6481,187.8,95134,http://www.sanmina.com,3016,,1.7,-50.2,CA
+415,"CalAtlantic Group, Inc.",CAA,Homebuilders,Engineering & Construction,"Arlington, VA",1100 Wilson Blvd.,2,Larry T. Nicholson,3.6,3055,6477,484.7,22209,http://www.calatlantichomes.com,4291,,83,127,VA
+416,"Dr Pepper Snapple Group, Inc.",DPS,Beverages,"Food, Beverages & Tobacco","Plano, TX",5301 Legacy Dr.,9,Larry D. Young,4.54,20000,6440,847,75024,http://www.drpeppersnapplegroup.com,17997,,2.5,10.9,TX
+417,"Dillard's, Inc.",DDS,General Merchandisers,Retailing,"Little Rock, AR",1600 Cantrell Rd.,23,William T. Dillard II,4.93,30800,6418,169.2,72201,http://www.dillards.com,1645,,-5,-37.2,AR
+418,"HRG Group, Inc.",HRG,Household and Personal Products,Household Products,"New York, NY",450 Park Ave.,4,Joseph S. Steinberg,-0.99,16021,6403,-198.8,10022,http://www.hrggroup.com,3869,,10.1,,NY
+419,CMS Energy Corporation,CMS,Utilities: Gas and Electric,Energy,"Jackson, MI",1 Energy Plaza,23,Patricia K. Poppe,1.98,7750,6399,551,49201,http://www.cmsenergy.com,12528,,-0.9,5.4,MI
+420,"Graybar Electric Company, Inc.",,Wholesalers: Diversified,Wholesalers,"St. Louis, MO",34 N. Meramec Ave.,23,Kathleen M. Mazzarella,5.35,8500,6385,93.1,63105,http://www.graybar.com,,,4.5,2.2,MO
+421,"Builders FirstSource, Inc.",BLDR,"Building Materials, Glass",Materials,"Dallas, TX",2001 Bryan St.,1,Floyd F. Sherman,1.27,14000,6367,144.3,75201,http://www.bldr.com,1669,,78.6,,TX
+422,"Yum! Brands, Inc.",YUM,Food Services,"Hotels, Restaurants & Leisure","Louisville, KY",1441 Gardiner Lane,19,Greg Creed,4.04,90000,6366,1619,40213,http://www.yum.com,22611,,-51.4,25.2,KY
+423,"Casey's General Stores, Inc.",CASY,Specialty Retailers: Other,Retailing,"Ankeny, IA",1 Convenience Blvd.,7,Terry W. Handley,5.73,24724,6304,226,50021,http://www.caseys.com,4400,,-10.6,25.1,IA
+424,Amphenol Corporation,APH,Network and Other Communications Equipment,Technology,"Wallingford, CT",358 Hall Ave.,3,R. Adam Norwitt,2.61,62000,6286,822.9,6492,http://www.amphenol.com,21897,,12.9,7.8,CT
+425,Oshkosh Corporation,OSK,Construction and Farm Machinery,Industrials,"Oshkosh, WI",2307 Oregon St.,10,Wilson R. Jones,2.91,13800,6279,216.4,54902,http://www.oshkoshcorporation.com,5118,,3,-5.7,WI
+426,"iHeartMedia, Inc.",IHRT,Entertainment,Media,"San Antonio, TX",200 E. Basse Rd.,17,Robert W. Pittman,-3.5,18700,6274,-296.3,78209,http://www.iheartmedia.com,330,,0.5,,TX
+427,"TreeHouse Foods, Inc.",THS,Food Consumer Products,"Food, Beverages & Tobacco","Oak Brook, IL",2021 Spring Rd.,1,Sam K. Reed,-4.1,16027,6175,-228.6,60523,http://www.treehousefoods.com,4813,,92.6,-298.9,IL
+428,Alleghany Corporation,Y,Insurance: Property and Casualty (Stock),Financials,"New York, NY",1411 Broadway,3,Weston M. Hicks,29.59,3420,6131,456.9,10018,http://www.alleghany.com,9476,,22.6,-18.5,NY
+429,"Expeditors International of Washington, Inc.",EXPD,Transportation and Logistics,Transportation,"Seattle, WA",1015 Third Ave.,10,Jeffrey S. Musser,2.36,16000,6098,430.8,98104,http://www.expeditors.com,10208,,-7.8,-5.8,WA
+430,Avery Dennison Corporation,AVY,"Packaging, Containers",Materials,"Glendale, CA",207 Goode Ave.,23,Mitchell R. Butier,3.54,25000,6087,320.7,91203,http://www.averydennison.com,7157,,2,16.9,CA
+431,Ameren Corporation,AEE,Utilities: Gas and Electric,Energy,"St. Louis, MO",1901 Chouteau Ave.,20,Warner L. Baxter,2.68,8629,6076,653,63103,http://www.ameren.com,13245,,-0.4,3.7,MO
+432,Hanesbrands Inc.,HBI,Apparel,Apparel,"Winston-Salem, NC",1000 E. Hanes Mill Rd.,3,Gerald W. Evans Jr.,1.4,67800,6063,539.4,27105,http://www.hanes.com,7733,,5.8,25.8,NC
+433,"Motorola Solutions, Inc.",MSI,Network and Other Communications Equipment,Technology,"Chicago, IL",500 W. Monroe St.,23,Gregory Q. Brown,3.24,14000,6038,560,60661,http://www.motorolasolutions.com,14131,,6,-8.2,IL
+434,"St. Jude Medical, Inc.",,Medical Products and Equipment,Health Care,"St. Paul, MN",1 St. Jude Medical Dr.,8,Miles D. White,2.54,18000,6004,734,55117,http://www.abbott.com,,,8.4,-16.6,MN
+435,"Harley-Davidson, Inc.",HOG,Transportation Equipment,Transportation,"Milwaukee, WI",3700 W. Juneau Ave.,16,Matthew S. Levatich,3.83,6000,5997,692.2,53208,http://www.harley-davidson.com,10626,,,-8,WI
+436,Regions Financial Corporation,RF,Commercial Banks,Financials,"Birmingham, AL",1900 Fifth Ave. N.,19,O.B. Grayson Hall Jr.,0.87,22166,5967,1163,35203,http://www.regions.com,17512,,5.2,9.5,AL
+437,"Intercontinental Exchange, Inc.",ICE,Securities,Financials,"Atlanta, GA",5660 New Northside Dr.,1,Jeffrey C. Sprecher,2.37,5631,5958,1422,30328,http://www.theice.com,35530,,27.3,11.6,GA
+438,"Alaska Air Group, Inc.",ALK,Airlines,Transportation,"Seattle, WA",19300 International Blvd.,4,Bradley D. Tilden,6.54,19112,5931,814,98188,http://www.alaskaair.com,11407,,5.9,-4,WA
+439,Old Republic International Corporation,ORI,Insurance: Property and Casualty (Stock),Financials,"Chicago, IL",307 N. Michigan Ave.,6,Aldo C. Zucaro,1.62,8500,5901,466.9,60601,http://www.oldrepublic.com,5382,,2.3,10.6,IL
+440,Lam Research Corporation,LRCX,Semiconductors and Other Electronic Components,Technology,"Fremont, CA",4650 Cushing Pkwy.,2,Martin B. Anstice,5.22,7500,5886,914,94538,http://www.lamresearch.com,20903,,11.9,39.4,CA
+441,AK Steel Holding Corporation,AKS,Metals,Materials,"West Chester, OH",9227 Centre Pointe Dr.,17,Roger K. Newport,-0.03,8500,5883,-7.8,45069,http://www.aksteel.com,2263,,-12.1,,OH
+442,"Rockwell Automation, Inc.",ROK,"Electronics, Electrical Equipment",Industrials,"Milwaukee, WI",1201 S. Second St.,23,Blake D. Moret,5.56,22000,5880,729.7,53204,http://www.rockwellautomation.com,20024,,-6.8,-11.8,WI
+443,Adobe Systems Incorporated,ADBE,Computer Software,Technology,"San Jose, CA",345 Park Ave.,1,Shantanu Narayen,2.32,15706,5854,1168.8,95110,http://www.adobe.com,64375,,22.1,85.7,CA
+444,"Avon Products, Inc.",AVP,Household and Personal Products,Household Products,"Rye, NY",601 Midland Ave.,23,Sherilyn S. McCoy,-0.29,26400,5853,-107.6,10580,http://www.avoninvestor.com,1933,,-18.4,,NY
+445,Terex Corporation,TEX,Construction and Farm Machinery,Industrials,"Westport, CT",200 Nyala Farm Rd.,14,John L. Garrison Jr.,-1.63,18100,5841,-176.1,6880,http://www.terex.com,3250,,-10.7,-220.7,CT
+446,"NVR, Inc.",NVR,Homebuilders,Engineering & Construction,"Reston, VA",11700 Plaza America Dr.,8,Paul C. Saville,103.61,4900,5835,425.3,20190,http://www.nvrinc.com,7851,,12.9,11.1,VA
+447,Dana Incorporated,DAN,Motor Vehicles and Parts,Motor Vehicles & Parts,"Maumee, OH",3939 Technology Dr.,23,James K. Kamsickas,4.36,24900,5826,640,43537,http://www.dana.com,2783,,-3.9,302.5,OH
+448,Realogy Holdings Corp.,RLGY,Real Estate,Financials,"Madison, NJ",175 Park Ave.,7,Richard A. Smith,1.46,11800,5810,213,7940,http://www.realogy.com,4173,,1.8,15.8,NJ
+449,American Tower Corporation,AMT,Telecommunications,Telecommunications,"Boston, MA",116 Huntington Ave.,1,James D. Taiclet Jr.,1.98,4507,5786,956.4,2116,http://www.americantower.com,51921,,21.3,39.6,MA
+450,Packaging Corporation of America,PKG,"Packaging, Containers",Materials,"Lake Forest, IL",1955 W. Field Court,3,Mark W. Kowlzan,4.75,14000,5779,449.6,60045,http://www.packagingcorp.com,8631,,0.6,2.9,IL
+451,"Citizens Financial Group, Inc.",CFG,Commercial Banks,Financials,"Providence, RI",1 Citizens Plaza,2,Bruce W. Van Saun,1.97,17600,5763,1045,2903,http://www.citizensbank.com,17597,,9.2,24.4,RI
+452,"United Rentals, Inc.",URI,Miscellaneous,Business Services,"Stamford, CT",100 First Stamford Place,4,Michael J. Kneeland,6.45,12500,5762,566,6902,http://www.unitedrentals.com,10561,,-0.9,-3.2,CT
+453,The Clorox Company,CLX,Household and Personal Products,Household Products,"Oakland, CA",1221 Broadway,18,Benno O. Dorer,4.92,8000,5761,648,94612,http://www.thecloroxcompany.com,17294,,1.7,11.7,CA
+454,"Genesis Healthcare, Inc.",GEN,Health Care: Medical Facilities,Health Care,"Kennett Square, PA",101 E. State St.,2,George V. Hager Jr.,-0.82,82000,5733,-64,19348,http://www.genesishcc.com,408,,2,,PA
+455,M&T Bank Corporation,MTB,Commercial Banks,Financials,"Buffalo, NY",1 M&T Plaza,2,Robert G. Wilmers,7.78,16487,5722,1315.1,14203,http://www.mtb.com,23792,,14.5,21.8,NY
+456,Ingredion Incorporated,INGR,Food Production,"Food, Beverages & Tobacco","Westchester, IL",5 Westbrook Corporate Center,6,Ilene S. Gordon,6.55,11000,5704,484.9,60154,http://www.ingredion.com,8646,,1.5,20.6,IL
+457,UGI Corporation,UGI,Energy,Energy,"King of Prussia, PA",460 N. Gulph Rd.,13,John L. Walsh,2.08,13105,5686,364.7,19406,http://www.ugicorp.com,8543,,-15,29.8,PA
+458,Owens Corning,OC,"Building Materials, Glass",Materials,"Toledo, OH",1 Owens Corning Pkwy.,23,Michael H. Thaman,3.41,16000,5677,393,43659,http://www.owenscorning.com,6910,,6.1,19.1,OH
+459,S&P Global Inc.,SPGI,Financial Data Services,Business Services,"New York, NY",55 Water St.,23,Douglas L. Peterson,7.94,20000,5661,2106,10041,http://www.spglobal.com,33805,,6.6,82.2,NY
+460,Markel Corporation,MKL,Insurance: Property and Casualty (Stock),Financials,"Glen Allen, VA",4521 Highwoods Pkwy.,2,"Thomas S. Gayner, Richard R. Whitt III",31.27,10900,5612,455.7,23060,http://www.markelcorp.com,13623,,4.5,-21.8,VA
+461,Wyndham Worldwide Corporation,WYN,"Hotels, Casinos, Resorts","Hotels, Restaurants & Leisure","Parsippany, NJ",22 Sylvan Way,4,Stephen P. Holmes,5.53,37800,5599,611,7054,http://www.wyndhamworldwide.com,8829,,1.1,-0.2,NJ
+462,Arthur J. Gallagher & Co.,AJG,Diversified Financials,Financials,"Itasca, IL",2 Pierce Place,2,J. Patrick Gallagher Jr.,2.32,24790,5595,414.4,60143,http://www.ajg.com,10148,,3.8,16.1,IL
+463,"Burlington Stores, Inc.",BURL,Specialty Retailers: Apparel,Retailing,"Burlington, NJ",2006 Route 130 N.,2,Thomas A. Kingsbury,3.01,40000,5591,215.9,8016,http://www.burlingtonstores.com,6836,,9,43.5,NJ
+464,First American Financial Corporation,FAF,Insurance: Property and Casualty (Stock),Financials,"Santa Ana, CA",1 First American Way,3,Dennis J. Gilmore,3.09,19531,5576,343,92707,http://www.firstam.com,4332,,7.7,19.1,CA
+465,Symantec Corporation,SYMC,Computer Software,Technology,"Mountain View, CA",350 Ellis St.,10,Gregory S. Clark,3.71,11000,5568,2488,94043,http://www.symantec.com,18986,,-14.4,183.4,CA
+466,"Patterson Companies, Inc.",PDCO,Wholesalers: Health Care,Wholesalers,"St. Paul, MN",1031 Mendota Heights Rd.,1,Scott P. Anderson,1.91,7000,5555,187.2,55120,http://www.pattersoncompanies.com,4393,,27,-16.2,MN
+467,Olin Corporation,OLN,Chemicals,Chemicals,"Clayton, MO",190 Carondelet Plaza,4,John E. Fischer,-0.02,6400,5551,-3.9,63105,http://www.olin.com,5444,,94.5,,MO
+468,"NetApp, Inc.",NTAP,Computer Peripherals,Technology,"Sunnyvale, CA",495 E. Java Dr.,6,George Kurian,0.77,12030,5546,229,94089,http://www.netapp.com,11339,,-9.4,-59.1,CA
+469,"Raymond James Financial, Inc.",RJF,Securities,Financials,"St. Petersburg, FL",880 Carillon Pkwy.,2,Paul C. Reilly,3.65,11900,5520,529.4,33716,http://www.raymondjames.com,10958,,4,5.4,FL
+470,TravelCenters of America LLC,TA,Specialty Retailers: Other,Retailing,"Westlake, OH",24601 Center Ridge Rd.,10,Thomas M. O'Brien,-0.05,20259,5511,-2,44145,http://www.ta-petrol.com,241,,-5.8,-107.3,OH
+471,"Fiserv, Inc.",FISV,Financial Data Services,Business Services,"Brookfield, WI",255 Fiserv Dr.,7,Jeffery W. Yabuki,4.15,23000,5505,930,53045,http://www.fiserv.com,24741,,4.8,30.6,WI
+472,"Host Hotels & Resorts, Inc.",HST,Real Estate,Financials,"Bethesda, MD",6903 Rockledge Dr.,16,James F. Risoleo,1.02,220,5488,762,20817,http://www.hosthotels.com,13794,,1.9,36.6,MD
+473,"Insight Enterprises, Inc.",NSIT,Wholesalers: Electronics and Office Equipment,Wholesalers,"Tempe, AZ",6820 S. Harl Ave.,9,Kenneth T. Lamneck,2.32,5930,5486,84.7,85283,http://www.insight.com,1458,,2.1,11.7,AZ
+474,"Mattel, Inc.",MAT,"Toys, Sporting Goods",Household Products,"El Segundo, CA",333 Continental Blvd.,23,Margaret H. Georgiadis,0.92,32000,5457,318,90245,http://www.mattel.com,8770,,-4.3,-13.9,CA
+475,"AmTrust Financial Services, Inc.",AFSI,Insurance: Property and Casualty (Stock),Financials,"New York, NY",59 Maiden Lane,1,Barry D. Zyskind,2.08,8000,5451,411,10038,http://www.amtrustgroup.com,3158,,18.1,-8.8,NY
+476,Cincinnati Financial Corporation,CINF,Insurance: Property and Casualty (Stock),Financials,"Fairfield, OH",6200 S. Gilmore Rd.,3,Steven J. Johnston,3.55,4754,5449,590.7,45014,http://www.cinfin.com,11911,,6,-6.8,OH
+477,"Simon Property Group, Inc.",SPG,Real Estate,Financials,"Indianapolis, IN",225 W. Washington St.,4,David E. Simon,5.87,4050,5435,1838.9,46204,http://www.simon.com,53732,,3.2,0.6,IN
+478,The Western Union Company,WU,Financial Data Services,Business Services,"Englewood, CO",12500 E. Belford Ave.,11,Hikmet Ersek,0.51,10700,5423,253.2,80112,http://www.westernunion.com,9691,,-1.1,-69.8,CO
+479,KeyCorp,KEY,Commercial Banks,Financials,"Cleveland, OH",127 Public Sq.,19,Beth E. Mooney,0.8,15700,5422,791,44114,http://www.key.com,19238,,19.4,-13.6,OH
+480,"Delek US Holdings, Inc.",DK,Petroleum Refining,Energy,"Brentwood, TN",7102 Commerce Way,3,Ezra Uzi Yemin,-2.49,1326,5414,-153.7,37027,http://www.delekus.com,1504,,-6,-892.3,TN
+481,Booz Allen Hamilton Holding Corp.,BAH,Information Technology Services,Technology,"McLean, VA",8283 Greensboro Dr.,7,Horacio D. Rozanski,1.94,22600,5406,294.1,22102,http://www.boozallen.com,5307,,2.5,26.5,VA
+482,The Chemours Company,CC,Chemicals,Chemicals,"Wilmington, DE",1007 Market St.,1,Mark P. Vergnano,0.04,7000,5400,7,19899,http://www.chemours.com,7080,,,,DE
+483,Western & Southern Mutual Holding Company,,"Insurance: Life, Health (Mutual)",Financials,"Cincinnati, OH",400 Broadway,13,John F. Barrett,,2178,5398,241.2,45202,http://www.westernsouthern.com,,,0.8,-47.2,OH
+484,Celanese Corporation,CE,Chemicals,Chemicals,"Irving, TX",222 W. Las Colinas Blvd.,12,Mark C. Rohr,6.18,7293,5389,900,75039,http://www.celanese.com,12643,,-5,196.1,TX
+485,"Windstream Holdings, Inc.",WIN,Telecommunications,Telecommunications,"Little Rock, AR",4001 Rodney Parham Rd.,5,Anthony W. Thomas,-4.11,11870,5387,-383.5,72212,http://www.windstream.com,1038,,-6.6,-1499.6,AR
+486,Seaboard Corporation,SEB,Food Production,"Food, Beverages & Tobacco","Merriam, KS",9000 W. 67th St.,7,Steven J. Bresky,266.5,11781,5379,312,66202,http://www.seaboardcorp.com,4881,,-3.8,82.5,KS
+487,Essendant Inc.,ESND,Wholesalers: Electronics and Office Equipment,Wholesalers,"Deerfield, IL",1 Parkway N. Blvd.,19,Richard D. Phillips,1.73,6600,5369,63.9,60015,http://www.essendant.com,568,,0.1,,IL
+488,Apache Corporation,APA,"Mining, Crude-Oil Production",Energy,"Houston, TX",2000 Post Oak Blvd.,14,John J. Christmann IV,-3.71,3727,5354,-1405,77056,http://www.apachecorp.com,19547,,-19.5,,TX
+489,"Airgas, Inc.",,Wholesalers: Diversified,Wholesalers,"Radnor, PA",259 N. Radnor-Chester Rd.,4,,4.54,17000,5314,337.5,19087,http://www.airgas.com,,,0.2,-8.3,PA
+490,"Kelly Services, Inc.",KELYA,Temporary Help,Business Services,"Troy, MI",999 W. Big Beaver Rd.,23,George S. Corona,3.08,7500,5277,120.8,48084,http://www.kellyservices.com,836,,-4.4,124.5,MI
+491,Liberty Media Corporation,LSXMA,Entertainment,Media,"Englewood, CO",12300 Liberty Blvd.,1,Gregory B. Maffei,,3626,5276,680,80112,http://www.libertymedia.com,13055,,10,962.5,CO
+492,"Rockwell Collins, Inc.",COL,Aerospace and Defense,Aerospace & Defense,"Cedar Rapids, IA",400 Collins Rd. N.E.,6,Robert K. Ortberg,5.51,19000,5259,728,52498,http://www.rockwellcollins.com,12711,,-0.1,6.1,IA
+493,Robert Half International Inc.,RHI,Temporary Help,Business Services,"Menlo Park, CA",2884 Sand Hill Rd.,2,Harold M. Messmer Jr.,2.67,16400,5250,343.4,94025,http://www.roberthalf.com,6240,,3.1,-4,CA
+494,"CH2M HILL Companies, Ltd.",,"Engineering, Construction",Engineering & Construction,"Englewood, CO",9191 S. Jamaica St.,9,Jacqueline C. Hinman,0.03,20000,5236,15,80112,http://www.ch2m.com,,,-2.3,-81.3,CO
+495,"Big Lots, Inc.",BIG,Specialty Retailers: Other,Retailing,"Columbus, OH",300 Phillipi Rd.,20,David J. Campisi,3.32,23150,5200,152.8,43228,http://www.biglots.com,2180,,0.2,7,OH
+496,"The Michaels Companies, Inc.",MIK,Specialty Retailers: Other,Retailing,"Irving, TX",8000 Bent Branch Dr.,1,Carl S. Rubin,1.82,31000,5197,378.2,75063,http://www.michaels.com,4229,,5.8,4.2,TX
+497,"Toll Brothers, Inc.",TOL,Homebuilders,Engineering & Construction,"Horsham, PA",250 Gibraltar Rd.,5,Douglas C. Yearley Jr.,2.18,4200,5170,382.1,19044,http://www.tollbrothers.com,5872,,23.9,5.2,PA
+498,Yahoo! Inc.,YHOO,Internet Services and Retailing,Technology,"Sunnyvale, CA",701 First Ave.,9,Thomas McInerney,-0.23,8500,5169,-214.3,94089,http://www.yahoo.com,44391,,4,,CA
+499,Vistra Energy Corp.,VST,Energy,Energy,"Dallas, TX",1601 Bryan St.,1,Curtis A. Morgan,,4431,5164,,75201,http://www.vistraenergy.com,6968,,,,TX
+500,ABM Industries Incorporated,ABM,Diversified Outsourcing Services,Business Services,"New York, NY",1 Liberty Plaza,2,Scott B. Salmirs,1.01,110000,5145,57.2,10006,http://www.abm.com,2428,,-2.8,-25,NY
+501,Northern Trust Corporation,NTRS,Commercial Banks,Financials,"Chicago, IL",50 S. LaSalle St.,,Frederick H. Waddell,4.32,17100,5144,1032.5,60603,http://www.northerntrust.com,19869,,5.9,6,IL
+502,"MasTec, Inc.",MTZ,"Engineering, Construction",Engineering & Construction,"Coral Gables, FL",800 S. Douglas Rd.,,Jose R. Mas,1.61,15400,5135,131.3,33134,http://www.mastec.com,3309,,22,,FL
+503,The Blackstone Group L.P.,BX,Diversified Financials,Financials,"New York, NY",345 Park Ave.,,Stephen A. Schwarzman,1.56,2240,5126,1039.2,10154,http://www.blackstone.com,19070,,10.3,46.4,NY
+504,"Telephone and Data Systems, Inc.",TDS,Telecommunications,Telecommunications,"Chicago, IL",30 N. LaSalle St.,,LeRoy T. Carlson Jr.,0.39,10300,5104,43,60602,http://www.tdsinc.com,2921,,-1.4,-80.4,IL
+505,Domtar Corporation,UFS,Forest and Paper Products,Materials,"Fort Mill, SC",234 Kingsley Park Dr.,,John D. Williams,2.04,9700,5098,128,29715,http://www.domtar.com,2287,,-3.2,-9.9,SC
+506,"Williams-Sonoma, Inc.",WSM,Specialty Retailers: Other,Retailing,"San Francisco, CA",3250 Van Ness Ave.,,Laura J. Alber,3.41,19400,5084,305.4,94109,http://www.williams-sonomainc.com,4656,,2.2,-1.5,CA
+507,Westlake Chemical Corporation,WLK,Chemicals,Chemicals,"Houston, TX",2801 Post Oak Blvd.,,Albert Yuan Chao,3.06,8866,5076,398.9,77056,http://www.westlake.com,8516,,13.7,-38.3,TX
+508,"Post Holdings, Inc.",POST,Food Consumer Products,"Food, Beverages & Tobacco","St. Louis, MO",2503 S. Hanley Rd.,,Robert V. Vitale,-0.41,8700,5027,-3.3,63144,http://www.postholdings.com,5626,,8.1,,MO
+509,"Hasbro, Inc.",HAS,"Toys, Sporting Goods",Household Products,"Pawtucket, RI",1027 Newport Ave.,,Brian D. Goldner,4.34,5400,5020,551.4,2861,http://www.hasbro.com,12407,,12.9,22,RI
+510,"Juniper Networks, Inc.",JNPR,Network and Other Communications Equipment,Technology,"Sunnyvale, CA",1133 Innovation Way,,Rami Rahim,1.53,9832,4990,592.7,94089,http://www.juniper.net,10553,,2.7,-6.5,CA
+511,"Fortune Brands Home & Security, Inc.",FBHS,"Home Equipment, Furnishings",Household Products,"Deerfield, IL",520 Lake Cook Rd.,,Christopher J. Klein,2.62,23200,4985,413.2,60015,http://www.fbhs.com,9341,,7,31.2,IL
+512,Brookdale Senior Living Inc.,BKD,Health Care: Medical Facilities,Health Care,"Brentwood, TN",111 Westwood Place,,T. Andrew Smith,-2.18,63850,4977,-404.4,37027,http://www.brookdale.com,2491,,0.3,,TN
+513,Tutor Perini Corporation,TPC,"Engineering, Construction",Engineering & Construction,"Sylmar, CA",15901 Olden St.,,Ronald N. Tutor,1.92,11603,4973,95.8,91342,http://www.tutorperini.com,1565,,1.1,111.6,CA
+514,Navient Corporation,NAVI,Diversified Financials,Financials,"Wilmington, DE",123 Justison St.,,John F. Remondi,2.12,6773,4965,681,19801,http://www.navient.com,4295,,-4.5,-30.8,DE
+515,Neiman Marcus Group LTD LLC,,Specialty Retailers: Apparel,Retailing,"Dallas, TX",1618 Main St.,,Karen W. Katz,,14300,4950,-406.1,75201,http://www.neimanmarcusgroup.com,,,-2.9,-2816.6,TX
+516,Ashland Global Holdings Inc.,ASH,Chemicals,Chemicals,"Covington, KY",50 E. RiverCenter Blvd.,,William A. Wulfsohn,-0.46,11000,4948,-29,41011,http://www.ashland.com,7703,,-8.1,-109.4,KY
+517,"The Hanover Insurance Group, Inc.",THG,Insurance: Property and Casualty (Stock),Financials,"Worcester, MA",440 Lincoln St.,,Joseph M. Zubretsky,3.59,4900,4946,155.1,1653,http://www.hanover.com,3843,,-1.8,-53.2,MA
+518,"CommScope Holding Company, Inc.",COMM,Network and Other Communications Equipment,Technology,"Hickory, NC",1100 CommScope Place S.E.,,Marvin S. Edwards Jr.,1.13,25000,4924,222.8,28602,http://www.commscope.com,8120,,29.3,,NC
+519,Spectra Energy Corp,,Pipelines,Energy,"Houston, TX",5400 Westheimer Court,,Al Monaco,1,6000,4916,693,77056,http://www.enbridge.com,,,-6.1,253.6,TX
+520,Cintas Corporation,CTAS,Diversified Outsourcing Services,Business Services,"Cincinnati, OH",6800 Cintas Blvd.,,Scott D. Farmer,6.21,35000,4906,693.5,45262,http://www.cintas.com,13292,,8.8,61.1,OH
+521,Zoetis Inc.,ZTS,Pharmaceuticals,Health Care,"Parsippany, NJ",10 Sylvan Way,,Juan Ramon Alaix,1.65,9000,4888,821,7054,http://www.zoetis.com,26238,,2.6,142.2,NJ
+522,Molson Coors Brewing Company,TAP,Beverages,"Food, Beverages & Tobacco","Denver, CO",1801 California St.,,Mark R. Hunter,9.26,17400,4885,1975.9,80202,http://www.molsoncoors.com,20574,,36.9,449.6,CO
+523,"Regeneron Pharmaceuticals, Inc.",REGN,Pharmaceuticals,Health Care,"Tarrytown, NY",777 Old Saw Mill River Rd.,,Leonard S. Schleifer,7.7,5400,4860,895.5,10591,http://www.regeneron.com,41107,,18.4,40.8,NY
+524,"Ulta Beauty, Inc.",ULTA,Specialty Retailers: Other,Retailing,"Bolingbrook, IL",1000 Remington Blvd.,,Mary N. Dillon,6.52,21700,4855,409.8,60440,http://www.ulta.com,17722,,23.7,28,IL
+525,Hess Corporation,HES,"Mining, Crude-Oil Production",Energy,"New York, NY",1185 Ave. of the Americas,,John B. Hess,-19.92,2304,4844,-6132,10036,http://www.hess.com,15260,,-26.3,,NY
+526,"Magellan Health, Inc.",MGLN,Health Care: Insurance and Managed Care,Health Care,"Scottsdale, AZ",4800 Scottsdale Rd.,,Barry M. Smith,3.22,9700,4837,77.9,85251,http://www.magellanhealth.com,1630,,5.2,147.9,AZ
+527,Intuit Inc.,INTU,Computer Software,Technology,"Mountain View, CA",2700 Coast Ave.,,Brad D. Smith,3.69,7900,4831,979,94043,http://www.intuit.com,29669,,9.1,168.2,CA
+528,"Under Armour, Inc.",UAA,Apparel,Apparel,"Baltimore, MD",1020 Hull St.,,Kevin A. Plank,,10850,4825,257,21230,http://www.uabiz.com,8674,,21.8,10.5,MD
+529,RPM International Inc.,RPM,Chemicals,Chemicals,"Medina, OH",2628 Pearl Rd.,,Frank C. Sullivan,2.63,13394,4814,354.7,44256,http://www.rpminc.com,7351,,4.8,48.1,OH
+530,Cerner Corporation,CERN,Health Care: Pharmacy and Other Services,Health Care,"North Kansas City, MO",2800 Rockcreek Pkwy.,,Clifford W. Illig,1.85,24400,4797,636.5,64117,http://www.cerner.com,19404,,8.4,18,MO
+531,Sonoco Products Company,SON,"Packaging, Containers",Materials,"Hartsville, SC",1 N. Second St.,,M. Jack Sanders,2.81,20000,4783,286.4,29550,http://www.sonoco.com,5259,,-3.7,14.5,SC
+532,"Securian Financial Group, Inc.",,"Insurance: Life, Health (Stock)",Financials,"St. Paul, MN",400 Robert St. N.,,Christopher M. Hilger,,5000,4777,248.3,55101,http://www.securian.com,,,7.7,-11.8,MN
+533,Peabody Energy Corporation,BTU,"Mining, Crude-Oil Production",Energy,"St. Louis, MO",701 Market St.,,Glenn L. Kellow,-40.45,6700,4715,-739.8,63101,http://www.peabodyenergy.com,13,,-15.9,,MO
+534,YRC Worldwide Inc.,YRCW,"Trucking, Truck Leasing",Transportation,"Overland Park, KS",10990 Roe Ave.,,James L. Welch,0.65,32000,4698,21.5,66211,http://www.yrcw.com,369,,-2.8,2971.4,KS
+535,Commercial Metals Company,CMC,Metals,Materials,"Irving, TX",6565 N. MacArthur Blvd.,,Joseph Alvarado,0.47,8388,4652,54.8,75039,http://www.cmc.com,2215,,-24.5,-61.3,TX
+536,Marathon Oil Corporation,MRO,"Mining, Crude-Oil Production",Energy,"Houston, TX",5555 San Felipe St.,,Lee M. Tillman,-2.61,2117,4650,-2140,77056,http://www.marathonoil.com,13386,,-20.7,,TX
+537,Polaris Industries Inc.,PII,Transportation Equipment,Transportation,"Medina, MN",2100 Hwy. 55,,Scott W. Wine,3.27,10000,4595,212.9,55340,http://www.polaris.com,5274,,-4,-53.2,MN
+538,Envision Healthcare Corporation,EVHC,Health Care: Pharmacy and Other Services,Health Care,"Nashville, TN",1A Burton Hills Blvd.,,Christopher A. Holden,-0.47,54650,4589,-18.6,37215,http://www.evhc.net,7199,,62,-111.4,TN
+539,"Trinity Industries, Inc.",TRN,Transportation Equipment,Transportation,"Dallas, TX",2525 N. Stemmons Freeway,,Timothy R. Wallace,2.25,17680,4588,343.6,75207,http://www.trin.net,4041,,-28.2,-56.9,TX
+540,"Thor Industries, Inc.",THO,Motor Vehicles and Parts,Motor Vehicles & Parts,"Elkhart, IN",601 E. Beardsley Ave.,,Robert W. Martin,4.88,14900,4582,256.5,46514,http://www.thorindustries.com,5055,,14.4,28.7,IN
+541,Caesars Entertainment Corporation,CZR,"Hotels, Casinos, Resorts","Hotels, Restaurants & Leisure","Las Vegas, NV",1 Caesars Palace Dr.,,Mark P. Frissora,-24.41,31000,4555,-3569,89109,http://www.caesars.com,1406,,-2.1,-160.3,NV
+542,Levi Strauss & Co.,,Apparel,Apparel,"San Francisco, CA",1155 Battery St.,,Charles V. Bergh,,13200,4553,291.1,94111,http://www.levistrauss.com,,,1.3,39,CA
+543,"FMC Technologies, Inc.",,"Oil and Gas Equipment, Services",Energy,"Houston, TX",11740 Katy Freeway,,Douglas J. Pferdehirt,0.17,15500,4542,38.4,77079,http://www.technipfmc.com,,,-28.6,-90.2,TX
+544,VWR Corporation,VWR,Wholesalers: Diversified,Wholesalers,"Radnor, PA",100 Matsonford Rd.,,Manuel Brocke-Benz,1.12,10200,4514,148.2,19087,http://www.vwr.com,3714,,4.5,-4,PA
+545,NiSource Inc.,NI,Utilities: Gas and Electric,Energy,"Merrillville, IN",801 E. 86th Ave.,,Joseph Hamrock,1.02,8007,4493,331.5,46410,http://www.nisource.com,7695,,-15.4,15.7,IN
+546,"Coach, Inc.",COH,Apparel,Apparel,"New York, NY",10 Hudson Yards,,Victor Luis,1.65,13850,4492,460.5,10001,http://www.coach.com,11598,,7.2,14.4,NY
+547,Brunswick Corporation,BC,Transportation Equipment,Transportation,"Lake Forest, IL",1 N. Field Court,,Mark D. Schwabero,3,14415,4489,276,60045,http://www.brunswick.com,5474,,8.3,14.3,IL
+548,"Wynn Resorts, Limited",WYNN,"Hotels, Casinos, Resorts","Hotels, Restaurants & Leisure","Las Vegas, NV",3131 Las Vegas Blvd. S.,,Stephen A. Wynn,2.38,24600,4466,242,89109,http://www.wynnresorts.com,11681,,9.6,23.9,NV
+549,"Orbital ATK, Inc.",OA,Aerospace and Defense,Aerospace & Defense,"Dulles, VA",45101 Warp Dr.,,David W. Thompson,5,12300,4455,292.2,20166,http://www.orbitalatk.com,5640,,2.1,100.4,VA
+550,CIT Group Inc.,CIT,Commercial Banks,Financials,"New York, NY",11 W. 42nd St.,,Ellen R. Alemany,-4.2,4410,4453,-848,10036,http://www.cit.com,8700,,14.3,-182,NY
+551,Science Applications International Corporation,SAIC,Information Technology Services,Technology,"Reston, VA",12010 Sunset Hills Rd.,,Anthony J. Moraco,3.22,15321,4450,148,20190,http://www.saic.com,3242,,3.1,26.5,VA
+552,Hyatt Hotels Corporation,H,"Hotels, Casinos, Resorts","Hotels, Restaurants & Leisure","Chicago, IL",71 S. Wacker Dr.,,Mark S. Hoplamazian,1.52,45000,4429,204,60606,http://www.hyatt.com,7048,,2.3,64.5,IL
+553,"McCormick & Company, Incorporated",MKC,Food Consumer Products,"Food, Beverages & Tobacco","Sparks, MD",18 Loveton Circle,,Lawrence E. Kurzius,3.69,10500,4412,472.3,21152,http://www.mccormickcorporation.com,12162,,2.7,17.6,MD
+554,"Diplomat Pharmacy, Inc.",DPLO,Health Care: Pharmacy and Other Services,Health Care,"Flint, MI",4100 S. Saginaw St.,,Philip P. Hagerman,0.42,1782,4410,28.3,48507,http://www.diplomat.is,1069,,31,9.7,MI
+555,"Barnes & Noble, Inc.",BKS,Specialty Retailers: Other,Retailing,"New York, NY",122 Fifth Ave.,,Demos Parneros,-0.49,28500,4403,-24.4,10011,http://www.barnesandnobleinc.com,670,,-27.5,-166.8,NY
+556,Electronic Arts Inc.,EA,Computer Software,Technology,"Redwood City, CA",209 Redwood Shores Pkwy.,,Andrew Wilson,3.5,8500,4396,1156,94065,http://www.ea.com,27596,,-2.6,32.1,CA
+557,Factory Mutual Insurance Company,,Insurance: Property and Casualty (Stock),Financials,"Johnston, RI",270 Central Ave.,,Thomas A. Lawson,,5432,4374,796.8,2919,http://www.fmglobal.com,,,0.7,8,RI
+558,Coty Inc.,COTY,Household and Personal Products,Household Products,"New York, NY",350 Fifth Ave.,,Camillo Pane,0.44,10060,4349,156.9,10118,http://www.coty.com,13545,,-1,-32.5,NY
+559,"Smart & Final Stores, Inc.",SFS,Food and Drug Stores,Food & Drug Stores,"Commerce, CA",600 Citadel Dr.,,David G. Hirz,0.17,7565,4342,12.9,90040,http://www.smartandfinal.com,885,,9.3,-66.2,CA
+560,"Quad/Graphics, Inc.",QUAD,"Publishing, Printing",Media,"Sussex, WI",N61 W23044 Harry's Way,,J. Joel Quadracci,0.9,22600,4330,44.9,53089,http://www.qg.com,1317,,-7.4,,WI
+561,Dynegy Inc.,DYN,Energy,Energy,"Houston, TX",601 Travis St.,,Robert C. Flexon,-9.78,2457,4318,-1240,77002,http://www.dynegy.com,1032,,11.6,-2580,TX
+562,Graphic Packaging Holding Company,GPK,"Packaging, Containers",Materials,"Atlanta, GA",1500 Riveredge Pkwy.,,Michael P. Doss,0.71,13000,4298,228,30328,http://www.graphicpkg.com,4009,,3.3,-0.9,GA
+563,Select Medical Holdings Corporation,SEM,Health Care: Medical Facilities,Health Care,"Mechanicsburg, PA",4714 Gettysburg Rd.,,David S. Chernow,0.87,35450,4286,115.4,17055,http://www.selectmedicalholdings.com,1772,,14.5,-11.7,PA
+564,Welltower Inc.,HCN,Real Estate,Financials,"Toledo, OH",4500 Dorr St.,,Thomas J. DeRosa,2.81,466,4281,1077.8,43615,http://www.welltower.com,25722,,10.9,22,OH
+565,"Advanced Micro Devices, Inc.",AMD,Semiconductors and Other Electronic Components,Technology,"Sunnyvale, CA",1 AMD Place,,Lisa T. Su,-0.6,8200,4272,-497,94085,http://www.amd.com,13697,,7,,CA
+566,USG Corporation,USG,"Building Materials, Glass",Materials,"Chicago, IL",550 W. Adams St.,,Jennifer F. Scanlon,3.46,6600,4269,510,60661,http://www.usg.com,4650,,13.1,-48.5,IL
+567,"KBR, Inc.",KBR,"Engineering, Construction",Engineering & Construction,"Houston, TX",601 Jefferson St.,,Stuart Bradie,-0.43,27500,4268,-61,77002,http://www.kbr.com,2151,,-16.2,-130,TX
+568,"Bloomin' Brands, Inc.",BLMN,Food Services,"Hotels, Restaurants & Leisure","Tampa, FL",2202 N. West Shore Blvd.,,Elizabeth A. Smith,0.37,97000,4252,41.7,33607,http://www.bloominbrands.com,2033,,-2.9,-67.2,FL
+569,"MDU Resources Group, Inc.",MDU,Energy,Energy,"Bismarck, ND",1200 W. Century Ave.,,David L. Goodin,0.33,9598,4252,64.4,58503,http://www.mdu.com,5346,,-2.8,,ND
+570,CSRA Inc.,CSRA,Information Technology Services,Technology,"Falls Church, VA",3170 Fairview Park Dr.,,Lawrence B. Prior III,0.53,18000,4250,87.1,22042,http://www.csra.com,4778,,,,VA
+571,"Laureate Education, Inc.",LAUR,Education,Business Services,"Baltimore, MD",650 S. Exeter St.,,Douglas L. Becker,,54500,4244,371.8,21202,http://www.laureate.net,2403,,-1.1,,MD
+572,SCANA Corporation,SCG,Utilities: Gas and Electric,Energy,"Cayce, SC",100 Scana Pkwy.,,Kevin B. Marsh,4.16,5910,4227,595,29033,http://www.scana.com,9340,,-3.5,-20.2,SC
+573,"T. Rowe Price Group, Inc.",TROW,Securities,Financials,"Baltimore, MD",100 E. Pratt St.,,William J. Stromberg,4.75,6329,4223,1215,21202,http://www.troweprice.com,16477,,0.5,-0.7,MD
+574,"Watsco, Inc.",WSO,Wholesalers: Diversified,Wholesalers,"Miami, FL",2665 S. Bayshore Dr.,,Albert H. Nahmad,5.15,5050,4221,182.8,33133,http://www.watsco.com,5098,,2.6,5.7,FL
+575,"Rush Enterprises, Inc.",RUSHB,"Automotive Retailing, Services",Retailing,"New Braunfels, TX",555 Interstate 35 S.,,W. M. Rush,1,6180,4215,40.6,78130,http://www.rushenterprises.com,1229,,-15.4,-38.6,TX
+576,"Agilent Technologies, Inc.",A,"Scientific, Photographic and Control Equipment",Technology,"Santa Clara, CA",5301 Stevens Creek Blvd.,,Michael R. McMullen,1.4,12500,4202,462,95051,http://www.agilent.com,17040,,4.1,15.2,CA
+577,The WhiteWave Foods Company,,Food Consumer Products,"Food, Beverages & Tobacco","Denver, CO",1225 17th St.,,Gregg L. Engles,1.18,5800,4198,214.6,80202,http://www.whitewave.com,9977,,8.6,27.4,CO
+578,The Valspar Corporation,VAL,Chemicals,Chemicals,"Minneapolis, MN",1101 S. Third St.,,Gary E. Hendrickson,4.36,11083,4191,353,55415,http://www.valspar.com,8815,,-4.6,-11.6,MN
+579,"Total System Services, Inc.",TSS,Financial Data Services,Business Services,"Columbus, GA",1 TSYS Way,,M. Troy Woods,1.73,11500,4170,319.6,31901,http://www.tsys.com,9802,,50,-12.2,GA
+580,Torchmark Corporation,TMK,"Insurance: Life, Health (Stock)",Financials,"McKinney, TX",3700 S. Stonebridge Dr.,,"Gary L. Coleman, Larry M. Hutchison",4.49,3128,4158,549.8,75070,http://www.torchmarkcorp.com,9083,,3.2,4.3,TX
+581,Cabela's Incorporated,CAB,Specialty Retailers: Other,Retailing,"Sidney, NE",1 Cabela Dr.,,Thomas L. Millner,2.13,19100,4129,146.9,69160,http://www.cabelas.com,3639,,3.3,-22.4,NE
+582,"Beacon Roofing Supply, Inc.",BECN,Wholesalers: Diversified,Wholesalers,"Herndon, VA",505 Huntmar Park Dr.,,Paul M. Isabella,1.49,5042,4127,89.9,20170,http://www.becn.com,2953,,64.1,44.4,VA
+583,"CA, Inc.",CA,Computer Software,Technology,"New York, NY",520 Madison Ave.,,Michael P. Gregoire,1.81,11000,4052,783,10022,http://www.ca.com,13258,,-6.3,-7.4,NY
+584,LPL Financial Holdings Inc.,LPLA,Securities,Financials,"Boston, MA",75 State St.,,Dan H. Arnold,2.13,3288,4049,191.9,2109,http://www.lpl.com,3588,,-5.3,13.7,MA
+585,"Sprouts Farmers Market, Inc.",SFM,Food and Drug Stores,Food & Drug Stores,"Phoenix, AZ",5455 E. High St.,,Amin N. Maredia,0.83,24000,4046,124.3,85054,http://www.sprouts.com,3157,,12.6,-3.6,AZ
+586,Swift Transportation Company,SWFT,"Trucking, Truck Leasing",Transportation,"Phoenix, AZ",2200 S. 75th Ave.,,Richard Stocking,1.1,21850,4032,149.3,85043,http://www.swifttrans.com,2733,,-4.7,-24.5,AZ
+587,"Bemis Company, Inc.",BMS,"Packaging, Containers",Materials,"Neenah, WI",1 Neenah Center,,William F. Austen,2.48,17678,4004,236.2,54956,http://www.bemis.com,4493,,-1.6,-1.3,WI
+588,Tiffany & Co.,TIF,Specialty Retailers: Other,Retailing,"New York, NY",727 Fifth Ave.,,Michael J. Kowalski,3.55,11900,4002,446.1,10022,http://www.tiffany.com,11871,,-2.5,-3.8,NY
+589,Flowserve Corporation,FLS,Industrial Machinery,Industrials,"Irving, TX",5215 N. O'Connor Blvd.,,R. Scott Rowe,1.11,18000,3992,145.1,75039,http://www.flowserve.com,6320,,-12.5,-45.8,TX
+590,"CNO Financial Group, Inc.",CNO,"Insurance: Life, Health (Stock)",Financials,"Carmel, IN",11825 N. Pennsylvania St.,,Edward J. Bonach,2.01,3400,3985,358.2,46032,http://www.cnoinc.com,3560,,4.5,32.3,IN
+591,Fastenal Company,FAST,Wholesalers: Diversified,Wholesalers,"Winona, MN",2001 Theurer Blvd.,,Daniel L. Florness,1.73,19624,3962,499.5,55987,http://www.fastenal.com,14897,,2.4,-3.3,MN
+592,"Sally Beauty Holdings, Inc.",SBH,Specialty Retailers: Other,Retailing,"Denton, TX",3001 Colorado Blvd.,,Christian A. Brickman,1.5,22038,3953,222.9,76210,http://www.sallybeautyholdings.com,2914,,3.1,-5.2,TX
+593,"American Axle & Manufacturing Holdings, Inc.",AXL,Motor Vehicles and Parts,Motor Vehicles & Parts,"Detroit, MI",1 Dauch Dr.,,David C. Dauch,3.06,13100,3948,240.7,48211,http://www.aam.com,1444,,1.2,2.2,MI
+594,"Flowers Foods, Inc.",FLO,Food Consumer Products,"Food, Beverages & Tobacco","Thomasville, GA",1919 Flowers Circle,,Allen L. Shiver,0.78,10800,3927,163.8,31757,http://www.flowersfoods.com,4055,,3.9,-13.4,GA
+595,"The Andersons, Inc.",ANDE,Food Production,"Food, Beverages & Tobacco","Maumee, OH",1947 Briarfield Blvd.,,Patrick E. Bowe,0.41,2587,3925,11.6,43537,http://www.andersonsinc.com,1075,,-6.5,,OH
+596,Crown Castle International Corp.,CCI,Telecommunications,Telecommunications,"Houston, TX",1220 Augusta Dr.,,Jay A. Brown,0.95,3200,3921,357,77057,http://www.crowncastle.com,34130,,5.2,-76.5,TX
+597,Boise Cascade Company,BCC,Wholesalers: Diversified,Wholesalers,"Boise, ID",1111 W. Jefferson St.,,Thomas K. Corrick,0.98,6210,3911,38.3,83702,http://www.bc.com,1029,,7.6,-26.7,ID
+598,ON Semiconductor Corporation,ON,Semiconductors and Other Electronic Components,Technology,"Phoenix, AZ",5005 E. McDowell Rd.,,Keith D. Jackson,0.43,32000,3907,182.1,85008,http://www.onsemi.com,6507,,11.8,-11.7,AZ
+599,"Chipotle Mexican Grill, Inc.",CMG,Food Services,"Hotels, Restaurants & Leisure","Denver, CO",1401 Wynkoop St.,,M. Steven Ells,0.77,64570,3904,22.9,80202,http://www.chipotle.com,12779,,-13.3,-95.2,CO
+600,"Amkor Technology, Inc.",AMKR,Semiconductors and Other Electronic Components,Technology,"Tempe, AZ",2045 E. Innovation Circle,,Stephen D. Kelley,0.69,27900,3894,164.2,85284,http://www.amkor.com,2768,,35,221.3,AZ
+601,"Triumph Group, Inc.",TGI,Aerospace and Defense,Aerospace & Defense,"Berwyn, PA",899 Cassatt Rd.,,Daniel J. Crowley,-21.29,14602,3886,-1048,19312,http://www.triumphgroup.com,1277,,-0.1,-539,PA
+602,"OneMain Holdings, Inc.",OMF,Diversified Financials,Financials,"Evansville, IN",601 N.W. Second St.,,Jay N. Levine,1.59,10100,3883,215,47708,http://www.onemainfinancial.com,3360,,77.1,,IN
+603,General Cable Corporation,BGC,"Electronics, Electrical Equipment",Industrials,"Highland Heights, KY",4 Tesseneer Dr.,,Michael T. McDonnell,-1.89,10000,3858,-93.8,41076,http://www.generalcable.com,893,,-14.5,,KY
+604,"AMETEK, Inc.",AME,"Scientific, Photographic and Control Equipment",Technology,"Berwyn, PA",1100 Cassatt Rd.,,David A. Zapico,2.19,15700,3840,512.2,19312,http://www.ametek.com,12439,,-3.4,-13.3,PA
+605,"Alon USA Energy, Inc.",ALJ,Petroleum Refining,Energy,"Dallas, TX",12700 Park Central Dr.,,Ezra Uzi Yemen,-1.17,2830,3832,-82.8,75251,http://www.alonusa.com,875,,-10.1,-257,TX
+606,Pioneer Natural Resources Company,PXD,"Mining, Crude-Oil Production",Energy,"Irving, TX",5205 N. O'Connor Blvd.,,Timothy L. Dove,-3.34,3604,3824,-556,75039,http://www.pxd.com,31621,,-20.8,,TX
+607,"Martin Marietta Materials, Inc.",MLM,"Building Materials, Glass",Materials,"Raleigh, NC",2710 Wycliff Rd.,,C. Howard Nye,6.63,8111,3819,425.4,27607,http://www.martinmarietta.com,13764,,7.9,47.3,NC
+608,"Ingles Markets, Incorporated",IMKTA,Food and Drug Stores,Food & Drug Stores,"Black Mountain, NC",2913 U.S. Hwy. 70 W.,,James W. Lanning,,18020,3795,54.2,28711,http://www.ingles-markets.com,874,,0.4,-8.7,NC
+609,"Roper Technologies, Inc.",ROP,"Scientific, Photographic and Control Equipment",Technology,"Sarasota, FL",6901 Professional Pkwy. E.,,Brian D. Jellison,6.43,14155,3790,658.6,34240,http://www.ropertech.com,21036,,5.8,-5.4,FL
+610,Huntington Bancshares Incorporated,HBAN,Commercial Banks,Financials,"Columbus, OH",41 S. High St.,,Stephen D. Steinour,0.7,15993,3782,711.8,43215,http://www.huntington.com,14598,,19.9,2.7,OH
+611,Xylem Inc.,XYL,Industrial Machinery,Industrials,"Rye Brook, NY",1 International Dr.,,Patrick K. Decker,1.45,16000,3771,260,10573,http://www.xyleminc.com,9024,,3.2,-23.5,NY
+612,"Unified Grocers, Inc.",,Wholesalers: Food and Grocery,Wholesalers,"Commerce, CA",5200 Sheila St.,,Karla C. Robertson,,2400,3762,-7.6,90040,http://www.supervalu.com,,,,,CA
+613,"Leggett & Platt, Incorporated",LEG,"Home Equipment, Furnishings",Household Products,"Carthage, MO",1 Leggett Rd.,,Karl G. Glassman,2.76,21300,3750,385.8,64836,http://www.leggett.com,6692,,-4.7,18.7,MO
+614,DENTSPLY SIRONA Inc.,XRAY,Medical Products and Equipment,Health Care,"York, PA",221 W. Philadelphia St.,,Jeffrey T. Slovin,1.94,15700,3745,429.9,17401,http://www.dentsplysirona.com,14341,,40,71.1,PA
+615,CACI International Inc.,CACI,Information Technology Services,Technology,"Arlington, VA",1100 N. Glebe Rd.,,Kenneth Asbury,5.76,19900,3744,142.8,22201,http://www.caci.com,2861,,13,13.2,VA
+616,Mead Johnson Nutrition Company,MJN,Food Consumer Products,"Food, Beverages & Tobacco","Chicago, IL",225 N. Canal St.,,Rakesh Kapoor,2.92,7600,3743,544.9,60606,http://www.meadjohnson.com,16340,,-8.1,-16.6,IL
+617,"C.R. Bard, Inc.",BCR,Medical Products and Equipment,Health Care,"Murray Hill, NJ",730 Central Ave.,,Timothy M. Ring,7.03,16300,3714,531.4,7974,http://www.crbard.com,17973,,8.7,292.5,NJ
+618,Snap-on Incorporated,SNA,Industrial Machinery,Industrials,"Kenosha, WI",2801 80th St.,,Nicholas T. Pinchuk,9.2,12100,3712,546.4,53143,http://www.snapon.com,9778,,3.3,14.1,WI
+619,HealthSouth Corporation,HLS,Health Care: Medical Facilities,Health Care,"Birmingham, AL",3660 Grandview Pkwy.,,Mark J. Tarr,2.59,29298,3707,247.6,35243,http://www.healthsouth.com,3812,,17.2,35.2,AL
+620,"Nasdaq, Inc.",NDAQ,Securities,Financials,"New York, NY",1 Liberty Plaza,,Adena T. Friedman,0.64,4325,3705,108,10006,http://www.business.nasdaq.com,11539,,8.9,-74.8,NY
+621,Avaya Inc.,,Network and Other Communications Equipment,Technology,"Santa Clara, CA",4655 Great American Pkwy.,,Kevin J. Kennedy,,11656,3702,-750,95054,http://www.avaya.com,,,-9.3,,CA
+622,"CF Industries Holdings, Inc.",CF,Chemicals,Chemicals,"Deerfield, IL",4 Pkwy. N.,,W. Anthony Will,-1.19,2950,3685,-277.5,60015,http://www.cfindustries.com,6844,,-14.5,-139.7,IL
+623,Carlisle Companies Incorporated,CSL,"Building Materials, Glass",Materials,"Scottsdale, AZ",16430 N. Scottsdale Rd.,,D. Christian Koch,3.82,12800,3675,250.1,85254,http://www.carlisle.com,6873,,3.7,-21.8,AZ
+624,"Equinix, Inc.",EQIX,Telecommunications,Telecommunications,"Redwood City, CA",1 Lagoon Dr.,,Stephen M. Smith,1.79,5993,3661,126.8,94065,http://www.equinix.com,30703,,34.3,-32.5,CA
+625,"LSC Communications, Inc.",LKSD,"Publishing, Printing",Media,"Chicago, IL",191 N. Wacker Dr.,0,,0,0,0,0,,,0,0,0,0,
+626,Colfax Corporation,CFX,Industrial Machinery,Industrials,"Annapolis Junction, MD",420 National Business Pkwy.,,Matthew L. Trerotola,1.04,16000,3647,128.1,20701,http://www.colfaxcorp.com,4824,,-8.1,-23.6,MD
+627,Lennox International Inc.,LII,Industrial Machinery,Industrials,"Richardson, TX",2140 Lake Park Blvd.,,Todd M. Bluedorn,6.32,10600,3642,277.8,75080,http://www.lennoxinternational.com,7191,,5,48.9,TX
+628,Iasis Healthcare LLC,,Health Care: Medical Facilities,Health Care,"Franklin, TN",117 Seaboard Lane,,W. Carl Whitmer,,12200,3638,-131.6,37067,http://www.iasishealthcare.com,,,15.2,,TN
+629,Silgan Holdings Inc.,SLGN,"Packaging, Containers",Materials,"Stamford, CT",4 Landmark Sq.,,Anthony J. Allott,1.28,9100,3613,153.4,6901,http://www.silganholdings.com,3268,,-4,-11.1,CT
+630,"American Eagle Outfitters, Inc.",AEO,Specialty Retailers: Apparel,Retailing,"Pittsburgh, PA",77 Hot Metal St.,,Jay L. Schottenstein,1.16,22650,3610,212.4,15203,http://www.ae.com,2557,,2.5,-2.6,PA
+631,Moody's Corporation,MCO,Financial Data Services,Business Services,"New York, NY",250 Greenwich St.,,Raymond W. McDaniel Jr.,1.36,10600,3604,266.6,10007,http://www.moodys.com,21402,,3.4,-71.7,NY
+632,"Calumet Specialty Products Partners, L.P.",CLMT,Petroleum Refining,Energy,"Indianapolis, IN",2780 Waterfront Pkwy. E. Dr.,,Timothy Go,-4.18,2000,3599,-328.6,46214,http://www.calumetspecialty.com,291,,-14.6,,IN
+633,CME Group Inc.,CME,Securities,Financials,"Chicago, IL",20 S. Wacker Dr.,,Terrence A. Duffy,4.53,2700,3595,1534.1,60606,http://www.cmegroup.com,40351,,8.1,23,IL
+634,KB Home,KBH,Homebuilders,Engineering & Construction,"Los Angeles, CA",10990 Wilshire Blvd.,,Jeffrey T. Mezger,1.12,1790,3595,105.6,90024,http://www.kbhome.com,1880,,18.6,24.8,CA
+635,Vulcan Materials Company,VMC,"Building Materials, Glass",Materials,"Birmingham, AL",1200 Urban Center Dr.,,J. Thomas Hill,3.09,7533,3593,419.5,35242,http://www.vulcanmaterials.com,15980,,5,89.7,AL
+636,Platform Specialty Products Corporation,PAH,Chemicals,Chemicals,"West Palm Beach, FL",1450 Centrepark Blvd.,,Rakesh Sachdev,-0.65,7750,3586,-73.7,33401,http://www.platformspecialtyproducts.com,3701,,41,,FL
+637,"Vantiv, Inc.",VNTV,Financial Data Services,Business Services,"Symmes Township, OH",8500 Governor's Hill Dr.,,Charles D. Drucker,1.32,3526,3579,213.2,45249,http://www.vantiv.com,12634,,13.3,44.1,OH
+638,"Skechers U.S.A., Inc.",SKX,Apparel,Apparel,"Manhattan Beach, CA",228 Manhattan Beach Blvd.,,Robert Greenberg,1.57,6900,3577,243.5,90266,http://www.skx.com,4346,,13.2,5,CA
+639,Zebra Technologies Corporation,ZBRA,"Electronics, Electrical Equipment",Industrials,"Lincolnshire, IL",3 Overlook Point,,Anders Gustafsson,-2.65,6500,3574,-137,60069,http://www.zebra.com,4825,,-2.1,,IL
+640,"Hub Group, Inc.",HUBG,Transportation and Logistics,Transportation,"Oak Brook, IL",2000 Clearwater Dr.,,David P. Yeager,2.2,2755,3573,74.8,60523,http://www.hubgroup.com,1584,,1.3,5.4,IL
+641,"HSN, Inc.",HSNI,Internet Services and Retailing,Retailing,"St. Petersburg, FL",1 HSN Dr.,,Rod R. Little,2.25,6500,3568,118.7,33729,http://www.hsni.com,1943,,-3.3,-29.9,FL
+642,"Stericycle, Inc.",SRCL,Waste Management,Business Services,"Lake Forest, IL",28161 N. Keith Dr.,,Charles A. Alutto,2.08,25000,3562,206.4,60045,http://www.stericycle.com,7066,,19.3,-22.7,IL
+643,National General Holdings Corp.,NGHC,Insurance: Property and Casualty (Stock),Financials,"New York, NY",59 Maiden Lane,,Barry Karfunkel,1.37,6930,3550,172.2,10038,http://www.nationalgeneral.com,2531,,41.4,21.1,NY
+644,Taylor Morrison Home Corporation,TMHC,Homebuilders,Engineering & Construction,"Scottsdale, AZ",4900 N. Scottsdale Rd.,,Sheryl D. Palmer,1.69,1800,3550,52.6,85251,http://www.taylormorrison.com,2547,,19.3,-13.8,AZ
+645,"Urban Outfitters, Inc.",URBN,Specialty Retailers: Apparel,Retailing,"Philadelphia, PA",5000 S. Broad St.,,Richard A. Hayne,1.86,17160,3546,218.1,19112,http://www.urbn.com,2763,,2.9,-2.8,PA
+646,Resolute Forest Products Inc.,RFP,Forest and Paper Products,Materials,"Catawba, SC",5300 Cureton Ferry Rd.,,Richard C. Garneau,-0.9,8300,3545,-81,29704,http://www.resolutefp.com,489,,-2.7,,SC
+647,"ScanSource, Inc.",SCSC,Wholesalers: Electronics and Office Equipment,Wholesalers,"Greenville, SC",6 Logue Court,,Michael L. Baur,2.38,2000,3540,63.6,29615,http://www.scansource.com,991,,10,-2.8,SC
+648,"Camping World Holdings, Inc.",CWH,"Automotive Retailing, Services",Retailing,"Lincolnshire, IL",250 Parkway Dr.,0,,0,0,0,0,,,0,0,0,0,
+649,Iron Mountain Incorporated,IRM,Diversified Outsourcing Services,Business Services,"Boston, MA",1 Federal St.,,William L. Meaney,0.42,24000,3525,104.8,2110,http://www.ironmountain.com,9407,,17.2,-14.9,MA
+650,Hubbell Incorporated,HUBB,"Electronics, Electrical Equipment",Industrials,"Shelton, CT",40 Waterview Dr.,,David G. Nord,5.24,17400,3505,293,6484,http://www.hubbell.com,6649,,3.4,5.7,CT
+651,Pinnacle West Capital Corporation,PNW,Utilities: Gas and Electric,Energy,"Phoenix, AZ",400 N. Fifth St.,,Donald E. Brandt,3.95,6339,3499,442,85004,http://www.pinnaclewest.com,9302,,0.1,1.1,AZ
+652,"Church & Dwight Co., Inc.",CHD,Household and Personal Products,Household Products,"Ewing, NJ",500 Charles Ewing Blvd.,,Matthew T. Farrell,1.75,4500,3493,459,8628,http://www.churchdwight.com,12669,,2.9,11.8,NJ
+653,"Noble Energy, Inc.",NBL,"Mining, Crude-Oil Production",Energy,"Houston, TX",1001 Noble Energy Way,,David L. Stover,-2.32,2274,3491,-998,77070,http://www.nobleenergyinc.com,14954,,11.4,,TX
+654,Albemarle Corporation,ALB,Chemicals,Chemicals,"Charlotte, NC",4350 Congress St.,,Luther C. Kissam IV,5.68,5000,3491,643.7,28209,http://www.albemarle.com,11700,,-4.4,92.2,NC
+655,Cooper-Standard Holdings Inc.,CPS,Motor Vehicles and Parts,Motor Vehicles & Parts,"Novi, MI",39550 Orchard Hill Place Dr.,,Jeffrey S. Edwards,7.42,30000,3473,139,48375,http://www.cooperstandard.com,1964,,3.9,24.2,MI
+656,KKR & Co. L.P.,KKR,Securities,Financials,"New York, NY",9 W. 57th St.,,"Henry R. Kravis, George R. Roberts",0.59,1178,3461,309.3,10019,http://www.kkr.com,8253,,-55.6,-36.7,NY
+657,COUNTRY Financial,,Insurance: Property and Casualty (Mutual),Financials,"Bloomington, IL",1701 N. Towanda Ave.,,Kurt F. Bock,,3821,3458,134.8,61701,http://www.countryfinancial.com,,,-1.4,-22,IL
+658,"Ventas, Inc.",VTR,Real Estate,Financials,"Chicago, IL",353 N. Clark St.,,Debra A. Cafaro,1.86,493,3444,649.2,60654,http://www.ventasreit.com,23065,,-1.2,55.4,IL
+659,Hexion Inc.,,Chemicals,Chemicals,"Columbus, OH",180 E. Broad St.,,Craig A. Rogerson,,4300,3438,-38,43215,http://www.hexion.com,,,-17,,OH
+660,"Analog Devices, Inc.",ADI,Semiconductors and Other Electronic Components,Technology,"Norwood, MA",1 Technology Way,,Vincent T. Roche,2.76,10000,3421,861.7,2062,http://www.analog.com,29919,,-0.4,23.6,MA
+661,"Citrix Systems, Inc.",CTXS,Computer Software,Technology,"Fort Lauderdale, FL",851 W. Cypress Creek Rd.,,David J. Henshall,3.41,9600,3418,536.1,33309,http://www.citrix.com,13038,,4.4,67.9,FL
+662,Green Plains Inc.,GPRE,Energy,Energy,"Omaha, NE",1811 Aksarben Dr.,,Todd A. Becker,0.28,1294,3411,10.7,68106,http://www.gpreinc.com,957,,15,50.9,NE
+663,Pitney Bowes Inc.,PBI,"Computers, Office Equipment",Technology,"Stamford, CT",3001 Summer St.,,Marc B. Lautenbach,0.49,14200,3407,92.8,6926,http://www.pb.com,2442,,-4.8,-77.3,CT
+664,"Scripps Networks Interactive, Inc.",SNI,Entertainment,Media,"Knoxville, TN",9721 Sherrill Blvd.,,Kenneth W. Lowe,5.18,3600,3401,673.6,37932,http://www.scrippsnetworksinteractive.com,10165,,12.7,11,TN
+665,Darling Ingredients Inc.,DAR,Food Production,"Food, Beverages & Tobacco","Irving, TX",251 O'Connor Ridge Blvd.,,Randall C. Stuewe,0.62,10000,3398,102.3,75038,http://www.darlingii.com,2391,,,30.3,TX
+666,Wayfair Inc.,W,Internet Services and Retailing,Technology,"Boston, MA",4 Copley Place,,Niraj S. Shah,-2.29,5637,3380,-194.4,2116,http://www.wayfair.com,3480,,50.2,,MA
+667,"Tailored Brands, Inc.",TLRD,Specialty Retailers: Apparel,Retailing,"Houston, TX",6380 Rogerdale Rd.,,Douglas S. Ewert,0.51,19450,3379,25,77072,http://www.tailoredbrands.com,729,,-3.4,,TX
+668,Sabre Corporation,SABR,Internet Services and Retailing,Technology,"Southlake, TX",3150 Sabre Dr.,,Sean E. Menke,0.86,10000,3373,242.6,76092,http://www.sabre.com,5872,,13,-55.5,TX
+669,Global Payments Inc.,GPN,Financial Data Services,Business Services,"Atlanta, GA",10 Glenlake Pkwy.,,Jeffrey S. Sloan,1.39,8760,3371,201.8,30328,http://www.globalpaymentsinc.com,12303,,21.5,-27.4,GA
+670,Atmos Energy Corporation,ATO,Utilities: Gas and Electric,Energy,"Dallas, TX",5430 L.B.J. Freeway,,Kim R. Cocklin,3.38,4747,3350,350.1,75240,http://www.atmosenergy.com,8308,,-19.1,11.1,TX
+671,TEGNA Inc.,TGNA,Entertainment,Media,"McLean, VA",7950 Jones Branch Dr.,,David Lougee,1.99,10121,3341,436.7,22107,http://www.tegna.com,5503,,3.1,-5,VA
+672,"Diebold Nixdorf, Incorporated",DBD,"Computers, Office Equipment",Technology,"North Canton, OH",5995 Mayfair Rd.,,Andreas W. Mattes,-0.48,25000,3341,-33,44720,http://www.dieboldnixdorf.com,2316,,20.7,-144.8,OH
+673,PolyOne Corporation,POL,Chemicals,Chemicals,"Avon Lake, OH",33587 Walker Rd.,,Robert M. Patterson,1.95,7000,3340,165.2,44012,http://www.polyone.com,2787,,-1.1,14.2,OH
+674,TD Ameritrade Holding Corporation,AMTD,Securities,Financials,"Omaha, NE",200 S. 108th Ave.,,Timothy D. Hockey,1.58,6010,3334,842,68154,http://www.amtd.com,20511,,2.5,3.6,NE
+675,Abercrombie & Fitch Co.,ANF,Specialty Retailers: Apparel,Retailing,"New Albany, OH",6301 Fitch Path,,Fran Horowitz,0.06,25500,3327,4,43054,http://www.abercrombie.com,811,,-5.5,-88.9,OH
+676,Greif,GEF,"Packaging, Containers",Materials,"Delaware, OH",425 Winter Rd.,,Peter G. Watson,,12370,3324,74.9,43015,http://www.greif.com,2635,,-8.1,4.2,OH
+677,Alliant Energy Corporation,LNT,Utilities: Gas and Electric,Energy,"Madison, WI",4902 N. Biltmore Lane,,Patricia L. Kampling,1.64,3978,3320,371.5,53718,http://www.alliantenergy.com,9019,,2,-1.8,WI
+678,"American Water Works Company, Inc.",AWK,Miscellaneous,Energy,"Voorhees, NJ",1025 Laurel Oak Rd.,,Susan N. Story,2.62,6800,3302,468,8043,http://www.amwater.com,13822,,4.5,-1.7,NJ
+679,"Acuity Brands, Inc.",AYI,"Electronics, Electrical Equipment",Industrials,"Atlanta, GA",1170 Peachtree St. N.E.,,Vernon J. Nagel,6.63,11800,3291,290.8,30309,http://www.acuitybrands.com,8995,,21.6,30.9,GA
+680,"Skyworks Solutions, Inc.",SWKS,Semiconductors and Other Electronic Components,Technology,"Woburn, MA",20 Sylvan Rd.,,Liam K. Griffin,5.18,7300,3289,995.2,1801,http://www.skyworksinc.com,18118,,0.9,24.7,MA
+681,FMC Corporation,FMC,Chemicals,Chemicals,"Philadelphia, PA",2929 Walnut St.,,Pierre R. Brondeau,1.56,5900,3282,209.1,19104,http://www.fmc.com,9313,,-5.4,-57.2,PA
+682,Amerco,UHAL,"Trucking, Truck Leasing",Transportation,"Reno, NV",5555 Kietzke Lane,,Edward J. Shoen,24.95,19140,3276,489,89511,http://www.amerco.com,7474,,6.5,37.1,NV
+683,CMFG Life Insurance Company,,"Insurance: Life, Health (Stock)",Financials,"Madison, WI",5910 Mineral Point Rd.,,Robert N. Trunzo,,3500,3272,222.6,53705,http://www.cunamutual.com,,,4.4,2.5,WI
+684,"Brinker International, Inc.",EAT,Food Services,"Hotels, Restaurants & Leisure","Dallas, TX",6820 L.B.J. Freeway,,Wyman T. Roberts,3.42,58335,3258,200.7,75240,http://www.brinker.com,2149,,8.5,2.1,TX
+685,"Buckeye Partners, L.P.",BPL,Pipelines,Energy,"Houston, TX",1 Greenway Plaza,,Clark C. Smith,4.03,1865,3248,535.6,77046,http://www.buckeye.com,9630,,-5.9,22.5,TX
+686,Warner Music Group Corp.,,Entertainment,Media,"New York, NY",1633 Broadway,,Stephen F. Cooper,,4445,3246,25,10019,http://www.wmg.com,,,9.4,,NY
+687,"Universal Forest Products, Inc.",UFPI,Forest and Paper Products,Materials,"Grand Rapids, MI",2801 E. Beltline N.E.,,Matthew J. Missad,4.96,9300,3241,101.2,49525,http://www.ufpi.com,2006,,12.2,25.5,MI
+688,American National Insurance Company,ANAT,"Insurance: Life, Health (Stock)",Financials,"Galveston, TX",1 Moody Plaza,,James E. Pozzi,6.71,4597,3228,181,77550,http://www.americannational.com,3177,,7,-25.5,TX
+689,Mercury General Corporation,MCY,Insurance: Property and Casualty (Stock),Financials,"Los Angeles, CA",4484 Wilshire Blvd.,,Gabriel Tirador,1.32,4200,3228,73,90010,http://www.mercuryinsurance.com,3373,,7.3,-1.9,CA
+690,Regal Beloit Corporation,RBC,"Electronics, Electrical Equipment",Industrials,"Beloit, WI",200 State St.,,Mark J. Gliebe,4.52,23000,3225,203.4,53511,http://www.regalbeloit.com,3390,,-8.1,41.9,WI
+691,"Varian Medical Systems, Inc.",VAR,Medical Products and Equipment,Health Care,"Palo Alto, CA",3100 Hansen Way,,Dow R. Wilson,4.19,7800,3218,402.3,94304,http://www.varian.com,8518,,3.8,-2.2,CA
+692,"Aaron's, Inc.",AAN,Specialty Retailers: Other,Retailing,"Atlanta, GA",400 Galleria Pkwy. S.E.,,John W. Robinson III,1.91,11500,3208,139.3,30339,http://www.aarons.com,2119,,0.9,2.6,GA
+693,Visteon Corporation,VC,Motor Vehicles and Parts,Motor Vehicles & Parts,"Van Buren Township, MI",1 Village Center Dr.,,Sachin S. Lawande,2.12,10000,3206,75,48111,http://www.visteon.com,3214,,-41.1,-96.7,MI
+694,"Carter's, Inc.",CRI,Apparel,Apparel,"Atlanta, GA",3438 Peachtree Rd. N.E.,,Michael D. Casey,5.08,18300,3199,258.1,30326,http://www.carters.com,4360,,6.1,8.5,GA
+695,Meritor Inc.,MTOR,Motor Vehicles and Parts,Motor Vehicles & Parts,"Troy, MI",2135 W. Maple Rd.,,Jeffrey A. Craig,6.23,8000,3199,573,48084,http://www.meritor.com,1511,,-8.8,795.3,MI
+696,Regal Entertainment Group,RGC,Entertainment,Media,"Knoxville, TN",7132 Regal Lane,,Amy E. Miles,1.09,25359,3197,170.4,37918,http://www.regmovies.com,3546,,2.2,11.1,TN
+697,"MEDNAX, Inc.",MD,Health Care: Pharmacy and Other Services,Health Care,"Sunrise, FL",1301 Concord Terrace,,Roger J. Medel,3.49,11015,3183,324.9,33323,http://www.mednax.com,6445,,14.5,-3.4,FL
+698,TransDigm Group Incorporated,TDG,Aerospace and Defense,Aerospace & Defense,"Cleveland, OH",1301 E. Ninth St.,,W. Nicholas Howley,10.39,9300,3171,586.4,44114,http://www.transdigm.com,11634,,17.2,31.1,OH
+699,"Landstar System, Inc.",LSTR,"Trucking, Truck Leasing",Transportation,"Jacksonville, FL",13410 Sutton Park Dr. S.,,James B. Gattoni,3.25,1197,3168,137.4,32224,http://www.landstar.com,3584,,-4.6,-7,FL
+700,"Puget Energy, Inc.",,Utilities: Gas and Electric,Energy,"Bellevue, WA",10885 N.E. Fourth St.,,Kimberly J. Harris,,3000,3164,312.9,98004,http://www.pugetenergy.com,,,2.3,29.7,WA
+701,Coca-Cola Bottling Co. Consolidated,COKE,Beverages,"Food, Beverages & Tobacco","Charlotte, NC",4100 Coca-Cola Plaza,,J. Frank Harrison III,5.36,12250,3156,50.1,28211,http://www.cokeconsolidated.com,1923,,36.9,-15,NC
+702,"KAR Auction Services, Inc.",KAR,Wholesalers: Diversified,Wholesalers,"Carmel, IN",13085 Hamilton Crossing Blvd.,,James P. Hallett,1.6,15225,3150,222.4,46032,http://www.karauctionservices.com,5971,,19.3,3.6,IN
+703,Equifax Inc.,EFX,Financial Data Services,Business Services,"Atlanta, GA",1550 Peachtree St. N.W.,,Richard F. Smith,4.04,9500,3145,488.8,30309,http://www.equifax.com,16509,,18.1,13.9,GA
+704,"Groupon, Inc.",GRPN,Internet Services and Retailing,Technology,"Chicago, IL",600 W. Chicago Ave.,,Rich Williams,-0.34,8323,3143,-194.6,60654,http://www.groupon.com,2209,,-1.4,-1041.5,IL
+705,IAC/InterActiveCorp,IAC,Internet Services and Retailing,Technology,"New York, NY",555 W. 18th St.,,Joseph Levin,-0.52,7450,3140,-41.3,10011,http://www.iac.com,5731,,-2.8,-134.6,NY
+706,"Weis Markets, Inc.",WMK,Food and Drug Stores,Food & Drug Stores,"Sunbury, PA",1000 S. Second St.,,Jonathan H. Weis,3.24,23000,3137,87.2,17801,http://www.weismarkets.com,1605,,9,46.9,PA
+707,Allegheny Technologies Incorporated,ATI,Metals,Materials,"Pittsburgh, PA",1000 Six PPG Place,,Richard J. Harshman,-5.97,8500,3135,-640.9,15222,http://www.atimetals.com,1955,,-15.7,,PA
+708,Pinnacle Foods Inc.,PF,Food Consumer Products,"Food, Beverages & Tobacco","Parsippany, NJ",399 Jefferson Rd.,,Mark A. Clouse,1.79,5490,3128,211.1,7054,http://www.pinnaclefoods.com,6838,,17.8,-0.7,NJ
+709,"Tempur Sealy International, Inc.",TPX,"Home Equipment, Furnishings",Household Products,"Lexington, KY",1000 Tempur Way,,Scott L. Thompson,3.38,7300,3127,202.1,40511,http://www.tempursealy.com,2504,,-0.8,175,KY
+710,"SkyWest, Inc.",SKYW,Airlines,Transportation,"St. George, UT",444 S. River Rd.,,Russell A. Childs,-3.14,16900,3121,-161.6,84790,http://www.skywest.com,1775,,0.8,-237.2,UT
+711,International Flavors & Fragrances Inc.,IFF,Chemicals,Chemicals,"New York, NY",521 W. 57th St.,,Andreas Fibig,5.05,6932,3116,405,10019,http://www.iff.com,10466,,3.1,-3.4,NY
+712,"BMC Stock Holdings, Inc.",BMCH,Wholesalers: Diversified,Wholesalers,"Atlanta, GA",980 Hammond Dr. N.E.,,Peter C. Alexander,0.46,9000,3094,30.9,30328,http://www.buildwithbmc.com,1508,,96.2,,GA
+713,Brown-Forman Corporation,BFB,Beverages,"Food, Beverages & Tobacco","Louisville, KY",850 Dixie Hwy.,,Paul C. Varga,2.61,4500,3089,1067,40210,http://www.brown-forman.com,17729,,-1.4,56,KY
+714,"Alexion Pharmaceuticals, Inc.",ALXN,Pharmaceuticals,Health Care,"New Haven, CT",100 College St.,,Ludwig N. Hantson,1.76,3121,3084,399,6510,http://www.alexion.com,27297,,18.4,176.3,CT
+715,KapStone Paper and Packaging Corporation,KS,"Packaging, Containers",Materials,"Northbrook, IL",1101 Skokie Blvd.,,Matthew Kaplan,0.88,6400,3077,86.3,60062,http://www.kapstonepaper.com,2233,,10.3,-18.9,IL
+716,Time Inc.,TIME,"Publishing, Printing",Media,"New York, NY",225 Liberty St.,,Richard L. Battista,-0.49,7450,3076,-48,10281,http://www.timeinc.com,1919,,-0.9,,NY
+717,"TriNet Group, Inc.",TNET,Diversified Outsourcing Services,Business Services,"San Leandro, CA",1100 San Leandro Blvd.,,Burton M. Goldfield,0.85,2600,3060,61.4,94577,http://www.trinet.com,1973,,15.1,93.7,CA
+718,Steelcase Inc.,SCS,"Home Equipment, Furnishings",Household Products,"Grand Rapids, MI",901 44th St. S.E.,,James P. Keane,1.36,11900,3060,170.3,49508,http://www.steelcase.com,1965,,,97.8,MI
+719,EchoStar Corporation,SATS,Network and Other Communications Equipment,Technology,"Englewood, CO",100 Inverness Terrace E.,,Michael T. Dugan,1.92,4000,3057,179.9,80112,http://www.echostar.com,5402,,-2.8,17.3,CO
+720,Sentry Insurance Group,,Insurance: Property and Casualty (Mutual),Financials,"Stevens Point, WI",1800 N. Point Dr.,,Peter G. McPartland,,4110,3053,221.7,54481,http://www.sentry.com,,,5.9,-22,WI
+721,Monster Beverage Corporation,MNST,Beverages,"Food, Beverages & Tobacco","Corona, CA",1 Monster Way,,Rodney C. Sacks,1.19,2278,3049,712.7,92879,http://www.monsterbevcorp.com,26161,,12,30.4,CA
+722,"Gannett Co., Inc.",GCI,"Publishing, Printing",Media,"McLean, VA",7950 Jones Branch Dr.,,Robert J. Dickey,0.44,20900,3048,52.7,22107,http://www.gannett.com,952,,5.6,-63.9,VA
+723,"Fossil Group, Inc.",FOSL,Apparel,Apparel,"Richardson, TX",901 S. Central Expressway,,Kosta N. Kartsotis,1.63,14500,3042,78.9,75080,http://www.fossilgroup.com,842,,-5.8,-64.3,TX
+724,Univision Communications Inc.,,Entertainment,Media,"New York, NY",605 Third Ave.,,Randy A. Falco,,4160,3042,218.9,10158,http://corporate.univision.com,,,6.4,,NY
+725,Meritage Homes Corporation,MTH,Homebuilders,Engineering & Construction,"Scottsdale, AZ",8800 E. Raintree Dr.,,Steven J. Hilton,3.55,1485,3042,149.5,85260,http://www.meritagehomes.com,1484,,17.9,16.2,AZ
+726,MRC Global Inc.,MRC,"Oil and Gas Equipment, Services",Energy,"Houston, TX",1301 McKinney St.,,Andrew R. Lane,-1.1,3516,3041,-83,77010,http://www.mrcglobal.com,1742,,-32.8,,TX
+727,"H&R Block, Inc.",HRB,Diversified Financials,Financials,"Kansas City, MO",1 H&R Block Way,,Thomas A. Gerke,1.49,48600,3038,374.3,64105,http://www.hrblock.com,4817,,-1.3,-21,MO
+728,"Penn National Gaming, Inc.",PENN,"Hotels, Casinos, Resorts","Hotels, Restaurants & Leisure","Wyomissing, PA",825 Berkshire Blvd.,,Timothy J. Wilmott,1.19,18808,3034,109.3,19610,http://www.pngaming.com,1675,,6.9,15834.4,PA
+729,Service Corporation International,SCI,Miscellaneous,Business Services,"Houston, TX",1929 Allen Pkwy.,,Thomas L. Ryan,0.9,19412,3031,177,77019,http://www.sci-corp.com,5817,,1.5,-24.3,TX
+730,The Brink's Company,BCO,Diversified Outsourcing Services,Business Services,"Richmond, VA",1801 Bayberry Court,,Douglas A. Pertz,0.68,60510,3021,34.5,23226,http://www.brinks.com,2690,,-1.5,,VA
+731,"Old Dominion Freight Line, Inc.",ODFL,"Trucking, Truck Leasing",Transportation,"Thomasville, NC",500 Old Dominion Way,,David S. Congdon,3.56,17543,2992,295.8,27360,http://www.odfl.com,7057,,0.6,-2.9,NC
+732,Triple-S Management Corporation,GTS,Health Care: Insurance and Managed Care,Health Care,"San Juan, PR",1441 F.D. Roosevelt Ave.,,Roberto Garcia-Rodriguez,0.71,3580,2985,17.4,920,http://www.triplesmanagement.com,427,,2.8,-66.5,PR
+733,KLA-Tencor Corporation,KLAC,Semiconductors and Other Electronic Components,Technology,"Milpitas, CA",1 Technology Dr.,,Richard P. Wallace,4.49,5580,2985,704.4,95035,http://www.kla-tencor.com,14900,,6.1,92.4,CA
+734,Edwards Lifesciences Corporation,EW,Medical Products and Equipment,Health Care,"Irvine, CA",1 Edwards Way,,Michael A. Mussallem,2.61,11100,2964,569.5,92614,http://www.edwards.com,19866,,18.8,15.1,CA
+735,"Rent-A-Center, Inc.",RCII,Specialty Retailers: Other,Retailing,"Plano, TX",5501 Headquarters Dr.,,Mark E. Speese,-1.98,21504,2963,-105.2,75024,http://www.rentacenter.com,472,,-9.6,,TX
+736,Comerica Incorporated,CMA,Commercial Banks,Financials,"Dallas, TX",1717 Main St.,,Ralph W. Babb Jr.,2.68,7904,2960,477,75201,http://www.comerica.com,12092,,4.4,-8.4,TX
+737,"Paychex, Inc.",PAYX,Diversified Outsourcing Services,Business Services,"Rochester, NY",911 Panorama Trail S.,,Martin Mucci,2.09,13500,2952,756.8,14625,http://www.paychex.com,21160,,7.7,12.1,NY
+738,"First Solar, Inc.",FSLR,Energy,Energy,"Tempe, AZ",350 W. Washington St.,,Mark R. Widmar,-3.48,5400,2951,-358,85281,http://www.firstsolar.com,2820,,-17.5,-165.5,AZ
+739,"Insperity, Inc.",NSP,Diversified Outsourcing Services,Business Services,"Kingwood, TX",19001 Crescent Springs Dr.,,Paul J. Sarvadi,3.09,2600,2941,66,77339,http://www.insperity.com,1862,,13,67.5,TX
+740,The Scotts Miracle-Gro Company,SMG,Chemicals,Chemicals,"Marysville, OH",14111 Scottslawn Rd.,,James S. Hagedorn,5.09,5100,2937,315.3,43041,http://www.scotts.com,5589,,-2.6,97.3,OH
+741,"B/E Aerospace, Inc.",,Aerospace and Defense,Aerospace & Defense,"Wellington, FL",1400 Corporate Center Way,,Werner Lieberherr,3.08,10875,2933,311.1,33414,http://www.rockwellcollins.com,6505,,7.4,8.9,FL
+742,Westinghouse Air Brake Technologies Corporation,WAB,Industrial Machinery,Industrials,"Wilmerding, PA",1001 Air Brake Ave.,,Raymond T. Betler,3.34,20000,2931,304.9,15148,http://www.wabtec.com,7480,,-11.4,-23.5,PA
+743,Cooper Tire & Rubber Company,CTB,Motor Vehicles and Parts,Motor Vehicles & Parts,"Findlay, OH",701 Lima Ave.,,Bradley E. Hughes,4.51,10540,2925,248.4,45840,http://www.coopertire.com,2347,,-1.6,16.7,OH
+744,"Cinemark Holdings, Inc.",CNK,Entertainment,Media,"Plano, TX",3900 Dallas Pkwy.,,Mark Zoradi,2.19,17751,2919,255.1,75093,http://www.cinemark.com,5358,,2.3,17.6,TX
+745,"Keysight Technologies, Inc.",KEYS,"Scientific, Photographic and Control Equipment",Technology,"Santa Rosa, CA",1400 Fountaingrove Pkwy.,,Ronald S. Nersesian,1.95,10300,2918,335,95403,http://www.keysight.com,6675,,2.2,-34.7,CA
+746,Convergys Corporation,CVG,Diversified Outsourcing Services,Business Services,"Cincinnati, OH",201 E. Fourth St.,,Andrea J. Ayers,1.4,130000,2914,143,45202,http://www.convergys.com,2000,,-1.3,-15.4,OH
+747,"Cracker Barrel Old Country Store, Inc.",CBRL,Food Services,"Hotels, Restaurants & Leisure","Lebanon, TN",305 Hartmann Dr.,,Sandra B. Cochran,7.86,73000,2912,189.3,37087,http://www.crackerbarrel.com,3829,,2.5,15.5,TN
+748,"PriceSmart, Inc.",PSMT,General Merchandisers,Retailing,"San Diego, CA",9740 Scranton Rd.,,Jose Luis Laparte,2.92,7835,2905,88.7,92121,http://www.pricesmart.com,2804,,3.7,-0.4,CA
+749,"Broadridge Financial Solutions, Inc.",BR,Financial Data Services,Business Services,"Lake Success, NY",5 Dakota Dr.,,Richard J. Daly,2.53,8000,2897,307.5,11042,http://www.broadridge.com,8037,,7.5,7.1,NY
+750,Scientific Games Corporation,SGMS,"Hotels, Casinos, Resorts","Hotels, Restaurants & Leisure","Las Vegas, NV",6650 S. El Camino Rd.,,Kevin M. Sheehan,-4.05,8400,2883,-353.7,89118,http://www.scientificgames.com,2084,,4.5,,NV
+751,Genesco Inc.,GCO,Specialty Retailers: Apparel,Retailing,"Nashville, TN",1415 Murfreesboro Rd.,,Robert J. Dennis,4.83,17313,2868,97.4,37217,http://www.genesco.com,1088,,-5.1,3,TN
+752,"MSC Industrial Direct Co., Inc.",MSM,Wholesalers: Diversified,Wholesalers,"Melville, NY",75 Maxess Rd.,,Erik Gershwind,3.77,6462,2864,231.2,11747,http://www.mscdirect.com,5826,,-1.6,,NY
+753,Ryerson Holding Corporation,RYI,Metals,Materials,"Chicago, IL",227 W. Monroe St.,,Edward J. Lehner,0.54,3325,2860,18.7,60606,http://www.ryerson.com,468,,-9.7,,IL
+754,"Acadia Healthcare Company, Inc.",ACHC,Health Care: Medical Facilities,Health Care,"Franklin, TN",6100 Tower Circle,,Joey A. Jacobs,0.07,33650,2853,6.1,37067,http://www.acadiahealthcare.com,3829,,55.9,-94.5,TN
+755,"Hologic, Inc.",HOLX,Medical Products and Equipment,Health Care,"Marlborough, MA",250 Campus Dr.,,Stephen P. MacMillan,1.16,5333,2833,330.8,1752,http://www.hologic.com,11884,,4.7,151.4,MA
+756,Unisys Corporation,UIS,Information Technology Services,Technology,"Blue Bell, PA",801 Lakeview Dr.,,Peter A. Altabef,-0.95,21000,2821,-47.7,19422,http://www.unisys.com,703,,-6.4,,PA
+757,"Worthington Industries, Inc.",WOR,Metals,Materials,"Columbus, OH",200 Old Wilson Bridge Rd.,,John P. McConnell,2.22,10000,2820,143.7,43085,http://www.worthingtonindustries.com,2871,,-16.7,87.2,OH
+758,"Sanderson Farms, Inc.",SAFM,Food Production,"Food, Beverages & Tobacco","Laurel, MS",127 Flynt Rd.,,Joe F. Sanderson Jr.,8.37,13232,2816,189,39443,http://www.sandersonfarms.com,2361,,0.4,-12.5,MS
+759,WABCO Holdings Inc.,WBC,Motor Vehicles and Parts,Motor Vehicles & Parts,"Rochester Hills, MI",2770 Research Dr.,,Jacques Esculier,3.98,12860,2810,223,48309,http://www.wabco-auto.com,6402,,6.9,-19,MI
+760,Panera Bread Company,PNRA,Food Services,"Hotels, Restaurants & Leisure","St. Louis, MO",3630 S. Geyer Rd.,,Ronald M. Shaich,6.18,35900,2795,145.6,63127,http://www.panerabread.com,5951,,4.2,-2.5,MO
+761,Metaldyne Performance Group Inc.,,Motor Vehicles and Parts,Motor Vehicles & Parts,"Southfield, MI",1 Towne Sq.,,David C. Dauch,1.39,12000,2791,96.3,48076,http://www.aam.com,1552,,-8.4,-23.1,MI
+762,Medical Mutual of Ohio,,"Insurance: Life, Health (Mutual)",Financials,"Cleveland, OH",2060 E. Ninth St.,,Richard A. Chiricosta,,2238,2757,40.4,44115,http://www.medmutual.com,,,12,-66.2,OH
+763,AMC Networks Inc.,AMCX,Entertainment,Media,"New York, NY",11 Penn Plaza,,Joshua W. Sapan,3.74,2186,2756,270.5,10001,http://www.amcnetworks.com,3975,,6.8,-26.2,NY
+764,"Clean Harbors, Inc.",CLH,Waste Management,Business Services,"Norwell, MA",42 Longwater Dr.,,Alan S. McKim,-0.69,12400,2755,-39.9,2061,http://www.cleanharbors.com,3186,,-15.9,-190.4,MA
+765,"Hovnanian Enterprises, Inc.",HOV,Homebuilders,Engineering & Construction,"Red Bank, NJ",110 W. Front St.,,Ara K. Hovnanian,-0.02,1961,2752,-2.8,7701,http://www.khov.com,335,,28.1,,NJ
+766,"TrueBlue, Inc.",TBI,Temporary Help,Business Services,"Tacoma, WA",1015 A St.,,Steven C. Cooper,-0.37,6000,2751,-15.3,98402,http://www.trueblue.com,1164,,2,-121.4,WA
+767,Crane Co.,CR,Industrial Machinery,Industrials,"Stamford, CT",100 First Stamford Place,,Max H. Mitchell,2.07,11000,2748,122.8,6902,http://www.craneco.com,4449,,0.3,-46.4,CT
+768,"ServiceMaster Global Holdings, Inc.",SERV,Diversified Outsourcing Services,Business Services,"Memphis, TN",860 Ridge Lake Blvd.,,Nikhil Varty,1.13,13000,2746,155,38120,http://www.servicemaster.com,5611,,5.9,-3.1,TN
+769,"Sinclair Broadcast Group, Inc.",SBGI,Entertainment,Media,"Hunt Valley, MD",10706 Beaver Dam Rd.,,Christopher S. Ripley,2.6,8400,2737,245.3,20130,http://www.sbgi.net,4151,,23.3,43,MD
+770,Mutual of America Life Insurance Company,,"Insurance: Life, Health (Mutual)",Financials,"New York, NY",320 Park Ave.,,John R. Greed,,1086,2725,16.7,10022,http://www.mutualofamerica.com,,,9.2,-74.2,NY
+771,"BGC Partners, Inc.",BGCP,Securities,Financials,"New York, NY",499 Park Ave.,,Howard W. Lutnick,0.36,8091,2721,102.5,10022,http://www.bgcpartners.com,3209,,-12.1,-19.2,NY
+772,DSW Inc.,DSW,Specialty Retailers: Apparel,Retailing,"Columbus, OH",810 DSW Dr.,,Roger L. Rawlins,1.52,12600,2711,124.5,43219,http://www.dswinc.com,1658,,3.5,-8.5,OH
+773,"Intuitive Surgical, Inc",ISRG,Medical Products and Equipment,Health Care,"Sunnyvale, CA",1020 Kifer Rd.,,Gary S. Guthart,18.73,3755,2704,735.9,94086,http://www.intuitivesurgical.com,28149,,13.4,25,CA
+774,ArcBest Corporation,ARCB,"Trucking, Truck Leasing",Transportation,"Fort Smith, AR",3801 Old Greenwood Rd.,,Judy R. McReynolds,0.71,13000,2700,18.7,72903,http://www.arcb.com,666,,1.2,-58.4,AR
+775,"PC Connection, Inc.",CNXN,Specialty Retailers: Other,Retailing,"Merrimack, NH",730 Milford Rd.,,Timothy J. McGrath,1.8,2501,2693,48.1,3054,http://www.connection.com,797,,4.6,2.7,NH
+776,A.O. Smith Corporation,AOS,"Electronics, Electrical Equipment",Industrials,"Milwaukee, WI",11270 W. Park Place,,Ajita G. Rajendra,1.85,15450,2686,326.5,53224,http://www.aosmith.com,8874,,5.9,15.4,WI
+777,"The Greenbrier Companies, Inc.",GBX,Transportation Equipment,Transportation,"Lake Oswego, OR",1 Centerpointe Dr.,,William A. Furman,5.73,9418,2680,183.2,97035,http://www.gbrx.com,1223,,2.8,-5,OR
+778,Great Plains Energy Incorporated,GXP,Utilities: Gas and Electric,Energy,"Kansas City, MO",1200 Main St.,,Terry D. Bassham,1.61,2865,2676,290,64105,http://www.greatplainsenergy.com,6294,,6.9,36.2,MO
+779,"The Bon-Ton Stores, Inc.",BONT,General Merchandisers,Retailing,"York, PA",2801 E. Market St.,,Kathryn J. Bufano,-3.18,23300,2674,-63.4,17402,http://www.bonton.com,18,,-4.1,,PA
+780,"Dycom Industries, Inc.",DY,"Engineering, Construction",Engineering & Construction,"Palm Beach Gardens, FL",11770 U.S. Highway 1,,Steven E. Nielsen,3.89,12750,2673,128.7,33408,http://www.dycomind.com,2921,,32.2,52.7,FL
+781,The Timken Company,TKR,Industrial Machinery,Industrials,"North Canton, OH",4500 Mount Pleasant St. N.W.,,Richard G. Kyle,1.92,14111,2670,152.6,44720,http://www.timken.com,3529,,-7.1,,OH
+782,Aleris Corporation,,Metals,Materials,"Cleveland, OH",25825 Science Park Dr.,,Sean M. Stack,,5400,2664,-75.6,44122,http://www.aleris.com,,,-16.9,-255.2,OH
+783,"Legg Mason, Inc.",LM,Securities,Financials,"Baltimore, MD",100 International Dr.,,Joseph A. Sullivan,-0.25,3066,2661,-25,21202,http://www.leggmason.com,3519,,-5.6,-110.6,MD
+784,"Hill-Rom Holdings, Inc.",HRC,Medical Products and Equipment,Health Care,"Chicago, IL",2 Prudential Plaza,,John J. Greisch,1.86,10000,2655,124.1,60601,http://www.hill-rom.com,4613,,33.5,160.2,IL
+785,Stifel Financial Corp.,SF,Securities,Financials,"St. Louis, MO",501 N. Broadway,,Ronald J. Kruszewski,1,7100,2642,81.5,63102,http://www.stifel.com,3420,,11.2,-11.7,MO
+786,Verso Corporation,VRS,Forest and Paper Products,Materials,"Memphis, TN",6775 Lenox Center Court,,B. Christopher DiSantis,,4500,2641,,38115,http://www.versoco.com,206,,-15.4,,TN
+787,"Qorvo, Inc.",QRVO,Semiconductors and Other Electronic Components,Technology,"Greensboro, NC",7628 Thorndike Rd.,,Robert A. Bruggeworth,-0.2,7300,2611,-28.8,27409,http://www.qorvo.com,8670,,52.6,-114.7,NC
+788,Ciena Corporation,CIEN,Network and Other Communications Equipment,Technology,"Hanover, MD",7035 Ridge Rd.,,Gary B. Smith,0.51,5555,2601,72.6,21076,http://www.ciena.com,3337,,6.3,522.1,MD
+789,"Tetra Tech, Inc.",TTEK,"Engineering, Construction",Engineering & Construction,"Pasadena, CA",3475 E. Foothill Blvd.,,Dan L. Batrack,1.42,16000,2584,83.8,91107,http://www.tetratech.com,2341,,12.4,114.4,CA
+790,"Caleres, Inc.",CAL,Specialty Retailers: Apparel,Retailing,"St. Louis, MO",8300 Maryland Ave.,,Diane M. Sullivan,1.52,12000,2579,65.7,63105,http://www.caleres.com,1135,,0.1,-19.4,MO
+791,Pool Corporation,POOL,Wholesalers: Diversified,Wholesalers,"Covington, LA",109 Northpark Blvd.,,Manuel J. Perez de la Mesa,3.47,3900,2571,149,70433,http://www.poolcorp.com,4927,,8.8,16.1,LA
+792,"Hyster-Yale Materials Handling, Inc.",HY,Industrial Machinery,Industrials,"Cleveland, OH",5875 Landerbrook Dr.,,Alfred M. Rankin Jr.,2.61,6500,2570,42.8,44124,http://www.hyster-yale.com,928,,-0.3,-42.7,OH
+793,"Westar Energy, Inc.",WR,Utilities: Gas and Electric,Energy,"Topeka, KS",818 S. Kansas Ave.,,Mark A. Ruelle,2.43,2254,2562,346.6,66612,http://www.westarenergy.com,7709,,4.2,18.7,KS
+794,Public Storage,PSA,Real Estate,Business Services,"Glendale, CA",701 Western Ave.,,Ronald L. Havner Jr.,6.81,5500,2561,1453.6,91201,http://www.publicstorage.com,37983,,7.5,10.9,CA
+795,Plexus Corp.,PLXS,Semiconductors and Other Electronic Components,Technology,"Neenah, WI",1 Plexus Way,,Todd P. Kelsey,2.24,14000,2556,76.4,54956,http://www.plexus.com,1947,,-3.7,-19,WI
+796,"Boston Properties, Inc.",BXP,Real Estate,Financials,"Boston, MA",800 Boylston St.,,Owen D. Thomas,3.26,785,2551,512.8,2199,http://www.bostonproperties.com,20370,,2.4,-12.1,MA
+797,"GNC Holdings, Inc.",GNC,Food and Drug Stores,Food & Drug Stores,"Pittsburgh, PA",300 Sixth Ave.,,Robert F. Moran,-4.12,11650,2540,-286.3,15222,http://www.gnc.com,503,,-3.8,-230.5,PA
+798,"HCP, Inc.",HCP,Real Estate,Financials,"Irvine, CA",1920 Main St.,,Thomas M. Herzog,1.34,188,2538,627.7,92614,http://www.hcpi.com,14652,,-0.2,,CA
+799,Penn Mutual Life Insurance Co.,,"Insurance: Life, Health (Stock)",Financials,"Horsham, PA",600 Dresher Rd.,,Eileen C. McDonnell,,1029,2537,210.8,19044,http://www.pennmutual.com,,,10.8,1.1,PA
+800,"TTM Technologies, Inc.",TTMI,Semiconductors and Other Electronic Components,Technology,"Costa Mesa, CA",1665 Scenic Ave.,,Thomas T. Edman,0.34,28360,2533,34.9,92626,http://www.ttm.com,1641,,20.9,,CA
+801,"Prologis, Inc.",PLD,Real Estate,Financials,"San Francisco, CA","Pier 1, Bay 1",,Hamid R. Moghadam,2.27,1530,2533,1209.9,94111,http://www.prologis.com,27474,,15.3,39.2,CA
+802,"Twitter, Inc.",TWTR,Internet Services and Retailing,Technology,"San Francisco, CA",1355 Market St.,,Jack Dorsey,-0.65,3583,2530,-456.9,94103,http://www.twitter.com,10867,,14,,CA
+803,Kemper Corporation,KMPR,Insurance: Property and Casualty (Stock),Financials,"Chicago, IL",1 E. Wacker Dr.,,Joseph P. Lacher Jr.,0.33,5750,2522,16.8,60601,http://www.kemper.com,2047,,7.7,-80.4,IL
+804,"Valmont Industries, Inc.",VMI,Metals,Materials,"Omaha, NE",1 Valmont Plaza,,Mogens C. Bay,7.63,10552,2522,173.2,68154,http://www.valmont.com,3508,,-3.7,331.8,NE
+805,Crestwood Equity Partners LP,CEQP,Energy,Energy,"Houston, TX",700 Louisiana St.,,Robert G Phillips,-3.55,1219,2521,-216.3,77002,http://www.crestwoodlp.com,1787,,-4.3,,TX
+806,"Applied Industrial Technologies, Inc.",AIT,Wholesalers: Diversified,Wholesalers,"Cleveland, OH",1 Applied Plaza,,Neil A. Schrimsher,0.75,5569,2519,29.6,44115,http://www.applied.com,2411,,-8.4,-74.4,OH
+807,VCA Inc.,WOOF,Health Care: Medical Facilities,Health Care,"Los Angeles, CA",12401 W. Olympic Blvd.,,Robert L. Antin,2.56,14700,2517,209.2,90064,http://www.vca.com,7433,,18,-0.9,CA
+808,Granite Construction Incorporated,GVA,"Engineering, Construction",Engineering & Construction,"Watsonville, CA",585 W. Beach St.,,James H. Roberts,1.42,3400,2515,57.1,95076,http://www.graniteconstruction.com,1989,,6.1,-5.6,CA
+809,Vornado Realty Trust,VNO,Real Estate,Financials,"New York, NY",888 Seventh Ave.,,Steven Roth,4.34,4225,2510,906.9,10019,http://www.vno.com,18969,,-0.8,19.3,NY
+810,Mettler-Toledo International Inc.,MTD,"Scientific, Photographic and Control Equipment",Technology,"Columbus, OH",1900 Polaris Pkwy.,,Olivier A. Filliol,14.22,13700,2508,384.4,43240,http://www.mt.com,12406,,4.7,8.9,OH
+811,"A. Schulman, Inc.",SHLM,Chemicals,Chemicals,"Fairlawn, OH",3637 Ridgewood Rd.,,Joseph M. Gingo,-12.44,4800,2496,-357.1,44333,http://www.aschulman.com,927,,4.3,-1441.1,OH
+812,"Wolverine World Wide, Inc.",WWW,Apparel,Apparel,"Rockford, MI",9341 Cortland Dr. N.E.,,Blake W. Krueger,0.89,5860,2495,87.7,49351,http://www.wolverineworldwide.com,2421,,-7.3,-28.6,MI
+813,Graham Holdings Company,GHC,Education,Business Services,"Arlington, VA",1300 N. 17th St.,,Timothy J. O'Shaughnessy,29.8,15813,2482,168.6,22209,http://www.ghco.com,3352,,-16.8,,VA
+814,"Chico's FAS, Inc.",CHS,Specialty Retailers: Apparel,Retailing,"Fort Myers, FL",11215 Metro Pkwy.,,Shelley G. Broader,0.69,13650,2476,91.2,33966,http://www.chicosfas.com,1818,,-6.3,4588,FL
+815,"Domino's Pizza, Inc.",DPZ,Food Services,"Hotels, Restaurants & Leisure","Ann Arbor, MI",30 Frank Lloyd Wright Dr.,,J. Patrick Doyle,4.3,14100,2473,214.7,48105,http://www.dominos.com,8853,,11.6,11.4,MI
+816,Zions Bancorporation,ZION,Commercial Banks,Financials,"Salt Lake City, UT",1 S. Main St.,,Harris H. Simmons,1.99,10057,2470,469.1,84133,http://www.zionsbancorporation.com,8502,,11.7,51.6,UT
+817,"Southwest Gas Holdings, Inc.",SWX,Utilities: Gas and Electric,Energy,"Las Vegas, NV",5241 Spring Mountain Rd.,,John P. Hester,3.18,6277,2461,152,89150,http://www.swgasholdings.com,3942,,-0.1,9.9,NV
+818,Tops Holding II Corporation,,Food and Drug Stores,Food & Drug Stores,"Williamsville, NY",6363 Main St.,,Frank Curci,,14800,2457,-44.6,14221,http://www.topsmarkets.com,,,-0.6,,NY
+819,"Hawaiian Holdings, Inc.",HA,Airlines,Transportation,"Honolulu, HI",3375 Koapaka St.,,Mark B. Dunkerley,4.36,6199,2451,235.4,96819,http://www.hawaiianairlines.com,2491,,5.7,28.9,HI
+820,Vectren Corporation,VVC,Utilities: Gas and Electric,Energy,"Evansville, IN",1 Vectren Sq.,,Carl L. Chapman,2.55,5800,2448,211.6,47708,http://www.vectren.com,4862,,0.6,7.2,IN
+821,"Gartner, Inc.",IT,Information Technology Services,Technology,"Stamford, CT",56 Top Gallant Rd.,,Eugene A. Hall,2.31,8813,2445,193.6,6902,http://www.gartner.com,8961,,13,10.2,CT
+822,"On Assignment, Inc.",ASGN,Temporary Help,Business Services,"Calabasas, CA",26745 Malibu Hills Rd.,,Peter T. Dameris,1.81,3620,2440,97.2,91301,http://www.onassignment.com,2555,,17.5,-0.5,CA
+823,Southwestern Energy Company,SWN,"Mining, Crude-Oil Production",Energy,"Spring, TX",10000 Energy Dr.,,William J. Way,-6.32,1469,2436,-2643,77389,http://www.swn.com,4068,,-22.2,,TX
+824,PAREXEL International Corporation,PRXL,Health Care: Pharmacy and Other Services,Health Care,"Waltham, MA",195 West St.,,Josef H. von Rickenbach,2.86,18600,2426,154.9,2451,http://www.parexel.com,3216,,4.1,4.8,MA
+825,Equity Residential,EQR,Real Estate,Financials,"Chicago, IL",2 N. Riverside Plaza,,David J. Neithercut,11.68,2700,2426,4292.2,60606,http://www.equityapartments.com,22841,,-11.6,393.3,IL
+826,"J.Crew Group, Inc.",,Specialty Retailers: Apparel,Retailing,"New York, NY",770 Broadway,,James W. Brett,,9950,2426,-23.5,10003,http://www.jcrew.com,,,-3.2,,NY
+827,"Synopsys, Inc.",SNPS,Computer Software,Technology,"Mountain View, CA",690 E. Middlefield Rd.,,"Aart J. de Geus, Chi-Foon Chan",1.73,10669,2423,266.8,94043,http://www.synopsys.com,10854,,8,18.1,CA
+828,Moog Inc.,MOGA,Aerospace and Defense,Aerospace & Defense,"Elma, NY",400 Jamison Rd.,,John R. Scannell,3.47,10497,2412,126.7,14059,http://www.moog.com,2416,,-4.5,-3.9,NY
+829,Cabot Corporation,CBT,Chemicals,Chemicals,"Boston, MA",2 Seaport Lane,,Sean D. Keohane,2.36,4300,2411,149,2210,http://www.cabotcorp.com,3726,,-16,,MA
+830,ITT Corporation,ITT,Industrial Machinery,Industrials,"White Plains, NY",1133 Westchester Ave.,,Denise L. Ramos,2.07,9500,2405,186.1,10604,http://www.itt.com,3637,,-3.2,-47.1,NY
+831,"TRI Pointe Group, Inc.",TPH,Homebuilders,Engineering & Construction,"Irvine, CA",19540 Jamboree Rd.,,Douglas F. Bauer,1.21,1137,2405,195.2,92612,http://www.tripointegroup.com,1995,,0.2,-5,CA
+832,"MAXIMUS, INC.",MMS,Information Technology Services,Technology,"Reston, VA",1891 Metro Center Dr.,,Richard A. Montoni,2.69,18800,2403,178.4,20190,http://www.maximus.com,4031,,14.5,13.1,VA
+833,"Illumina, Inc.",ILMN,"Scientific, Photographic and Control Equipment",Technology,"San Diego, CA",5200 Illumina Way,,Francis A. deSouza,3.07,5500,2398,462.6,92122,http://www.illumina.com,24911,,8,0.2,CA
+834,Amica Mutual Insurance Co.,,Insurance: Property and Casualty (Mutual),Financials,"Lincoln, RI",100 Amica Way,,Robert A. DiMuccio,,3682,2397,157.3,2865,http://www.amica.com,,,7.5,150.1,RI
+835,Alere Inc.,ALR,Medical Products and Equipment,Health Care,"Waltham, MA",51 Sawyer Rd.,,Namal Nawana,-0.73,9200,2395,-39.3,2453,http://www.alere.com,3457,,-3.1,-119.1,MA
+836,The Toro Company,TTC,Construction and Farm Machinery,Industrials,"Bloomington, MN",8111 Lyndale Ave. S.,,Richard M. Olson,2.06,6834,2392,231,55420,http://www.thetorocompany.com,6720,,0.1,14.6,MN
+837,Sprague Resources LP,SRLP,Wholesalers: Diversified,Wholesalers,"Portsmouth, NH",185 International Dr.,,David C. Glendon,0.38,600,2390,10.2,3801,http://www.spragueenergy.com,580,,-31.4,-87,NH
+838,"G-III Apparel Group, Ltd.",GIII,Apparel,Apparel,"New York, NY",512 Seventh Ave.,,Morris Goldfarb,1.1,9826,2386,51.9,10018,http://www.g-iii.com,1065,,1.8,-54.6,NY
+839,"Hawaiian Electric Industries, Inc.",HE,Utilities: Gas and Electric,Energy,"Honolulu, HI",1001 Bishop St.,,Constance H. Lau,2.29,3796,2381,248.3,96813,http://www.hei.com,3622,,-8.5,55.3,HI
+840,Pinnacle Entertainment Inc.,PNK,"Hotels, Casinos, Resorts","Hotels, Restaurants & Leisure","Las Vegas, NV",3980 Howard Hughes Pkwy.,,Anthony M. Sanfilippo,-7.79,16092,2379,-457.4,89169,http://www.pnkinc.com,1101,,3.8,-1035.6,NV
+841,Columbia Sportswear Company,COLM,Apparel,Apparel,"Portland, OR",14375 N.W. Science Park Dr.,,Timothy P. Boyle,2.72,6023,2377,191.9,97229,http://www.columbia.com,4082,,2.2,10.1,OR
+842,First Republic Bank,FRC,Commercial Banks,Financials,"San Francisco, CA",111 Pine St.,,James H. Herbert II,3.93,3566,2376,673.4,94111,http://www.firstrepublic.com,14739,,19.4,29,CA
+843,Komatsu Mining Corp.,,Construction and Farm Machinery,Industrials,"Milwaukee, WI",100 E. Wisconsin Ave.,,Jeffrey Dawes,-0.59,10000,2371,-58.4,53202,http://www.joyglobal.com,2814,,-25.2,,WI
+844,Trimble Inc.,TRMB,"Scientific, Photographic and Control Equipment",Technology,"Sunnyvale, CA",935 Stewart Dr.,,Steven W. Berglund,0.52,8388,2362,132.4,94085,http://www.trimble.com,8091,,3.1,9.3,CA
+845,Edgewell Personal Care Company,EPC,Household and Personal Products,Household Products,"Chesterfield, MO",1350 Timberlake Manor Pkwy.,,David P. Hatfield,2.99,6000,2362,178.7,63017,http://www.edgewell.com,4200,,-2.4,,MO
+846,Belden Inc.,BDC,"Electronics, Electrical Equipment",Industrials,"St. Louis, MO",1 N. Brentwood Blvd.,,John S. Stroup,2.65,8400,2357,128,63105,http://www.belden.com,2919,,2.1,93.3,MO
+847,"DST Systems, Inc.",DST,Financial Data Services,Business Services,"Kansas City, MO",333 W. 11th St.,,Stephen C. Hooley,12.82,9800,2355,427.3,64105,http://www.dstsystems.com,3855,,-16.7,19.3,MO
+848,"WGL Holdings, Inc.",WGL,Energy,Energy,"Washington, DC",101 Constitution Ave. N.W.,,Terry D. McCallister,3.31,1554,2350,167.6,20080,http://www.wglholdings.com,4227,,-11.7,27.7,DC
+849,GGP Inc.,GGP,Real Estate,Financials,"Chicago, IL",110 N. Wacker Dr.,,Sandeep Mathrani,1.34,1800,2346,1288.4,60606,http://www.ggp.com,20478,,-2.4,-6.3,IL
+850,"Brocade Communications Systems, Inc.",BRCD,Network and Other Communications Equipment,Technology,"San Jose, CA",130 Holger Way,,Lloyd A. Carney,0.51,5960,2346,213.8,95134,http://www.brocade.com,5088,,3.6,-37.2,CA
+851,"Akamai Technologies, Inc.",AKAM,Computer Software,Technology,"Cambridge, MA",150 Broadway,,F. Thomson Leighton,1.79,6490,2340,316.1,2142,http://www.akamai.com,10365,,6.5,-1.6,MA
+852,Nationstar Mortgage Holdings Inc.,NSM,Diversified Financials,Financials,"Coppell, TX",8950 Cypress Waters Blvd.,,Jay Bray,0.19,7750,2340,19,75019,http://www.mynationstar.com,1541,,,-51,TX
+853,"Annaly Capital Management, Inc.",NLY,Diversified Financials,Financials,"New York, NY",1211 Ave. of the Americas,,Kevin G. Keyes,1.39,189,2339,1433.8,10036,http://www.annaly.com,11321,,106,207.3,NY
+854,Kansas City Southern,KSU,Railroads,Transportation,"Kansas City, MO",427 W. 12th St.,,Patrick J. Ottensmeyer,4.43,6820,2334,478.1,64105,http://www.kcsouthern.com,9146,,-3.5,-1.1,MO
+855,"Revlon, Inc.",REV,Household and Personal Products,Household Products,"New York, NY",1 New York Plaza,,Fabian T. Garcia,-0.42,7300,2334,-21.9,10004,http://www.revloninc.com,1463,,21.9,-139,NY
+856,"AptarGroup, Inc.",ATR,"Packaging, Containers",Materials,"Crystal Lake, IL",475 W. Terra Cotta Ave.,,Stephan B. Tanda,3.17,12700,2331,205.6,60014,http://www.aptar.com,4810,,0.6,3.1,IL
+857,"M.D.C. Holdings, Inc.",MDC,Homebuilders,Engineering & Construction,"Denver, CO",4350 S. Monaco St.,,Larry A. Mizel,2,1318,2327,103.2,80237,http://www.richmondamerican.com,1551,,21.9,56.9,CO
+858,"Vishay Intertechnology, Inc.",VSH,Semiconductors and Other Electronic Components,Technology,"Malvern, PA",63 Lancaster Ave.,,Gerald Paul,0.32,22100,2323,48.8,19355,http://www.vishay.com,2405,,1,,PA
+859,Teradata Corporation,TDC,Information Technology Services,Technology,"Dayton, OH",10000 Innovation Dr.,,Victor L. Lund,0.95,10093,2322,125,45342,http://www.teradata.com,4073,,-8.2,,OH
+860,"Spirit Airlines, Inc.",SAVE,Airlines,Transportation,"Miramar, FL",2800 Executive Way,,Robert L. Fornaro,3.76,5159,2322,264.9,33025,http://www.spirit.com,3680,,8.4,-16.5,FL
+861,EnerSys,ENS,"Electronics, Electrical Equipment",Industrials,"Reading, PA",2366 Bernville Rd.,,David M. Shaffer,2.99,9400,2316,136.2,19605,http://www.enersys.com,3428,,-7.6,-24.9,PA
+862,"Snyder's-Lance, Inc.",LNCE,Food Consumer Products,"Food, Beverages & Tobacco","Charlotte, NC",13024 Ballantyne Corporate Place,,Brian J. Driscoll,0.16,6100,2314,14.9,28277,http://www.snyderslance.com,3890,,39.7,-70.6,NC
+863,"Benchmark Electronics, Inc.",BHE,Semiconductors and Other Electronic Components,Technology,"Angleton, TX",3000 Technology Dr.,,Paul J. Tufano,1.29,9900,2310,64,77515,http://www.bench.com,1581,,-9.1,-32.9,TX
+864,West Corporation,WSTC,Diversified Outsourcing Services,Business Services,"Omaha, NE",11808 Miracle Hills Dr.,,Thomas B. Barker,2.29,10720,2292,193.4,68154,http://www.west.com,2036,,-3.8,-20,NE
+865,"Selective Insurance Group, Inc.",SIGI,Insurance: Property and Casualty (Stock),Financials,"Branchville, NJ",40 Wantage Ave.,,Gregory E. Murphy,2.7,2250,2284,158.5,7890,http://www.selective.com,2746,,7.1,-4.4,NJ
+866,Party City Holdco Inc.,PRTY,Specialty Retailers: Other,Retailing,"Elmsford, NY",80 Grasslands Rd.,,James M. Harrison,0.98,14000,2283,117.5,10523,http://www.partycity.com,1679,,-0.5,1023.2,NY
+867,The Cheesecake Factory Incorporated,CAKE,Food Services,"Hotels, Restaurants & Leisure","Calabasas Hills, CA",26901 Malibu Hills Rd.,,David M. Overton,2.83,38800,2276,139.5,91301,http://www.thecheesecakefactory.com,3024,,8.3,19.7,CA
+868,"Lincoln Electric Holdings, Inc.",LECO,Industrial Machinery,Industrials,"Cleveland, OH",22801 St. Clair Ave.,,Christopher L. Mapes,2.91,9000,2275,198.4,44117,http://www.lincolnelectric.com,5712,,-10.3,55.6,OH
+869,The Carlyle Group L.P.,CG,Securities,Financials,"Washington, DC",1001 Pennsylvania Ave. N.W.,,"William E. Conway Jr., David M. Rubenstein",-0.08,1600,2274,6.4,20004,http://www.carlyle.com,1366,,-24.3,,DC
+870,"Enable Midstream Partners, LP",ENBL,Pipelines,Energy,"Oklahoma City, OK",211 N. Robinson Ave.,,Rodney J. Sailor,0.69,1600,2272,312,73102,http://www.enablemidstream.com,7217,,-6,,OK
+871,"Oceaneering International, Inc.",OII,"Oil and Gas Equipment, Services",Energy,"Houston, TX",11911 FM 529 Rd.,,Roderick A. Larson,0.25,9300,2272,24.6,77041,http://www.oceaneering.com,2661,,-25.8,-89.4,TX
+872,Vista Outdoor Inc.,VSTO,Miscellaneous,Household Products,"Farmington, UT","262 N. University Ave,",,Michael Callahan,2.35,5800,2271,147,84025,http://www.vistaoutdoor.com,1175,,9,84.9,UT
+873,The Middleby Corporation,MIDD,Industrial Machinery,Industrials,"Elgin, IL",1400 Toastmaster Dr.,,Selim A. Bassoul,4.98,8026,2268,284.2,60120,http://www.middleby.com,7841,,24.2,48.3,IL
+874,"Herman Miller, Inc.",MLHR,"Home Equipment, Furnishings",Household Products,"Zeeland, MI",855 E. Main Ave.,,Brian C. Walker,2.26,7607,2265,136.7,49464,http://www.hermanmiller.com,1890,,5.7,40.2,MI
+875,"PerkinElmer, Inc.",PKI,"Scientific, Photographic and Control Equipment",Technology,"Waltham, MA",940 Winter St.,,Robert F. Friel,2.12,8000,2262,234.3,2451,http://www.perkinelmer.com,6374,,,10.3,MA
+876,OGE Energy Corp.,OGE,Utilities: Gas and Electric,Energy,"Oklahoma City, OK",321 N. Harvey Ave.,,Sean R. Trauschke,1.69,2453,2259,338.2,73102,http://www.oge.com,6986,,2.8,24.7,OK
+877,"PCM, Inc",PCMI,Wholesalers: Electronics and Office Equipment,Wholesalers,"El Segundo, CA",1940 E. Mariposa Ave.,,Frank F. Khulusi,1.4,3611,2251,17.6,90245,http://www.pcm.com,350,,35.4,,CA
+878,Louisiana-Pacific Corporation,LPX,"Building Materials, Glass",Materials,"Nashville, TN",414 Union St.,,W. Bradley Southern,1.03,4800,2233,149.8,37219,http://www.lpcorp.com,3590,,18,,TN
+879,MPM Holdings Inc.,MPMQ,Chemicals,Chemicals,"Waterford, NY",260 Hudson River Rd.,,John G. Boss,-3.39,4900,2233,-163,12188,http://www.momentive.com,452,,-2.4,,NY
+880,Knights of Columbus,,"Insurance: Life, Health (Mutual)",Financials,"New Haven, CT",1 Columbus Plaza,,Carl A. Anderson,,903,2228,88.7,6510,http://www.kofc.org,,,2.2,30.8,CT
+881,"Apollo Global Management, LLC",APO,Securities,Financials,"New York, NY",9 W. 57th St.,,Leon D. Black,2.11,986,2222,402.9,10019,http://www.agm.com,4510,,85.1,199.5,NY
+882,"Donaldson Company, Inc.",DCI,Industrial Machinery,Industrials,"Minneapolis, MN",1400 W. 94th St.,,Tod E. Carpenter,1.42,11700,2220,190.8,55431,http://www.donaldson.com,6013,,-6.4,-8.3,MN
+883,American Equity Investment Life Holding Company,AEL,"Insurance: Life, Health (Stock)",Financials,"West Des Moines, IA",6000 Westown Pkwy.,,John M. Matovina,0.97,530,2220,83.2,50266,http://www.american-equity.com,2086,,46.2,-62.1,IA
+884,"Super Micro Computer, Inc.",SMCI,"Computers, Office Equipment",Technology,"San Jose, CA",980 Rock Ave.,,Charles Liang,1.39,2699,2216,72,95131,http://www.supermicro.com,1224,,11.3,-29.3,CA
+885,"Xilinx, Inc.",XLNX,Semiconductors and Other Electronic Components,Technology,"San Jose, CA",2100 Logic Dr.,,Moshe N. Gavrielov,2.05,3458,2214,550.9,95124,http://www.xilinx.com,14411,,-6.9,-15,CA
+886,Tupperware Brands Corporation,TUP,Household and Personal Products,Household Products,"Orlando, FL",14901 S. Orange Blossom Trail,,E. V. Goings,4.41,13000,2213,223.6,32837,http://www.tupperwarebrands.com,3178,,-3.1,20.3,FL
+887,"Guess?, Inc.",GES,Specialty Retailers: Apparel,Retailing,"Los Angeles, CA",1444 S. Alameda St.,,Victor Herrero,0.27,14300,2209,22.8,90021,http://www.guess.com,923,,0.2,-72.2,CA
+888,"Nu Skin Enterprises, Inc.",NUS,Household and Personal Products,Household Products,"Provo, UT",75 W. Center St.,,Ritch N. Wood,2.55,32250,2208,143.1,84601,http://www.nuskinenterprises.com,2934,,-1.7,7.5,UT
+889,"Magellan Midstream Partners, L.P.",MMP,Pipelines,Energy,"Tulsa, OK",1 Williams Center,,Michael N. Mears,3.52,1747,2205,802.8,74172,http://www.magellanlp.com,17537,,0.8,-2,OK
+890,HNI Corporation,HNI,"Home Equipment, Furnishings",Household Products,"Muscatine, IA",408 E. Second St.,,Stanley A. Askren,1.88,9150,2204,85.6,52761,http://www.hnicorp.com,2032,,-4.4,-18.8,IA
+891,"Maxim Integrated Products, Inc.",MXIM,Semiconductors and Other Electronic Components,Technology,"San Jose, CA",160 Rio Robles,,Tunc Doluca,0.79,7213,2195,227.5,95134,http://www.maximintegrated.com,12710,,-4.9,10.4,CA
+892,"Affiliated Managers Group, Inc.",AMG,Securities,Financials,"West Palm Beach, FL",777 S. Flagler Dr.,,Sean M. Healey,8.57,4100,2195,472.8,33401,http://www.amg.com,9279,,-11.7,-7.2,FL
+893,"Express, Inc.",EXPR,Specialty Retailers: Apparel,Retailing,"Columbus, OH",1 Express Dr.,,David G. Kornberg,0.73,10182,2193,57.4,43230,http://www.express.com,714,,-6.7,-50.7,OH
+894,Boyd Gaming Corporation,BYD,"Hotels, Casinos, Resorts","Hotels, Restaurants & Leisure","Las Vegas, NV",3883 Howard Hughes Pkwy.,,Keith E. Smith,3.63,19932,2184,418,89169,http://www.boydgaming.com,2492,,-0.7,785,NV
+895,"The GEO Group, Inc.",GEO,Miscellaneous,Business Services,"Boca Raton, FL",621 N.W. 53rd St.,,George C. Zoley,1.33,19370,2180,148.7,33487,http://www.geogroup.com,3810,,18.2,6.7,FL
+896,Tribune Media Company,TRCO,Entertainment,Media,"Chicago, IL",435 N. Michigan Ave.,,Peter M. Kern,0.16,8200,2174,14.2,60611,http://www.tribunemedia.com,3237,,8.1,,IL
+897,Microchip Technology Incorporated,MCHP,Semiconductors and Other Electronic Components,Technology,"Chandler, AZ",2355 W. Chandler Blvd.,,Steve Sanghi,1.49,9766,2173,324.1,85224,http://www.microchip.com,15968,,1.2,-12.2,AZ
+898,"Fitbit, Inc.",FIT,"Electronics, Electrical Equipment",Technology,"San Francisco, CA",405 Howard St.,,James Park,-0.47,1753,2170,-102.8,94105,http://www.fitbit.com,1345,,16.8,-158.5,CA
+899,Waters Corporation,WAT,"Scientific, Photographic and Control Equipment",Technology,"Milford, MA",34 Maple St.,,Christopher J. O'Connell,6.41,6899,2167,521.5,1757,http://www.waters.com,12517,,6.1,11.2,MA
+900,Teledyne Technologies Incorporated,TDY,"Scientific, Photographic and Control Equipment",Technology,"Thousand Oaks, CA",1049 Camino Dos Rios,,Robert Mehrabian,5.37,8970,2150,190.9,91360,http://www.teledyne.com,4454,,-6.4,-2.5,CA
+901,"Digital Realty Trust, Inc.",DLR,Real Estate,Financials,"San Francisco, CA",4 Embarcadero Center,0,,0,0,0,0,,,0,0,0,0,
+902,RH,RH,Specialty Retailers: Other,Retailing,"Corte Madera, CA",15 Koch Rd.,,Gary G. Friedman,0.13,4600,2135,5.4,94925,http://www.restorationhardware.com,1661,,1.2,-94.1,CA
+903,"Fred's, Inc.",FRED,Food and Drug Stores,Food & Drug Stores,"Memphis, TN",4300 New Getwell Rd.,,Michael K. Bloom,-1.8,7324,2125,-66.5,38118,http://www.fredsinc.com,490,,-1.2,,TN
+904,Universal Corporation,UVV,Tobacco,"Food, Beverages & Tobacco","Richmond, VA",9201 Forest Hill Ave.,,George C. Freeman III,3.92,24000,2120,109,23235,http://www.universalcorp.com,1788,,-6.7,-4.9,VA
+905,"CDK Global, Inc.",CDK,Computer Software,Technology,"Hoffman Estates, IL",1950 Hassell Rd.,,Brian P. MacDonald,1.51,8700,2115,239.3,60169,http://www.cdkglobal.com,9427,,,,IL
+906,IDEX Corporation,IEX,Industrial Machinery,Industrials,"Lake Forest, IL",1925 W. Field Court,,Andrew K. Silvernail,3.53,7158,2113,271.1,60045,http://www.idexcorp.com,7137,,4.6,-4.1,IL
+907,Cliffs Natural Resources Inc.,CLF,"Mining, Crude-Oil Production",Energy,"Cleveland, OH",200 Public Sq.,,Lourenco C. Goncalves,0.87,2927,2109,174.1,44114,http://www.cliffsnaturalresources.com,2433,,-12.8,,OH
+908,Curtiss-Wright Corporation,CW,Aerospace and Defense,Aerospace & Defense,"Charlotte, NC",13925 Ballantyne Corporate Place,,David C. Adams,4.15,8000,2109,187.3,28277,http://www.curtisswright.com,4044,,-6.8,28.8,NC
+909,"Verisk Analytics, Inc.",VRSK,Financial Data Services,Business Services,"Jersey City, NJ",545 Washington Blvd.,,Scott G. Stephenson,3.45,6231,2108,591.2,7310,http://www.verisk.com,13500,,1.9,16.5,NJ
+910,NOW INC.,DNOW,Wholesalers: Diversified,Wholesalers,"Houston, TX",7402 N. Eldridge Pkwy.,,Robert R. Workman,-2.18,4350,2107,-234,77041,http://www.distributionnow.com,1823,,-30,,TX
+911,"Apollo Education Group, Inc.",,Education,Business Services,"Phoenix, AZ",4025 S. Riverpoint Pkwy.,,Gregory W. Cappelli,-0.78,18500,2105,-84.6,85040,http://www.apollo.edu,,,-18.8,-384.2,AZ
+912,Kennametal Inc.,KMT,Industrial Machinery,Industrials,"Pittsburgh, PA",600 Grant St.,,Christopher Rossi,-2.83,11178,2098,-226,15219,http://www.kennametal.com,3146,,-20.7,,PA
+913,H.B. Fuller Company,FUL,Chemicals,Chemicals,"St. Paul, MN",1200 Willow Lake Blvd.,,James J. Owens,2.42,4587,2095,124.1,55110,http://www.hbfuller.com,2605,,0.5,43.2,MN
+914,PharMerica Corporation,PMC,Health Care: Pharmacy and Other Services,Health Care,"Louisville, KY",1901 Campus Place,,Gregory S. Weishar,0.69,5100,2091,21.6,40299,http://www.pharmerica.com,721,,3.1,-38.5,KY
+915,"Engility Holdings, Inc.",EGL,Information Technology Services,Technology,"Chantilly, VA",4803 Stonecraft Blvd.,,Lynn A. Dugle,-0.29,9100,2076,-10.8,20151,http://www.engilitycorp.com,1064,,-0.4,,VA
+916,"Sears Hometown and Outlet Stores, Inc.",SHOS,Specialty Retailers: Other,Retailing,"Hoffman Estates, IL",5500 Trillium Blvd.,,William A. Powell,-5.81,2592,2070,-131.9,60192,http://www.shos.com,89,,-9.5,,IL
+917,"Bio-Rad Laboratories, Inc.",BIO,"Scientific, Photographic and Control Equipment",Health Care,"Hercules, CA",1000 Alfred Nobel Dr.,,Norman A. Schwartz,0.95,8250,2068,28.1,94547,http://www.bio-rad.com,5897,,2.4,-75.1,CA
+918,Federated Mutual Insurance Company,,Insurance: Property and Casualty (Mutual),Financials,"Owatonna, MN",121 E. Park Sq.,,Jeffrey E. Fetters,,2331,2062,228.7,55060,http://www.federatedinsurance.com,,,10.1,-1.4,MN
+919,"Mueller Industries, Inc.",MLI,Industrial Machinery,Industrials,"Memphis, TN",8285 Tournament Dr.,,Gregory L. Christopher,1.74,4244,2056,99.7,38125,http://www.muellerindustries.com,1972,,-2.1,13.5,TN
+920,"Red Hat, Inc.",RHT,Computer Software,Technology,"Raleigh, NC",100 E. Davie St.,,James M. Whitehurst,1.07,8800,2052,199.4,27601,http://www.redhat.com,15422,,14.7,10.6,NC
+921,NewMarket Corporation,NEU,Chemicals,Chemicals,"Richmond, VA",330 S. Fourth St.,,Thomas E. Gottwald,20.54,1998,2050,243.4,23219,http://www.newmarket.com,5372,,-4.3,2,VA
+922,Hospitality Properties Trust,HPT,Real Estate,Financials,"Newton, MA",255 Washington St.,,John G. Murray,1.3,450,2047,223.1,2458,http://www.hptreit.com,5179,,6.5,34.1,MA
+923,"AvalonBay Communities, Inc.",AVB,Real Estate,Financials,"Arlington, VA",671 N. Glebe Rd.,,Timothy J. Naughton,7.52,3071,2045,1034,22203,http://www.avalonbay.com,25214,,10.2,39.3,VA
+924,"Renewable Energy Group, Inc.",REGI,Energy,Energy,"Ames, IA",416 S. Bell Ave.,,Randolph L. Howard,1.06,703,2041,44.3,50010,http://www.regi.com,403,,47.1,,IA
+925,CONSOL Energy Inc.,CNX,"Mining, Crude-Oil Production",Energy,"Canonsburg, PA",1000 Consol Energy Dr.,,Nicholas J. DeIuliis,-3.7,2307,2040,-848.1,15317,http://www.consolenergy.com,3850,,-34.5,,PA
+926,"Ferrellgas Partners, L.P.",FGP,Energy,Energy,"Overland Park, KS",7500 College Blvd.,,James E. Ferrell,-6.68,3908,2039,-665.4,66210,http://www.ferrellgas.com,583,,0.7,-2346.5,KS
+927,"Tower International, Inc.",TOWR,Motor Vehicles and Parts,Motor Vehicles & Parts,"Livonia, MI",17672 Laurel Park Dr. N.,,James C. Gouin,1.82,7900,2033,38.6,48152,http://www.towerinternational.com,554,,-0.4,-80.1,MI
+928,"Autodesk, Inc.",ADSK,Computer Software,Technology,"San Rafael, CA",111 McInnis Pkwy.,,Andrew Anagnost,-2.61,9000,2031,-582.1,94903,http://www.autodesk.com,19097,,-18.9,,CA
+929,99 Cents Only Stores LLC,,Specialty Retailers: Other,Retailing,"Commerce, CA",4000 Union Pacific Ave.,,Geoffrey J. Covert,,17000,2027,-108.9,90023,http://www.99only.com,,,1.2,,CA
+930,E*Trade Financial Corporation,ETFC,Securities,Financials,"New York, NY",1271 Ave. of the Americas,0,,0,0,0,0,,,0,0,0,0,
+931,"Woodward, Inc.",WWD,Aerospace and Defense,Aerospace & Defense,"Fort Collins, CO",1081 Woodward Way,,Thomas A. Gendron,2.85,6852,2023,180.8,80524,http://www.woodward.com,4173,,-0.7,-0.3,CO
+932,Esterline Technologies Corporation,ESL,Aerospace and Defense,Aerospace & Defense,"Bellevue, WA",500 108th Ave. N.E.,,Curtis C. Reusser,3.42,13572,2015,101.7,98004,http://www.esterline.com,2555,,-3.4,16.1,WA
+933,"Itron, Inc.",ITRI,"Electronics, Electrical Equipment",Industrials,"Liberty Lake, WA",2111 N. Molter Rd.,,Philip C. Mezey,0.82,6750,2013,31.8,99019,http://www.itron.com,2346,,6.9,150.6,WA
+934,"Werner Enterprises, Inc.",WERN,"Trucking, Truck Leasing",Transportation,"Omaha, NE",14507 Frontier Rd.,,Derek J. Leathers,1.09,11738,2009,79.1,68138,http://www.werner.com,1891,,-4,-36,NE
+935,Stewart Information Services Corporation,STC,Insurance: Property and Casualty (Stock),Financials,"Houston, TX",1980 Post Oak Blvd.,,Matthew W. Morris,1.85,6350,2007,55.5,77056,http://www.stewart.com,1045,,-1.3,,TX
+936,Hexcel Corporation,HXL,Aerospace and Defense,Aerospace & Defense,"Stamford, CT",281 Tresser Blvd.,,Nick L. Stanage,2.65,6155,2004,249.8,6901,http://www.hexcel.com,4952,,7.7,5.3,CT
+937,Genesee & Wyoming Inc.,GWR,Railroads,Transportation,"Darien, CT",20 West Ave.,,John C. Hellmann,2.42,7300,2002,141.1,6820,http://www.gwrr.com,4216,,0.1,-37.3,CT
+938,Primoris Services Corporation,PRIM,"Engineering, Construction",Engineering & Construction,"Dallas, TX",2100 McKinney Ave.,,David L. King,0.51,7926,1997,26.7,75201,http://www.primoriscorp.com,1197,,3.5,-27.5,TX
+939,"SPX FLOW, INC.",FLOW,Industrial Machinery,Industrials,"Charlotte, NC",13320 Ballantyne Corporate Place,,Marcus G. Michael,-9.23,7000,1996,-381.8,28277,http://www.spxflow.com,1467,,-16.4,-536.3,NC
+940,"F5 Networks, Inc.",FFIV,Network and Other Communications Equipment,Technology,"Seattle, WA",401 Elliott Ave. W.,,Francois Locoh-Donou,5.38,4395,1995,365.9,98119,http://www.f5.com,9237,,3.9,0.2,WA
+941,"VeriFone Systems, Inc.",PAY,Computer Peripherals,Technology,"San Jose, CA",88 W. Plumeria Dr.,,Paul S. Galant,-0.08,5900,1992,-9.3,95134,http://www.verifone.com,2091,,-0.4,-111.7,CA
+942,"Texas Roadhouse, Inc.",TXRH,Food Services,"Hotels, Restaurants & Leisure","Louisville, KY",6040 Dutchmans Lane,,W. Kent Taylor,1.63,27550,1991,115.6,40205,http://www.texasroadhouse.com,3150,,10.1,19.3,KY
+943,NLV Financial Corporation,,"Insurance: Life, Health (Stock)",Financials,"Montpelier, VT",1 National Life Dr.,,Mehran Assadi,,1058,1989,156.1,5604,http://www.nationallifegroup.com,,,16.5,42.8,VT
+944,"Buffalo Wild Wings, Inc.",BWLD,Food Services,"Hotels, Restaurants & Leisure","Minneapolis, MN",5500 Wayzata Blvd.,0,,0,0,0,0,,,0,0,0,0,
+945,"Continental Resources, Inc.",CLR,"Mining, Crude-Oil Production",Energy,"Oklahoma City, OK",20 N. Broadway,,Harold G. Hamm,-1.08,1080,1980,-399.7,73102,http://www.clr.com,17009,,-26.1,,OK
+946,"Arch Coal, Inc.",ARCH,"Mining, Crude-Oil Production",Energy,"St. Louis, MO",1 CityPlace Dr.,,John W. Eaves,,4025,1974,,63141,http://www.archcoal.com,1724,,-23.3,,MO
+947,"Roadrunner Transportation Systems, Inc.",RRTS,Transportation and Logistics,Transportation,"Cudahy, WI",4900 S. Pennsylvania Ave.,,Curtis W. Stoelting,0.65,4502,1972,24.9,53110,http://www.rrts.com,263,,-1.1,-48.1,WI
+948,"The Cooper Companies, Inc.",COO,Medical Products and Equipment,Health Care,"Pleasanton, CA",6140 Stoneridge Mall Rd.,,Robert S. Weiss,5.59,10600,1967,273.9,94588,http://www.coopercos.com,9782,,9.4,34.6,CA
+949,"hhgregg, Inc.",HGGGQ,Specialty Retailers: Other,Retailing,"Indianapolis, IN",4151 E. 96th St.,,Kevin J. Kovacs,-1.98,4412,1960,-54.9,46240,http://www.hhgregg.com,4,,-8,,IN
+950,"Euronet Worldwide, Inc.",EEFT,Financial Data Services,Business Services,"Leawood, KS",3500 College Blvd.,,Michael J. Brown,3.23,6200,1959,174.4,66211,http://www.euronetworldwide.com,4478,,10.5,76.5,KS
+951,Griffon Corp.,GFF,"Building Materials, Glass",Materials,"New York, NY",712 Fifth Ave.,,Ronald J. Kramer,0.68,6000,1957,30,10019,http://www.griffon.com,1165,,-2.9,-12.5,NY
+952,"CoreLogic, Inc.",CLGX,Financial Data Services,Business Services,"Irvine, CA",40 Pacifica,0,,0,0,0,0,,,0,0,0,0,
+953,"Nuance Communications, Inc.",NUAN,Computer Software,Technology,"Burlington, MA",1 Wayside Rd.,,Paul A. Ricci,-0.04,13200,1949,-12.5,1803,http://www.nuance.com,5047,,0.9,,MA
+954,"Matson, Inc.",MATX,Miscellaneous,Transportation,"Honolulu, HI",1411 Sand Island Pkwy.,,Matthew J. Cox,1.85,1925,1942,80.5,96819,http://www.matson.com,1370,,3,-21.8,HI
+955,"Popular, Inc.",BPOP,Commercial Banks,Financials,"Hato Rey, PR",209 Munoz Rivera Ave.,,Ignacio Alvarez,2.06,7828,1933,216.7,918,http://www.popular.com,4228,,-9,-75.8,PR
+956,"Alliance Holdings GP, L.P.",AHGP,"Mining, Crude-Oil Production",Energy,"Tulsa, OK",1717 S. Boulder Ave.,,Joseph W. Craft III,3.11,3324,1931,185.9,74119,http://www.ahgp.com,1642,,-15.1,-12,OK
+957,"REV Group, Inc.",REVG,Motor Vehicles and Parts,Motor Vehicles & Parts,"Milwaukee, WI",111 E. Kilbourn Ave.,,Timothy W. Sullivan,,6000,1926,30.2,53202,http://www.revgroup.com,1757,,11,32,WI
+958,Rexnord Corporation,RXN,Industrial Machinery,Industrials,"Milwaukee, WI",247 Freshwater Way,,Todd A. Adams,0.66,7700,1924,67.9,53204,http://www.rexnord.com,2387,,-7.7,-19,WI
+959,Cypress Semiconductor Corporation,CY,Semiconductors and Other Electronic Components,Technology,"San Jose, CA",198 Champion Court,,Hassane El-Khoury,-2.15,6546,1923,-686.3,95134,http://www.cypress.com,4512,,19.6,,CA
+960,Portland General Electric Company,POR,Utilities: Gas and Electric,Energy,"Portland, OR",121 S.W. Salmon St.,,James J. Piro,2.16,2752,1923,193,97204,http://www.portlandgeneral.com,3956,,1.3,12.2,OR
+961,"Ply Gem Holdings, Inc.",PGEM,"Building Materials, Glass",Materials,"Cary, NC",5020 Weston Pkwy.,,Gary E. Robinette,1.1,8975,1912,75.5,27513,http://www.plygem.com,1348,,3.9,133.8,NC
+962,"Cal-Maine Foods, Inc.",CALM,Food Production,"Food, Beverages & Tobacco","Jackson, MS",3320 Woodrow Wilson Ave.,,Adolphus B. Baker,6.53,3210,1909,316,39209,http://www.calmainefoods.com,1788,,21.1,96,MS
+963,"Alliance One International, Inc.",AOI,Tobacco,"Food, Beverages & Tobacco","Morrisville, NC",8001 Aerial Center Pkwy.,,J. Pieter Sikkel,7.38,5670,1905,65.5,27560,http://www.aointl.com,115,,-7.9,,NC
+964,"AMN Healthcare Services, Inc.",AMN,Health Care: Pharmacy and Other Services,Health Care,"San Diego, CA",12400 High Bluff Dr.,,Susan R. Salka,2.15,2990,1902,105.8,92130,http://www.amnhealthcare.com,1943,,30,29.2,CA
+965,American Greetings Corporation,,"Publishing, Printing",Media,"Cleveland, OH",1 American Rd.,,"Jeffrey M. Weiss, Zev Weiss",,17250,1901,129.8,44144,http://www.americangreetings.com,,,-5.5,99.4,OH
+966,"Blackhawk Network Holdings, Inc.",HAWK,Financial Data Services,Business Services,"Pleasanton, CA",6220 Stoneridge Mall Rd.,,Talbott Roche,0.08,3191,1900,4.7,94588,http://www.blackhawknetwork.com,2264,,5.5,-89.8,CA
+967,"Pier 1 Imports, Inc.",PIR,Specialty Retailers: Other,Retailing,"Fort Worth, TX",100 Pier 1 Place,,Alasdair James,0.46,13500,1892,39.6,76102,http://www.pier1.com,595,,1.4,-47.3,TX
+968,"The Finish Line, Inc.",FINL,Specialty Retailers: Apparel,Retailing,"Indianapolis, IN",3308 N. Mitthoeffer Rd.,,Samuel M. Sato,0.48,9300,1889,21.9,46235,http://www.finishline.com,577,,3.8,-73.3,IN
+969,BlueLinx Holdings Inc.,BXC,Wholesalers: Diversified,Wholesalers,"Atlanta, GA",4300 Wildwood Pkwy.,,Mitchell B. Lewis,1.77,1600,1881,16.1,30339,http://www.bluelinxco.com,82,,-1.9,,GA
+970,New Jersey Resources Corporation,NJR,Energy,Energy,"Wall, NJ",1415 Wyckoff Rd.,,Laurence M. Downes,1.52,1034,1881,131.7,7719,http://www.njresources.com,3418,,-31.2,-27.2,NJ
+971,Deckers Outdoor Corporation,DECK,Apparel,Apparel,"Goleta, CA",250 Coromar Dr.,,David Powers,3.7,3500,1875,122.3,93117,http://www.deckers.com,1908,,3.2,-24.4,CA
+972,Murphy Oil Corporation,MUR,"Mining, Crude-Oil Production",Energy,"El Dorado, AR",300 Peach St.,,Roger W. Jenkins,-1.6,1294,1874,-276,71730,http://www.murphyoilcorp.com,4933,,-45.1,,AR
+973,Teleflex Incorporated,TFX,Medical Products and Equipment,Health Care,"Wayne, PA",550 E. Swedesford Rd.,,Benson F. Smith,4.98,12600,1868,237.4,19087,http://www.teleflex.com,8710,,3.2,-3.1,PA
+974,"Par Pacific Holdings, Inc.",PARR,Petroleum Refining,Energy,"Houston, TX",800 Gessner Rd.,,William C. Pate,-1.08,863,1865,-45.8,77024,http://www.parpacific.com,751,,-9.7,,TX
+975,SL Green Realty Corp.,SLG,Real Estate,Financials,"New York, NY",420 Lexington Ave.,,Marc Holliday,2.34,1075,1864,261.1,10170,http://www.slgreen.com,10724,,12.1,-10.3,NY
+976,GMS Inc.,GMS,Wholesalers: Diversified,Wholesalers,"Tucker, GA",100 Crescent Centre Pkwy.,,G. Michael Callahan,,3934,1858,12.6,30084,http://www.gms.com,1435,,18.3,,GA
+977,"CoreCivic, Inc.",CXW,Miscellaneous,Business Services,"Nashville, TN",10 Burton Hills Blvd.,0,,0,0,0,0,,,0,0,0,0,
+978,Deluxe Corporation,DLX,"Publishing, Printing",Media,"Shoreview, MN",3680 Victoria St. N.,0,,0,0,0,0,,,0,0,0,0,
+979,"Catalent, Inc.",CTLT,Pharmaceuticals,Health Care,"Somerset, NJ",14 Schoolhouse Rd.,,John R. Chiminski,0.89,9200,1848,111.5,8873,http://www.catalent.com,3534,,0.9,-47.5,NJ
+980,GoDaddy Inc.,GDDY,Internet Services and Retailing,Technology,"Scottsdale, AZ",14455 N. Hayden Rd.,,Blake J. Irving,-0.21,4749,1848,-16.5,85260,http://www.godaddy.com,6370,,15,,AZ
+981,Wabash National Corporation,WNC,Motor Vehicles and Parts,Motor Vehicles & Parts,"Lafayette, IN",1000 Sagamore Pkwy. S.,,Richard J. Giromini,1.82,5100,1845,119.4,47905,http://www.wabashnational.com,1241,,-9,14.5,IN
+982,Adtalem Global Education,ATGE,Education,Business Services,"Downers Grove, IL",3005 Highland Pkwy.,,Lisa W. Wardell,-0.05,11883,1844,-3.2,60515,http://www.adtalem.com,2229,,-3.5,-102.3,IL
+983,United Refining Company,,Petroleum Refining,Energy,"Warren, PA",15 Bradley St.,,John A. Catsimatidis,,3109,1841,-6.4,16365,http://www.urc.com,,,-25.5,-107.8,PA
+984,"Allison Transmission Holdings, Inc.",ALSN,Motor Vehicles and Parts,Motor Vehicles & Parts,"Indianapolis, IN",1 Allison Way,,Lawrence E. Dewey,1.27,2600,1840,214.9,46222,http://www.allisontransmission.com,5475,,-7.3,17.9,IN
+985,"Atlas Air Worldwide Holdings, Inc.",AAWW,Transportation and Logistics,Transportation,"Purchase, NY",2000 Westchester Ave.,,William J. Flynn,1.65,2646,1840,41.5,10577,http://www.atlasair.com,1393,,0.9,469.8,NY
+986,ResMed Inc.,RMD,Medical Products and Equipment,Health Care,"San Diego, CA",9001 Spectrum Center Blvd.,,Michael J. Farrell,2.49,5250,1839,352.4,92123,http://www.resmed.com,10195,,9.5,-0.1,CA
+987,"Delta Tucker Holdings, Inc.",,Aerospace and Defense,Aerospace & Defense,"McLean, VA",1700 Old Meadow Rd.,,George Krivo,,10700,1836,-54.1,22102,http://www.dyn-intl.com,,,-4.5,,VA
+988,"FleetCor Technologies, Inc.",FLT,Financial Data Services,Business Services,"Norcross, GA",5445 Triangle Pkwy.,0,,0,0,0,0,,,0,0,0,0,
+989,Central Garden & Pet Company,CENT,Household and Personal Products,Household Products,"Walnut Creek, CA",1340 Treat Blvd.,0,,0,0,0,0,,,0,0,0,0,
+990,"Beazer Homes USA, Inc.",BZH,Homebuilders,Engineering & Construction,"Atlanta, GA",1000 Abernathy Rd.,,Allan P. Merrill,0.15,1100,1822,4.7,30328,http://www.beazer.com,407,,11.9,-98.6,GA
+991,"New York Community Bancorp, Inc.",NYCB,Commercial Banks,Financials,"Westbury, NY",615 Merrick Ave.,,Joseph R. Ficalora,1.01,3487,1820,495.4,11590,http://www.mynycb.com,6824,,-4.3,,NY
+992,"Cadence Design Systems, Inc.",CDNS,Computer Software,Technology,"San Jose, CA",2655 Seely Ave.,,Lip-Bu Tan,0.7,7100,1816,203.1,95134,http://www.cadence.com,8775,,6.7,-19.5,CA
+993,Carpenter Technology Corporation,CRS,Metals,Materials,"Wyomissing, PA",2 Meridian Blvd.,,Tony R. Thene,0.23,4500,1813,11.3,19610,http://www.cartech.com,1743,,-18.6,-80.7,PA
+994,Marriott Vacations Worldwide Corporation,VAC,"Hotels, Casinos, Resorts","Hotels, Restaurants & Leisure","Orlando, FL",6649 Westwood Blvd.,,Stephen P. Weisz,4.83,11000,1811,137.3,32821,http://www.marriottvacationsworldwide.com,2712,,-0.1,11.8,FL
+995,"FTI Consulting, Inc.",FCN,Miscellaneous,Business Services,"Washington, DC",1101 K St. N.W.,,Steven H. Gunby,2.05,4718,1810,85.5,20005,http://www.fticonsulting.com,1696,,1.8,29.5,DC
+996,Nordson Corporation,NDSN,Industrial Machinery,Industrials,"Westlake, OH",28601 Clemens Rd.,,Michael F. Hilton,4.73,6127,1809,271.8,44145,http://www.nordson.com,7069,,7.1,28.8,OH
+997,Briggs & Stratton Corporation,BGG,Industrial Machinery,Industrials,"Wauwatosa, WI",12301 W. Wirth St.,,Todd J. Teske,0.6,5445,1809,26.6,53222,http://www.basco.com,961,,-4.5,-41.9,WI
+998,Kaman Corporation,KAMN,Wholesalers: Diversified,Wholesalers,"Bloomfield, CT",1332 Blue Hills Ave.,,Neal J. Keating,2.1,5265,1808,58.9,6002,http://www.kaman.com,1304,,1.9,-2.6,CT
+999,"Overstock.com, Inc.",OSTK,Internet Services and Retailing,Technology,"Midvale, UT",799 W. Coliseum Way,,Patrick M. Byrne,0.49,1800,1800,12.5,84047,http://www.overstock.com,440,,8.6,411.9,UT
+1000,Regis Corporation,RGS,Specialty Retailers: Other,Retailing,"Edina, MN",7201 Metro Blvd.,,Hugh E. Sawyer,-0.23,45000,1791,-11.3,55439,http://www.regiscorp.com,543,,-2.5,,MN
