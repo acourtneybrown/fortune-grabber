@@ -2,88 +2,96 @@
 # Fortune Global 500 grabber. Download and parse companies information
 
 # Import libraries
-from bs4 import BeautifulSoup
-import urllib2
-import json
-import re
-from urlparse import urljoin
-import unicodecsv
+# Same as the fortune1000.py. However some fields of eps and mktvalue are missing. I skipped it. :)
+# last checked : 8th September, 2017
 
-# Define class for companies
+from json import JSONDecodeError
+import urllib.request
+import json
+import csv
+
 class Company:
-    rank = 0
-    title = ""
+    ranking = 0
+    fullname = ""
     ticker = ""
     industry = ""
     sector = ""
-    hq_location = ""
+    hqlocation = ""
+    hqaddr = ""
     website = ""
-    years_on_list = 0
+    yearsonlist = 0
     ceo = ""
-    eps = 0
     employees = 0
+    fortune500rank = 0
     revenues = 0
+    revchange = 0.0
     profits = 0
-    img_url = ""
+    prftchange = 0.0
+    hqstate = ""
+    hqzip = ""
+    assets = 0
 
-# Global 500 graber function
 def grab():
-
     # Obtaining post id
-    data = urllib2.urlopen("http://fortune.com/global500/")
-    soup = BeautifulSoup(data,"html.parser")
-    postid = next(attr for attr in soup.body['class'] if attr.startswith('postid'))
-    postid = re.match(r'postid-(\d+)', postid).group(1)
-
     companies = []
 
     # Fetch for pages with data and process JSONs
-    for i in range(1,26):
-        page_url = "http://fortune.com/data/franchise-list/{postid}/{index}/".format(postid=postid,index=str(i))
-        page_data = json.load(urllib2.urlopen(page_url), encoding='utf-8')
+    for i in range(0, 500, 50):
+        page_url = "http://fortune.com/api/v2/list/2082743/expand/item/ranking/asc/{postid}/50/".format(postid=str(i))
 
-        # Process JSON data
-        for item in page_data["articles"]:
-            company = Company()
-            company.rank = item["rank"]
-            company.title = item["title"]
-            company.ticker = item["ticker_text"].upper()
-            company.industry = item["tables"]["Company Information"]["data"]["Industry"][0]
-            company.sector = item["tables"]["Company Information"]["data"]["Sector"][0]
-            company.hq_location = item["tables"]["Company Information"]["data"]["HQ Location"][0]
-            company.years_on_list = item["tables"]["Company Information"]["data"]["Years on List"][0]
-            company.ceo = item["tables"]["Company Information"]["data"]["CEO"][0]
-            company.employees = item["tables"]["Key Financials (last fiscal year)"]["data"]["Employees"][0]
-            company.revenues = item["tables"]["Key Financials (last fiscal year)"]["data"]["Revenues"][0]
-            company.profits = item["tables"]["Key Financials (last fiscal year)"]["data"]["Profits"][0]
+        try:
+            page_data = json.load(urllib.request.urlopen(page_url), encoding='utf-8')
 
-            if item["featured_image"] != "":
-                company.img_url = item["featured_image"]["src"]
+            for item in page_data["list-items"]:
+                company = Company()
+                try:
+                    company.ranking = item["meta"]["ranking"]
+                    company.fullname = item["meta"]["fullname"]
+                    company.ticker = item["meta"]["ticker"].upper()
+                    company.industry = item["meta"]["industry"]
+                    company.sector = item["meta"]["sector"]
+                    company.hqlocation = item["meta"]["hqlocation"]
+                    company.hqaddr = item["meta"]["hqaddr"]
+                    company.yearsonlist = item["meta"]["yearsonlist"]
+                    company.ceo = item["meta"]["ceo"]
+                    company.employees = item["meta"]["employees"]
+                    company.revenues = item["meta"]["revenues"]
+                    company.profits = item["meta"]["profits"]
+                    company.hqzip = item["meta"]["hqzip"]
+                    company.website = item["meta"]["website"]
+                    company.fortune500rank = item["meta"]["fortune500-rank"]
+                    company.revchange = item["meta"]["revchange"]
+                    company.prftchange = item["meta"]["prftchange"]
+                    company.hqstate = item["meta"]["hqstate"]
+                    company.assets = item["meta"]["assets"]
+                except KeyError:
+                    print("Keyerror has occurred for " + str(company.fullname))
 
-            # Parsing website link
-            s = BeautifulSoup(item["tables"]["Company Information"]["data"]["Website"][0],"html.parser")
-            company.website = s.a.get('href')
+                print(str(company.ranking) + ". " + str(company.fullname) + " ; " + str(company.ceo))
 
-            companies.append(company)
+                companies.append(company)
+        except JSONDecodeError:
+            print(str(i) + " to " + str(i+100) + " has JSONDecodeError.")
 
     return companies
+
 
 # Obtain companies
 companies = grab()
 
 # Saving to CSV
-f = open("output/global500.csv", "wt")
+f = open("global500.csv", "wt")
 
 try:
-    writer = unicodecsv.writer(f, encoding='utf-8')
-    writer.writerow( ("Rank", "Title", "Ticker", "Industry", "Sector", "HQ Location", "Years on list", "CEO", "EPS",
-    "Employees", "Revenues", "Profits", "Image URL", "Website") )
+    writer = csv.writer(f)
+    writer.writerow(["ranking", "full name", "ticker", "industry", "sector", "hq location", "hq address", "years on list", "ceo",
+                     "employees", "revenues", "profits", "hq zip", "website", "fortune 500 rank", "revenue change", "profit change", "assets","hq state"])
 
     for company in companies:
-
-        writer.writerow((company.rank, company.title, company.ticker, company.industry,
-        company.sector, company.hq_location, company.years_on_list, company.ceo, company.eps, company.employees,
-        company.revenues, company.profits, company.img_url, company.website))
+        writer.writerow([company.ranking, company.fullname, company.ticker, company.industry,
+                         company.sector, company.hqlocation, company.hqaddr, company.yearsonlist, company.ceo,
+                         company.employees, company.revenues, company.profits, company.hqzip, company.website,
+                         company.fortune500rank, company.revchange, company.prftchange, company.assets, company.hqstate])
 
 finally:
     f.close()
