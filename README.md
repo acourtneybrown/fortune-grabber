@@ -7,13 +7,12 @@ I used Python 3.6 with anaconda(updated). I have also updated the files in the o
 In this repository you can find scripts for obtaining [Fortune 1000](http://fortune.com/fortune500/) and [Global 500](http://fortune.com/global500/) companies lists and their data outputs. Scripts downloading and parsing information from the official site.
 
 ## Installation
- You should have Python 2.7 installed. In folder with cloned repository please run:
+ You should have Python 3.6 installed. In folder with cloned repository please run:
  
  ```terminal
- -sudo pip install virtualenv
- 
- virtualenv env
- source env/bin/activate
+ python3 -m venv .venv
+
+ . .venv/bin/activate
  
  pip install -r requirements.txt
  ```
@@ -23,7 +22,7 @@ In this repository you can find scripts for obtaining [Fortune 1000](http://fort
  ## Usage
  Don't forget to activate virtualenv if it isn't already done. To do that run:
  ```terminal
- source env/bin/activate
+ . .venv/bin/activate
  ```
  
  To obtain Fortune 1000 companies list please run the following. This will generate csv file in output folder.
