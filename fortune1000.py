@@ -38,16 +38,23 @@ def main():
         os.makedirs(dirName)
 
     for company in companies:
-        with open(f"{dirName}/{company.rank:04}-{company.name}", "wt") as outfile:
+        with open(f"{dirName}/{company.rank:04}-{company.name}.json", "wt") as outfile:
             json.dump(company.item, outfile)
 
 
 def grab(year):
-    # Obtaining post id
-    data = urllib.request.urlopen(f"http://fortune.com/fortune500/{year}/")
-    soup = BeautifulSoup(data,"html.parser")
-    postid = next(attr for attr in soup.body['class'] if attr.startswith('postid'))
-    postid = re.match(r'postid-(\d+)', postid).group(1)
+    # TODO: Figure out how to get these postids from /fortune500/{year}
+    known_postids = {'2015': '1141696', '2016': '1666518', '2017': '2358051'}
+
+    if year in known_postids:
+        postid = known_postids[year]
+    else:
+        # Obtaining post id
+        data = urllib.request.urlopen(f"http://fortune.com/fortune500/{year}/")
+        soup = BeautifulSoup(data,"html.parser")
+        postid = next(attr for attr in soup.body['class'] if attr.startswith('postid'))
+        postid = re.match(r'postid-(\d+)', postid).group(1)
+
     companies = []
 
     # Fetch for pages with data and process JSONs
